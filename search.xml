@@ -1,111 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>PMP学习第二课-价值交付系统</title>
-    <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<div class="video-container">[]</div>
-<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p>
-<p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p>
-<p>项目没有优先级吗？-&gt;没有明确的说明</p>
-<p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p>
-<p>公司要有战略：</p>
-<p>项目组合管理-&gt;关注价值实现</p>
-<ul>
-<li>做正确的“事”</li>
-<li>自由优先级分配</li>
-</ul>
-<p>项目集管理-&gt;关注收益实现</p>
-<ul>
-<li>关联项目管理</li>
-</ul>
-<p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p>
-<ul>
-<li>单个项目管理</li>
-</ul>
-<p>组织项目管理-&gt;组织驱动因素</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.04.29.png"></p>
-<h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​	组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p>
-<ul>
-<li>打通壁垒</li>
-<li>交付战略</li>
-<li>实现价值</li>
-</ul>
-<ol>
-<li>项目、项目集和项目组合管理都要为组织战略服务</li>
-<li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li>
-<li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li>
-<li>战略与战术</li>
-</ol>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.18.49.png"></p>
-<h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol>
-<li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li>
-<li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li>
-<li>不同干系人对于价值的理解可能具有一定的主观性</li>
-<li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li>
-</ol>
-<h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol>
-<li>一组相互关联且被协调管理的项目</li>
-<li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li>
-<li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li>
-<li>项目集管理重点关注项目间的依赖关系</li>
-<li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li>
-<li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li>
-<li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li>
-</ol>
-<h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul>
-<li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li>
-<li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li>
-<li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li>
-<li>项日组合的业务范围随组织战略目标的变化而变化</li>
-<li>做正确的事</li>
-</ul>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.19.16.png"></p>
-<h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul>
-<li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li>
-<li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li>
-</ul>
-<h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul>
-<li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li>
-<li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li>
-<li>这个框架会影响：<ol>
-<li>组织目标的设定和实现方式</li>
-<li>风险监控和评估方式</li>
-<li>绩效优化方式</li>
-</ol>
-</li>
-<li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li>
-<li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li>
-</ul>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.45.18.png"></p>
-]]></content>
-      <categories>
-        <category>PMP</category>
-      </categories>
-      <tags>
-        <tag>PMP</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2025/02/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>PMP学习第一课-引论</title>
     <url>/2025/02/10/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%BC%95%E8%AE%BA/</url>
     <content><![CDATA[<div class="video-container">[]</div>
@@ -199,6 +94,111 @@
 <h3 id="4-3-项目经理与组织的交互"><a href="#4-3-项目经理与组织的交互" class="headerlink" title="4.3 项目经理与组织的交互"></a>4.3 项目经理与组织的交互</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.09.52.png"></p>
 <h3 id="4-4-项目经理的能力-项目管理人才三角"><a href="#4-4-项目经理的能力-项目管理人才三角" class="headerlink" title="4.4 项目经理的能力-项目管理人才三角"></a>4.4 项目经理的能力-项目管理人才三角</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.12.21.png"></p>
 <h3 id="4-5-运营与项目管理"><a href="#4-5-运营与项目管理" class="headerlink" title="4.5 运营与项目管理"></a>4.5 运营与项目管理</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.13.52.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.14.40.png"></p>
+]]></content>
+      <categories>
+        <category>PMP</category>
+      </categories>
+      <tags>
+        <tag>PMP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/02/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>PMP学习第二课-价值交付系统</title>
+    <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p>
+<p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p>
+<p>项目没有优先级吗？-&gt;没有明确的说明</p>
+<p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p>
+<p>公司要有战略：</p>
+<p>项目组合管理-&gt;关注价值实现</p>
+<ul>
+<li>做正确的“事”</li>
+<li>自由优先级分配</li>
+</ul>
+<p>项目集管理-&gt;关注收益实现</p>
+<ul>
+<li>关联项目管理</li>
+</ul>
+<p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p>
+<ul>
+<li>单个项目管理</li>
+</ul>
+<p>组织项目管理-&gt;组织驱动因素</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.04.29.png"></p>
+<h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​	组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p>
+<ul>
+<li>打通壁垒</li>
+<li>交付战略</li>
+<li>实现价值</li>
+</ul>
+<ol>
+<li>项目、项目集和项目组合管理都要为组织战略服务</li>
+<li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li>
+<li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li>
+<li>战略与战术</li>
+</ol>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.18.49.png"></p>
+<h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol>
+<li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li>
+<li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li>
+<li>不同干系人对于价值的理解可能具有一定的主观性</li>
+<li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li>
+</ol>
+<h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol>
+<li>一组相互关联且被协调管理的项目</li>
+<li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li>
+<li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li>
+<li>项目集管理重点关注项目间的依赖关系</li>
+<li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li>
+<li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li>
+<li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li>
+</ol>
+<h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul>
+<li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li>
+<li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li>
+<li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li>
+<li>项日组合的业务范围随组织战略目标的变化而变化</li>
+<li>做正确的事</li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.19.16.png"></p>
+<h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul>
+<li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li>
+<li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li>
+</ul>
+<h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul>
+<li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li>
+<li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li>
+<li>这个框架会影响：<ol>
+<li>组织目标的设定和实现方式</li>
+<li>风险监控和评估方式</li>
+<li>绩效优化方式</li>
+</ol>
+</li>
+<li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li>
+<li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.45.18.png"></p>
 ]]></content>
       <categories>
         <category>PMP</category>
