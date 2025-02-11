@@ -1,120 +1,514 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>PMP学习第二课-价值交付系统</title>
-      <link href="/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/"/>
-      <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
-      
-        <content type="html"><![CDATA[<div class="video-container">[]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p><p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p><p>项目没有优先级吗？-&gt;没有明确的说明</p><p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p><p>公司要有战略：</p><p>项目组合管理-&gt;关注价值实现</p><ul><li>做正确的“事”</li><li>自由优先级分配</li></ul><p>项目集管理-&gt;关注收益实现</p><ul><li>关联项目管理</li></ul><p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p><ul><li>单个项目管理</li></ul><p>组织项目管理-&gt;组织驱动因素</p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.04.29.png"></p><h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p><ul><li>打通壁垒</li><li>交付战略</li><li>实现价值</li></ul><ol><li>项目、项目集和项目组合管理都要为组织战略服务</li><li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li><li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li><li>战略与战术</li></ol><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.18.49.png"></p><h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol><li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li><li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li><li>不同干系人对于价值的理解可能具有一定的主观性</li><li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li></ol><h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol><li>一组相互关联且被协调管理的项目</li><li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li><li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li><li>项目集管理重点关注项目间的依赖关系</li><li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li><li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li><li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li></ol><h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul><li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li><li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li><li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li><li>项日组合的业务范围随组织战略目标的变化而变化</li><li>做正确的事</li></ul><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.19.16.png"></p><h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul><li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li><li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li></ul><h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul><li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li><li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li><li>这个框架会影响：<ol><li>组织目标的设定和实现方式</li><li>风险监控和评估方式</li><li>绩效优化方式</li></ol></li><li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li><li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li></ul><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.45.18.png"></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>PMP学习第二课-价值交付系统</title>
+    <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p>
+<p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p>
+<p>项目没有优先级吗？-&gt;没有明确的说明</p>
+<p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p>
+<p>公司要有战略：</p>
+<p>项目组合管理-&gt;关注价值实现</p>
+<ul>
+<li>做正确的“事”</li>
+<li>自由优先级分配</li>
+</ul>
+<p>项目集管理-&gt;关注收益实现</p>
+<ul>
+<li>关联项目管理</li>
+</ul>
+<p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p>
+<ul>
+<li>单个项目管理</li>
+</ul>
+<p>组织项目管理-&gt;组织驱动因素</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.04.29.png"></p>
+<h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​	组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p>
+<ul>
+<li>打通壁垒</li>
+<li>交付战略</li>
+<li>实现价值</li>
+</ul>
+<ol>
+<li>项目、项目集和项目组合管理都要为组织战略服务</li>
+<li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li>
+<li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li>
+<li>战略与战术</li>
+</ol>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.18.49.png"></p>
+<h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol>
+<li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li>
+<li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li>
+<li>不同干系人对于价值的理解可能具有一定的主观性</li>
+<li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li>
+</ol>
+<h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol>
+<li>一组相互关联且被协调管理的项目</li>
+<li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li>
+<li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li>
+<li>项目集管理重点关注项目间的依赖关系</li>
+<li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li>
+<li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li>
+<li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li>
+</ol>
+<h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul>
+<li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li>
+<li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li>
+<li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li>
+<li>项日组合的业务范围随组织战略目标的变化而变化</li>
+<li>做正确的事</li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.19.16.png"></p>
+<h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul>
+<li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li>
+<li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li>
+</ul>
+<h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul>
+<li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li>
+<li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li>
+<li>这个框架会影响：<ol>
+<li>组织目标的设定和实现方式</li>
+<li>风险监控和评估方式</li>
+<li>绩效优化方式</li>
+</ol>
+</li>
+<li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li>
+<li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.45.18.png"></p>
+]]></content>
       <categories>
-          
-          <category> PMP </category>
-          
+        <category>PMP</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> PMP </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>PMP学习第一课-引论</title>
-      <link href="/2025/02/10/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%BC%95%E8%AE%BA/"/>
-      <url>/2025/02/10/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%BC%95%E8%AE%BA/</url>
-      
-        <content type="html"><![CDATA[<div class="video-container">[]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><h1 id="引论"><a href="#引论" class="headerlink" title="引论"></a>引论</h1><h2 id="1-调查结果"><a href="#1-调查结果" class="headerlink" title="1.调查结果"></a>1.调查结果</h2><h2 id="2-项目管理整体思路"><a href="#2-项目管理整体思路" class="headerlink" title="2.项目管理整体思路"></a>2.项目管理整体思路</h2><ul><li>管事 过程 50%</li><li>理人 人员 42%<ol><li>管理冲突</li><li>领导团队</li><li>支持团队绩效</li><li>授权团队成员</li></ol></li><li>业务环境 8%</li></ul><p>第7版内容：<em><strong>价值、原则、绩效域</strong></em></p><p>项目管理协会职业道德与专业行为规范</p><ul><li><p><strong>责任，尊重、公正、诚实</strong></p></li><li><p>指导<strong>单个</strong>项目如何完成</p><p>项目集，项目组合、组织级项目管理：参考其他标准</p></li></ul><h2 id="3-项目的概念"><a href="#3-项目的概念" class="headerlink" title="3.项目的概念"></a>3.项目的概念</h2><p>为创造<strong>独特</strong>的<strong>产品</strong>、<strong>服务或成果</strong>而进行的<strong>临时性</strong>工作</p><p><strong>有始有终</strong>的就算上项目   项目具有独特性、临时性、渐进明细性（区别于范围潜变《范围蔓延》）滚动规划</p><p>eg：录制一个5分钟视频、跟下属分配一件事情、培养孩子上大学、旅游、约会</p><p>终点模糊的不算项目 运营：重复性，持续性</p><p>eg：财务管理工作、流水线生产、每天例行检查</p><h3 id="3-1-项目管理"><a href="#3-1-项目管理" class="headerlink" title="3.1 项目管理"></a>3.1 项目管理</h3><ul><li><p><strong>知识、技能、工具与技术</strong>应用于<strong>管理活动和领导力</strong>，以瞒住项目的要求</p></li><li><p>项目管理通过合理于整合特点项目所需的项目管理过程得以实现</p></li><li><p>项目管理的重点和难点：平衡制约，实现价值</p></li></ul><h3 id="3-2-项目管理的四个层次"><a href="#3-2-项目管理的四个层次" class="headerlink" title="3.2 项目管理的四个层次"></a>3.2 项目管理的四个层次</h3><ul><li><p><strong>分解</strong> 复杂的事情简单化</p></li><li><p><strong>临界值</strong> 简单的事情量化</p></li><li><p><strong>规律</strong> 量化的事情专业化</p></li><li><p><strong>框架模版</strong>（ITO） 专业的事情模版化</p><p><img src="https://blog.950320.us.kg/PicGo/.2025-02-1002.png"></p></li></ul><h3 id="3-3-项目的制约因素"><a href="#3-3-项目的制约因素" class="headerlink" title="3.3 项目的制约因素"></a>3.3 项目的制约因素</h3><p>范围、进度、成本</p><p><img src="https://blog.950320.us.kg/PicGo/.2025-02101.png"></p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.22.26.png"></p><h3 id="3-4-项目启动背景"><a href="#3-4-项目启动背景" class="headerlink" title="3.4 项目启动背景"></a>3.4 项目启动背景</h3><ul><li>执行、变更业务或技术战略 <strong>公司</strong></li><li>满足干系人的要求或需求 <strong>个人</strong></li><li>符合法律、法规或社会要求 <strong>法律</strong></li><li>创造、改进或修复过程或服务 <strong>创新</strong></li></ul><h3 id="3-5-项目的作用"><a href="#3-5-项目的作用" class="headerlink" title="3.5 项目的作用"></a>3.5 项目的作用</h3><p>项目代理的收益可以上有型的、无形的或两者兼有之</p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.30.08.png"></p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.28.31.png"></p><p>Pmbook第6版本 项目管理的十大知识领域</p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.31.49.png"></p><p>项目管理的五大过程组</p><p>启动、规划、执行、监控、收尾</p><p>监控过程组贯穿始终。</p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.33.23.png"></p><p>第7版本 核心内容、价值、原则、绩效域</p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.41.38.png"></p><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.42.13.png"></p><h2 id="4-引论大纲"><a href="#4-引论大纲" class="headerlink" title="4.引论大纲"></a>4.引论大纲</h2><p>加粗的上重点！</p><p>八大绩效域</p><ul><li>项目价值交付系统</li><li>项目管理整体原则</li><li>干系人绩效域</li><li>团队绩效域</li><li>开发方法与生命周期绩效域</li><li>交付绩效域</li><li><strong>规划绩效域</strong></li><li>项目工作绩效域</li><li><strong>测量绩效域</strong> </li><li>不确定绩效域</li><li>适应型（敏捷）生命周期内容补充</li></ul><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.04.54.png"></p><h3 id="4-1-项目经理的定义"><a href="#4-1-项目经理的定义" class="headerlink" title="4.1 项目经理的定义"></a>4.1 项目经理的定义</h3><p>项目经理-执行组织委派、领导团队实现项目目标的个人</p><p>职能经理-专注于某个职能领域或业务单元的管理和监督</p><p>运营经理-负责保障业务运营的高效性</p><h3 id="4-2-项目经理对项目的影响"><a href="#4-2-项目经理对项目的影响" class="headerlink" title="4.2 项目经理对项目的影响"></a>4.2 项目经理对项目的影响</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.08.58.png"></p><h3 id="4-3-项目经理与组织的交互"><a href="#4-3-项目经理与组织的交互" class="headerlink" title="4.3 项目经理与组织的交互"></a>4.3 项目经理与组织的交互</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.09.52.png"></p><h3 id="4-4-项目经理的能力-项目管理人才三角"><a href="#4-4-项目经理的能力-项目管理人才三角" class="headerlink" title="4.4 项目经理的能力-项目管理人才三角"></a>4.4 项目经理的能力-项目管理人才三角</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.12.21.png"></p><h3 id="4-5-运营与项目管理"><a href="#4-5-运营与项目管理" class="headerlink" title="4.5 运营与项目管理"></a>4.5 运营与项目管理</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.13.52.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.14.40.png"></p>]]></content>
-      
-      
+      <tags>
+        <tag>PMP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/02/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>PMP学习第一课-引论</title>
+    <url>/2025/02/10/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%BC%95%E8%AE%BA/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="引论"><a href="#引论" class="headerlink" title="引论"></a>引论</h1><h2 id="1-调查结果"><a href="#1-调查结果" class="headerlink" title="1.调查结果"></a>1.调查结果</h2><h2 id="2-项目管理整体思路"><a href="#2-项目管理整体思路" class="headerlink" title="2.项目管理整体思路"></a>2.项目管理整体思路</h2><ul>
+<li>管事 过程 50%</li>
+<li>理人 人员 42%<ol>
+<li>管理冲突</li>
+<li>领导团队</li>
+<li>支持团队绩效</li>
+<li>授权团队成员</li>
+</ol>
+</li>
+<li>业务环境 8%</li>
+</ul>
+<p>第7版内容：<em><strong>价值、原则、绩效域</strong></em></p>
+<p>项目管理协会职业道德与专业行为规范</p>
+<ul>
+<li><p><strong>责任，尊重、公正、诚实</strong></p>
+</li>
+<li><p>指导<strong>单个</strong>项目如何完成</p>
+<p>项目集，项目组合、组织级项目管理：参考其他标准</p>
+</li>
+</ul>
+<h2 id="3-项目的概念"><a href="#3-项目的概念" class="headerlink" title="3.项目的概念"></a>3.项目的概念</h2><p>为创造<strong>独特</strong>的<strong>产品</strong>、<strong>服务或成果</strong>而进行的<strong>临时性</strong>工作</p>
+<p><strong>有始有终</strong>的就算上项目   项目具有独特性、临时性、渐进明细性（区别于范围潜变《范围蔓延》）滚动规划</p>
+<p>eg：录制一个5分钟视频、跟下属分配一件事情、培养孩子上大学、旅游、约会</p>
+<p>终点模糊的不算项目 运营：重复性，持续性</p>
+<p>eg：财务管理工作、流水线生产、每天例行检查</p>
+<h3 id="3-1-项目管理"><a href="#3-1-项目管理" class="headerlink" title="3.1 项目管理"></a>3.1 项目管理</h3><ul>
+<li><p><strong>知识、技能、工具与技术</strong>应用于<strong>管理活动和领导力</strong>，以瞒住项目的要求</p>
+</li>
+<li><p>项目管理通过合理于整合特点项目所需的项目管理过程得以实现</p>
+</li>
+<li><p>项目管理的重点和难点：平衡制约，实现价值</p>
+</li>
+</ul>
+<h3 id="3-2-项目管理的四个层次"><a href="#3-2-项目管理的四个层次" class="headerlink" title="3.2 项目管理的四个层次"></a>3.2 项目管理的四个层次</h3><ul>
+<li><p><strong>分解</strong> 复杂的事情简单化</p>
+</li>
+<li><p><strong>临界值</strong> 简单的事情量化</p>
+</li>
+<li><p><strong>规律</strong> 量化的事情专业化</p>
+</li>
+<li><p><strong>框架模版</strong>（ITO） 专业的事情模版化</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.2025-02-1002.png"></p>
+</li>
+</ul>
+<h3 id="3-3-项目的制约因素"><a href="#3-3-项目的制约因素" class="headerlink" title="3.3 项目的制约因素"></a>3.3 项目的制约因素</h3><p>范围、进度、成本</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.2025-02101.png"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.22.26.png"></p>
+<h3 id="3-4-项目启动背景"><a href="#3-4-项目启动背景" class="headerlink" title="3.4 项目启动背景"></a>3.4 项目启动背景</h3><ul>
+<li>执行、变更业务或技术战略 <strong>公司</strong></li>
+<li>满足干系人的要求或需求 <strong>个人</strong></li>
+<li>符合法律、法规或社会要求 <strong>法律</strong></li>
+<li>创造、改进或修复过程或服务 <strong>创新</strong></li>
+</ul>
+<h3 id="3-5-项目的作用"><a href="#3-5-项目的作用" class="headerlink" title="3.5 项目的作用"></a>3.5 项目的作用</h3><p>项目代理的收益可以上有型的、无形的或两者兼有之</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.30.08.png"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.28.31.png"></p>
+<p>Pmbook第6版本 项目管理的十大知识领域</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.31.49.png"></p>
+<p>项目管理的五大过程组</p>
+<p>启动、规划、执行、监控、收尾</p>
+<p>监控过程组贯穿始终。</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.33.23.png"></p>
+<p>第7版本 核心内容、价值、原则、绩效域</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.41.38.png"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.42.13.png"></p>
+<h2 id="4-引论大纲"><a href="#4-引论大纲" class="headerlink" title="4.引论大纲"></a>4.引论大纲</h2><p>加粗的上重点！</p>
+<p>八大绩效域</p>
+<ul>
+<li>项目价值交付系统</li>
+<li>项目管理整体原则</li>
+<li>干系人绩效域</li>
+<li>团队绩效域</li>
+<li>开发方法与生命周期绩效域</li>
+<li>交付绩效域</li>
+<li><strong>规划绩效域</strong></li>
+<li>项目工作绩效域</li>
+<li><strong>测量绩效域</strong> </li>
+<li>不确定绩效域</li>
+<li>适应型（敏捷）生命周期内容补充</li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.04.54.png"></p>
+<h3 id="4-1-项目经理的定义"><a href="#4-1-项目经理的定义" class="headerlink" title="4.1 项目经理的定义"></a>4.1 项目经理的定义</h3><p>项目经理-执行组织委派、领导团队实现项目目标的个人</p>
+<p>职能经理-专注于某个职能领域或业务单元的管理和监督</p>
+<p>运营经理-负责保障业务运营的高效性</p>
+<h3 id="4-2-项目经理对项目的影响"><a href="#4-2-项目经理对项目的影响" class="headerlink" title="4.2 项目经理对项目的影响"></a>4.2 项目经理对项目的影响</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.08.58.png"></p>
+<h3 id="4-3-项目经理与组织的交互"><a href="#4-3-项目经理与组织的交互" class="headerlink" title="4.3 项目经理与组织的交互"></a>4.3 项目经理与组织的交互</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.09.52.png"></p>
+<h3 id="4-4-项目经理的能力-项目管理人才三角"><a href="#4-4-项目经理的能力-项目管理人才三角" class="headerlink" title="4.4 项目经理的能力-项目管理人才三角"></a>4.4 项目经理的能力-项目管理人才三角</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.12.21.png"></p>
+<h3 id="4-5-运营与项目管理"><a href="#4-5-运营与项目管理" class="headerlink" title="4.5 运营与项目管理"></a>4.5 运营与项目管理</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.13.52.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.14.40.png"></p>
+]]></content>
       <categories>
-          
-          <category> PMP </category>
-          
+        <category>PMP</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> PMP </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hexo-blog美化</title>
-      <link href="/2025/02/08/hexo-blog%E7%BE%8E%E5%8C%96/"/>
-      <url>/2025/02/08/hexo-blog%E7%BE%8E%E5%8C%96/</url>
-      
-        <content type="html"><![CDATA[<div class="video-container">[]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><h1 id="美化Hexo博客，主题安装配置"><a href="#美化Hexo博客，主题安装配置" class="headerlink" title="美化Hexo博客，主题安装配置"></a>美化Hexo博客，主题安装配置</h1><p>这期教程演示将使用一款基于<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a>修改的主題-<strong>安知鱼</strong>，安知鱼是一个简洁、美丽的静态hexo主题</p><p><strong>项目地址</strong>：<a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu">https://github.com/anzhiyu-c/hexo-theme-anzhiyu</a><br><strong>官方文档</strong>：<a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a></p><hr><h2 id="1-安装主题"><a href="#1-安装主题" class="headerlink" title="1.安装主题"></a>1.安装主题</h2><h3 id="1-1-Git-安裝"><a href="#1-1-Git-安裝" class="headerlink" title="1.1. Git 安裝"></a>1.1. Git 安裝</h3><p>在博客根目录里安装最新版主题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu</span><br></pre></td></tr></table></figure><p>第一次使用需要安装 pug 以及 stylus 的渲染器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h3 id="1-2-应用主题"><a href="#1-2-应用主题" class="headerlink" title="1.2. 应用主题"></a>1.2. 应用主题</h3><p>修改 hexo 配置文件<code>_config.yml</code>，把主题改为<code>anzhiyu</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">plaintext</span><br><span class="line">theme: anzhiyu</span><br></pre></td></tr></table></figure><h3 id="1-3-覆盖配置"><a href="#1-3-覆盖配置" class="headerlink" title="1.3. 覆盖配置"></a>1.3. 覆盖配置</h3><p>覆盖配置可以使<code>主题配置</code>放置在 anzhiyu 目录之外，避免在更新主题时丢失自定义的配置。</p><p>如果你是<strong>linux系统</strong>就执行以下命令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">bash</span><br><span class="line">cp -rf ./themes/anzhiyu/_config.yml ./_config.anzhiyu.yml</span><br></pre></td></tr></table></figure><p>如果你是<strong>windows系统</strong>就请手动将<code>/themes/anzhiyu/_config.yml</code>复制到根目录下并重命名为<code>_config.anzhiyu.yml</code>即可。</p><p>以后如果修改任何主题配置，都只需修改 <code>_config.anzhiyu.yml</code> 的配置即可。</p><p>注意：</p><ul><li>只要存在于 <code>_config.anzhiyu.yml</code> 的配置都是高优先级，修改原 <code>_config.yml</code> 是无效的。</li><li>每次更新主题可能存在配置变更，请注意更新说明，可能需要手动对 <code>_config.anzhiyu.yml</code> 同步修改。</li><li>想查看覆盖配置有没有生效，可以通过 <code>hexo g --debug</code> 查看命令行输出。</li><li>如果想将某些配置覆盖为空，注意不要把主键删掉，不然是无法覆盖的</li></ul><h3 id="1-4-配置主题与主站配置文件"><a href="#1-4-配置主题与主站配置文件" class="headerlink" title="1.4. 配置主题与主站配置文件"></a>1.4. 配置主题与主站配置文件</h3><p>到这一步主题部署就完成了，<strong>就是这么简单！！！</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">//本地预览</span><br><span class="line">hexo cl; hexo s</span><br><span class="line"></span><br><span class="line">//推送更新上线</span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure><h3 id="1-5-生成标签页和分类页"><a href="#1-5-生成标签页和分类页" class="headerlink" title="1.5. 生成标签页和分类页"></a>1.5. 生成标签页和分类页</h3><p>执行以下命令生成标签页</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page tags</span><br></pre></td></tr></table></figure><p>找到 <code>source/tags/index.md</code> 这个文件，修改添加 <code>type: &quot;tags&quot;</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 标签</span><br><span class="line">date: 2024-07-05 03:36:02</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">comments: false</span><br><span class="line">top_img: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>执行以下命令生成分类页</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page categories</span><br></pre></td></tr></table></figure><p>找到 <code>source/categories/index.md</code> 这个文件，修改添加 <code>type: &quot;categories&quot;</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 分类</span><br><span class="line">date: 2024-07-05 03:36:48</span><br><span class="line">aside: false</span><br><span class="line">top_img: false</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>剩下的工作就是配置<code>_config.yml</code>和<code>_config.anzhiyu.yml</code>文件，修改博客参数。</p><hr><h2 id="2-配置文章模版"><a href="#2-配置文章模版" class="headerlink" title="2. 配置文章模版"></a>2. 配置文章模版</h2><p><code>/scaffolds</code>目录下有几个模版文件，其中</p><ul><li><strong>post.md</strong>：新建博文模版</li><li><strong>page.md</strong>：新建标签页模版</li></ul><h3 id="post-md模版，仅供参考"><a href="#post-md模版，仅供参考" class="headerlink" title="post.md模版，仅供参考"></a><strong>post.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br></pre></td><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">tags: #【可选】文章标签</span><br><span class="line">categories: #【可选】文章分类</span><br><span class="line">keywords: #【可选】文章关键字</span><br><span class="line">description: #【可选】文章描述</span><br><span class="line">top: # 1 置顶</span><br><span class="line">top_img: #【可选】文章顶部图片</span><br><span class="line">comments: #【可选】显示文章评论模块(默认 true)</span><br><span class="line">cover: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)</span><br><span class="line">toc: #【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)</span><br><span class="line">toc_number: #【可选】显示 toc_number(默认为设置中 toc 的 number 配置)</span><br><span class="line">toc_style_simple: #【可选】显示 toc 简洁模式</span><br><span class="line">copyright: #【可选】显示文章版权模块(默认为设置中 post_copyright 的 enable 配置)</span><br><span class="line">copyright_author: #【可选】文章版权模块的文章作者</span><br><span class="line">copyright_author_href: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_url: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_info: #【可选】文章版权模块的版权声明文字</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">swiper_index: 10 #【可选】首页轮播图配置 index 索引，数字越小越靠前</span><br><span class="line">top_group_index: 10 #【可选】首页右侧卡片组配置, 数字越小越靠前</span><br><span class="line">ai: #【可选】文章ai摘要</span><br><span class="line">background: &quot;#fff&quot; #【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如#ffffff 不可写成#fff</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line">&lt;div class=&quot;video-container&quot;&gt;</span><br><span class="line">[up主专用，视频内嵌代码贴在这]</span><br><span class="line">&lt;/div&gt;</span><br><span class="line"></span><br><span class="line">&lt;style&gt;</span><br><span class="line">.video-container &#123;</span><br><span class="line">    position: relative;</span><br><span class="line">    width: 100%;</span><br><span class="line">    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">.video-container iframe &#123;</span><br><span class="line">    position: absolute;</span><br><span class="line">    top: 0;</span><br><span class="line">    left: 0;</span><br><span class="line">    width: 100%;</span><br><span class="line">    height: 100%;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure><h3 id="page-md模版，仅供参考"><a href="#page-md模版，仅供参考" class="headerlink" title="page.md模版，仅供参考"></a><strong>page.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">type: #【必需】标签、分类、关于、音乐馆、友情链接、相册、相册详情、朋友圈、即刻页面需要配置</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">comments: #【可选】显示页面评论模块(默认 true)</span><br><span class="line">description: #【可选】页面描述</span><br><span class="line">keywords: #【可选】页面关键字</span><br><span class="line">top_img: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】页面顶部图片</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">top_single_background: #【可选】部分页面的顶部模块背景图片</span><br><span class="line">---</span><br></pre></td></tr></table></figure><hr><h1 id="更多功能"><a href="#更多功能" class="headerlink" title="更多功能"></a>更多功能</h1><h2 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h2><h3 id="新建博文命令"><a href="#新建博文命令" class="headerlink" title="新建博文命令"></a>新建博文命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new 这是一篇新的博文</span><br></pre></td></tr></table></figure><h3 id="新建标签页命令"><a href="#新建标签页命令" class="headerlink" title="新建标签页命令"></a>新建标签页命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page 新建的标签页</span><br></pre></td></tr></table></figure><hr><h2 id="文章置顶"><a href="#文章置顶" class="headerlink" title="文章置顶"></a>文章置顶</h2><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-topindex --save</span><br></pre></td></tr></table></figure><h3 id="设置置顶"><a href="#设置置顶" class="headerlink" title="设置置顶"></a>设置置顶</h3><p>给需要置顶的文章加入top参数，如下：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">yml</span><br><span class="line">---</span><br><span class="line">title: 每天一个linux命令</span><br><span class="line">date: 2017-01-23 11:41:48</span><br><span class="line">top: 1</span><br><span class="line">categories:</span><br><span class="line">- 运维</span><br><span class="line">tags:</span><br><span class="line">- linux命令</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>如果存在多个置顶文章，top后的参数越大，越靠前。</p><hr><h2 id="开启本地搜索"><a href="#开启本地搜索" class="headerlink" title="开启本地搜索"></a>开启本地搜索</h2><h3 id="安装插件-1"><a href="#安装插件-1" class="headerlink" title="安装插件"></a>安装插件</h3><p>你需要安装 <a href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>，根据它的文档去做相应配置</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure><h3 id="设置主题配置文件"><a href="#设置主题配置文件" class="headerlink" title="设置主题配置文件"></a>设置主题配置文件</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">yml</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  preload: false</span><br><span class="line">  CDN:</span><br></pre></td></tr></table></figure><table><thead><tr><th>参数</th><th>解释</th></tr></thead><tbody><tr><td>enable</td><td>是否开启本地搜索</td></tr><tr><td>preload</td><td>预加载，开启后，进入网页后会自动加载搜索文件。关闭时，只有点击搜索按钮后，才会加载搜索文件</td></tr><tr><td>CDN</td><td>搜索文件的 CDN 地址（默认使用的本地链接）</td></tr></tbody></table><hr><h2 id="添加任意文件"><a href="#添加任意文件" class="headerlink" title="添加任意文件"></a>添加任意文件</h2><p>例如当我们想在网站根目录添加<code>ads.txt</code>文件，来通过站长验证时，我们只需要在<code>/source</code>文件夹下放置该文件即可。</p><hr><h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a><br><a href="https://www.fomal.cc/posts/4aa2d85f.html">https://www.fomal.cc/posts/4aa2d85f.html</a><br><a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1">https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1</a><br><a href="https://blog.csdn.net/COCO56/article/details/103840966">https://blog.csdn.net/COCO56/article/details/103840966</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>PMP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo-blog美化</title>
+    <url>/2025/02/08/hexo-blog%E7%BE%8E%E5%8C%96/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="美化Hexo博客，主题安装配置"><a href="#美化Hexo博客，主题安装配置" class="headerlink" title="美化Hexo博客，主题安装配置"></a>美化Hexo博客，主题安装配置</h1><p>这期教程演示将使用一款基于<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a>修改的主題-<strong>安知鱼</strong>，安知鱼是一个简洁、美丽的静态hexo主题</p>
+<p><strong>项目地址</strong>：<a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu">https://github.com/anzhiyu-c/hexo-theme-anzhiyu</a><br><strong>官方文档</strong>：<a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a></p>
+<hr>
+<h2 id="1-安装主题"><a href="#1-安装主题" class="headerlink" title="1.安装主题"></a>1.安装主题</h2><h3 id="1-1-Git-安裝"><a href="#1-1-Git-安裝" class="headerlink" title="1.1. Git 安裝"></a>1.1. Git 安裝</h3><p>在博客根目录里安装最新版主题</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu</span><br></pre></td></tr></table></figure>
+
+<p>第一次使用需要安装 pug 以及 stylus 的渲染器</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="1-2-应用主题"><a href="#1-2-应用主题" class="headerlink" title="1.2. 应用主题"></a>1.2. 应用主题</h3><p>修改 hexo 配置文件<code>_config.yml</code>，把主题改为<code>anzhiyu</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">theme: anzhiyu</span><br></pre></td></tr></table></figure>
+
+<h3 id="1-3-覆盖配置"><a href="#1-3-覆盖配置" class="headerlink" title="1.3. 覆盖配置"></a>1.3. 覆盖配置</h3><p>覆盖配置可以使<code>主题配置</code>放置在 anzhiyu 目录之外，避免在更新主题时丢失自定义的配置。</p>
+<p>如果你是<strong>linux系统</strong>就执行以下命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">bash</span><br><span class="line">cp -rf ./themes/anzhiyu/_config.yml ./_config.anzhiyu.yml</span><br></pre></td></tr></table></figure>
+
+<p>如果你是<strong>windows系统</strong>就请手动将<code>/themes/anzhiyu/_config.yml</code>复制到根目录下并重命名为<code>_config.anzhiyu.yml</code>即可。</p>
+<p>以后如果修改任何主题配置，都只需修改 <code>_config.anzhiyu.yml</code> 的配置即可。</p>
+<p>注意：</p>
+<ul>
+<li>只要存在于 <code>_config.anzhiyu.yml</code> 的配置都是高优先级，修改原 <code>_config.yml</code> 是无效的。</li>
+<li>每次更新主题可能存在配置变更，请注意更新说明，可能需要手动对 <code>_config.anzhiyu.yml</code> 同步修改。</li>
+<li>想查看覆盖配置有没有生效，可以通过 <code>hexo g --debug</code> 查看命令行输出。</li>
+<li>如果想将某些配置覆盖为空，注意不要把主键删掉，不然是无法覆盖的</li>
+</ul>
+<h3 id="1-4-配置主题与主站配置文件"><a href="#1-4-配置主题与主站配置文件" class="headerlink" title="1.4. 配置主题与主站配置文件"></a>1.4. 配置主题与主站配置文件</h3><p>到这一步主题部署就完成了，<strong>就是这么简单！！！</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">//本地预览</span><br><span class="line">hexo cl; hexo s</span><br><span class="line"></span><br><span class="line">//推送更新上线</span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure>
+
+<h3 id="1-5-生成标签页和分类页"><a href="#1-5-生成标签页和分类页" class="headerlink" title="1.5. 生成标签页和分类页"></a>1.5. 生成标签页和分类页</h3><p>执行以下命令生成标签页</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page tags</span><br></pre></td></tr></table></figure>
+
+<p>找到 <code>source/tags/index.md</code> 这个文件，修改添加 <code>type: &quot;tags&quot;</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 标签</span><br><span class="line">date: 2024-07-05 03:36:02</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">comments: false</span><br><span class="line">top_img: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>执行以下命令生成分类页</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page categories</span><br></pre></td></tr></table></figure>
+
+<p>找到 <code>source/categories/index.md</code> 这个文件，修改添加 <code>type: &quot;categories&quot;</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 分类</span><br><span class="line">date: 2024-07-05 03:36:48</span><br><span class="line">aside: false</span><br><span class="line">top_img: false</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>剩下的工作就是配置<code>_config.yml</code>和<code>_config.anzhiyu.yml</code>文件，修改博客参数。</p>
+<hr>
+<h2 id="2-配置文章模版"><a href="#2-配置文章模版" class="headerlink" title="2. 配置文章模版"></a>2. 配置文章模版</h2><p><code>/scaffolds</code>目录下有几个模版文件，其中</p>
+<ul>
+<li><strong>post.md</strong>：新建博文模版</li>
+<li><strong>page.md</strong>：新建标签页模版</li>
+</ul>
+<h3 id="post-md模版，仅供参考"><a href="#post-md模版，仅供参考" class="headerlink" title="post.md模版，仅供参考"></a><strong>post.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">tags: #【可选】文章标签</span><br><span class="line">categories: #【可选】文章分类</span><br><span class="line">keywords: #【可选】文章关键字</span><br><span class="line">description: #【可选】文章描述</span><br><span class="line">top: # 1 置顶</span><br><span class="line">top_img: #【可选】文章顶部图片</span><br><span class="line">comments: #【可选】显示文章评论模块(默认 true)</span><br><span class="line">cover: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)</span><br><span class="line">toc: #【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)</span><br><span class="line">toc_number: #【可选】显示 toc_number(默认为设置中 toc 的 number 配置)</span><br><span class="line">toc_style_simple: #【可选】显示 toc 简洁模式</span><br><span class="line">copyright: #【可选】显示文章版权模块(默认为设置中 post_copyright 的 enable 配置)</span><br><span class="line">copyright_author: #【可选】文章版权模块的文章作者</span><br><span class="line">copyright_author_href: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_url: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_info: #【可选】文章版权模块的版权声明文字</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">swiper_index: 10 #【可选】首页轮播图配置 index 索引，数字越小越靠前</span><br><span class="line">top_group_index: 10 #【可选】首页右侧卡片组配置, 数字越小越靠前</span><br><span class="line">ai: #【可选】文章ai摘要</span><br><span class="line">background: &quot;#fff&quot; #【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如#ffffff 不可写成#fff</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line">&lt;div class=&quot;video-container&quot;&gt;</span><br><span class="line">[up主专用，视频内嵌代码贴在这]</span><br><span class="line">&lt;/div&gt;</span><br><span class="line"></span><br><span class="line">&lt;style&gt;</span><br><span class="line">.video-container &#123;</span><br><span class="line">    position: relative;</span><br><span class="line">    width: 100%;</span><br><span class="line">    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">.video-container iframe &#123;</span><br><span class="line">    position: absolute;</span><br><span class="line">    top: 0;</span><br><span class="line">    left: 0;</span><br><span class="line">    width: 100%;</span><br><span class="line">    height: 100%;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>
+
+<h3 id="page-md模版，仅供参考"><a href="#page-md模版，仅供参考" class="headerlink" title="page.md模版，仅供参考"></a><strong>page.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">type: #【必需】标签、分类、关于、音乐馆、友情链接、相册、相册详情、朋友圈、即刻页面需要配置</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">comments: #【可选】显示页面评论模块(默认 true)</span><br><span class="line">description: #【可选】页面描述</span><br><span class="line">keywords: #【可选】页面关键字</span><br><span class="line">top_img: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】页面顶部图片</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">top_single_background: #【可选】部分页面的顶部模块背景图片</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h1 id="更多功能"><a href="#更多功能" class="headerlink" title="更多功能"></a>更多功能</h1><h2 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h2><h3 id="新建博文命令"><a href="#新建博文命令" class="headerlink" title="新建博文命令"></a>新建博文命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new 这是一篇新的博文</span><br></pre></td></tr></table></figure>
+
+<h3 id="新建标签页命令"><a href="#新建标签页命令" class="headerlink" title="新建标签页命令"></a>新建标签页命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page 新建的标签页</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="文章置顶"><a href="#文章置顶" class="headerlink" title="文章置顶"></a>文章置顶</h2><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-topindex --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="设置置顶"><a href="#设置置顶" class="headerlink" title="设置置顶"></a>设置置顶</h3><p>给需要置顶的文章加入top参数，如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line">---</span><br><span class="line">title: 每天一个linux命令</span><br><span class="line">date: 2017-01-23 11:41:48</span><br><span class="line">top: 1</span><br><span class="line">categories:</span><br><span class="line">- 运维</span><br><span class="line">tags:</span><br><span class="line">- linux命令</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>如果存在多个置顶文章，top后的参数越大，越靠前。</p>
+<hr>
+<h2 id="开启本地搜索"><a href="#开启本地搜索" class="headerlink" title="开启本地搜索"></a>开启本地搜索</h2><h3 id="安装插件-1"><a href="#安装插件-1" class="headerlink" title="安装插件"></a>安装插件</h3><p>你需要安装 <a href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>，根据它的文档去做相应配置</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="设置主题配置文件"><a href="#设置主题配置文件" class="headerlink" title="设置主题配置文件"></a>设置主题配置文件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  preload: false</span><br><span class="line">  CDN:</span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>enable</td>
+<td>是否开启本地搜索</td>
+</tr>
+<tr>
+<td>preload</td>
+<td>预加载，开启后，进入网页后会自动加载搜索文件。关闭时，只有点击搜索按钮后，才会加载搜索文件</td>
+</tr>
+<tr>
+<td>CDN</td>
+<td>搜索文件的 CDN 地址（默认使用的本地链接）</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="添加任意文件"><a href="#添加任意文件" class="headerlink" title="添加任意文件"></a>添加任意文件</h2><p>例如当我们想在网站根目录添加<code>ads.txt</code>文件，来通过站长验证时，我们只需要在<code>/source</code>文件夹下放置该文件即可。</p>
+<hr>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a><br><a href="https://www.fomal.cc/posts/4aa2d85f.html">https://www.fomal.cc/posts/4aa2d85f.html</a><br><a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1">https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1</a><br><a href="https://blog.csdn.net/COCO56/article/details/103840966">https://blog.csdn.net/COCO56/article/details/103840966</a></p>
+]]></content>
       <categories>
-          
-          <category> 教程 </category>
-          
+        <category>教程</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> blog </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>如何搭建blog</title>
-      <link href="/2025/02/03/%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAblog/"/>
-      <url>/2025/02/03/%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAblog/</url>
-      
-        <content type="html"><![CDATA[<div class="video-container"></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style><p>本文详细介绍了如何使用Hexo框架搭建一个个人博客，并将其部署到GitHub Pages和Cloudflare Pages上。主要内容包括</p><ul><li>环境准备：安装Node.js和Git</li><li>配置Git和GitHub：设置SSH密钥，创建GitHub仓库</li><li>初始化Hexo项目：安装Hexo，创建新博客</li><li>部署到GitHub Pages：配置部署设置，推送静态文件</li><li>部署到Cloudflare Pages：连接GitHub仓库，自动部署</li><li>基本使用方法：创建新文章，本地预览，发布更新</li></ul><p>这个教程适合那些想要快速搭建个人博客，但又不想花费太多成本的人。通过使用Hexo、GitHub和Cloudflare的免费服务，您可以轻松创建一个高效、简洁的博客网站。</p><h1 id="1-事前准备"><a href="#1-事前准备" class="headerlink" title="1.事前准备"></a>1.事前准备</h1><ul><li>域名（非必须，你也可以使用免费域名，或者GitHub.io或Pages.dev分配的域名也可以）</li><li>GitHub（必须，你需要注册一个GitHub帐号）</li><li>Cloudflare（非必须，你需要注册一个Cloudflare帐号，这样你就可以将博客部署在CF的CDN里加速，但是你也可以直接使用GitHub.io分配的域名）</li></ul><h1 id="2-软件支持"><a href="#2-软件支持" class="headerlink" title="2.软件支持"></a>2.软件支持</h1><ol><li>Node（必须）</li><li>Git（必须）</li><li>VSCode（非必须，这是一款轻量型的代码编辑器，可以帮助你养成一个很好的编程习惯）</li></ol><h2 id="2-1-安装-Node"><a href="#2-1-安装-Node" class="headerlink" title="2.1.安装 Node"></a>2.1.安装 Node</h2><ol><li>打开Node官网，下载和自己系统相配的Node的安装程序，否则会出现安装问题。下载地址：<a href="https://nodejs.org/en">https://nodejs.org/en</a></li><li>下载后安装，安装的目录可以使用默认目录C:&#x2F;Program Files&#x2F;nodejs&#x2F;</li><li>安装完成后，检查是否安装成功。在键盘按下win + R键，输入CMD，然后回车，打开CMD窗口，执行node -v命令，看到版本信息，则说明安装成功。<blockquote><p><img src="https://img.090227.xyz/file/5ca2f549a4489064d3444.jpg" alt="示例1"></p><p>mac系统：</p><p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-07">https://blog.950320.us.kg/PicGo/.截屏2025-02-07</a> 22.10.09.png)</p></blockquote></li><li>修改npm源。npm下载各种模块，默认是从国处服务器下载，速度较慢，建议配置成华为云镜像源。打开CMD窗口，运行如下命令:</li></ol><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config <span class="built_in">set</span> registry https://mirrors.huaweicloud.com/repository/npm/ </span><br></pre></td></tr></table></figure><h2 id="2-2-安装-Git"><a href="#2-2-安装-Git" class="headerlink" title="2.2.安装 Git"></a>2.2.安装 Git</h2><ol><li>进入官网下载适合你当前系统的 Git：<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a><blockquote><p><img src="https://img.090227.xyz/file/14b9fdf14c49320e531fb.jpg" alt="示例2"></p></blockquote></li><li>下载后傻瓜式安装Git即可，安装的目录最好使用默认目录<strong>C:&#x2F;Program Files&#x2F;Git</strong></li><li>点击电脑左下角开始即可看见<strong>Git CMD、Git Bash、Git GUI</strong>。</li></ol><ul><li><strong>Git CMD</strong> 是windows 命令行的指令风格</li><li><strong>Git Bash</strong> 是linux系统的指令风格（建议使用）</li><li><strong>Git GUI</strong>是图形化界面（新手学习不建议使用）</li></ul><h2 id="4-mac系统下安装"><a href="#4-mac系统下安装" class="headerlink" title="4.mac系统下安装"></a>4.mac系统下安装</h2><p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-07">https://blog.950320.us.kg/PicGo/.截屏2025-02-07</a> 22.15.16.png)</p><p>使用<strong>终端</strong>直接安装即可</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">brew install git #root用户</span><br><span class="line">sudo  brew install git #普通用户</span><br></pre></td></tr></table></figure><h1 id="3-配置-Git-密钥并连接至-Github"><a href="#3-配置-Git-密钥并连接至-Github" class="headerlink" title="3.配置 Git 密钥并连接至 Github"></a>3.配置 Git 密钥并连接至 Github</h1><p>常用 Git 命令.</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config -l      //查看所有配置</span><br><span class="line">git config --system --list //查看系统配置</span><br><span class="line">git config --global --list //查看用户（全局）配置</span><br></pre></td></tr></table></figure><blockquote><p><img src="https://img.090227.xyz/file/f403664b22ad3488a5fb4.jpg" alt="示例3"></p></blockquote><h2 id="3-1-配置用户名和邮箱"><a href="#3-1-配置用户名和邮箱" class="headerlink" title="3.1. 配置用户名和邮箱"></a>3.1. 配置用户名和邮箱</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;你的用户名&quot;</span><br><span class="line">git config --global user.email &quot;你的邮箱&quot;</span><br></pre></td></tr></table></figure><p>通过<strong>git config -l</strong> 检查是否配置成功。</p><blockquote><p><img src="https://img.090227.xyz/file/67dca39142021e2214e2b.jpg" alt="示例4"></p><p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08">https://blog.950320.us.kg/PicGo/.截屏2025-02-08</a> 21.12.32.png)</p></blockquote><h2 id="3-2-配置公钥连接Github"><a href="#3-2-配置公钥连接Github" class="headerlink" title="3.2. 配置公钥连接Github"></a>3.2. 配置公钥连接Github</h2><ol><li>执行以下命令生成ssh公钥，此公钥用于你的计算机连接Github</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;你的邮箱&quot;</span><br></pre></td></tr></table></figure><p>提示<strong>Enter file in which to save the key</strong>直接一路<strong>回车</strong>即可，新手小白不推荐设置密钥</p><blockquote><p><img src="https://img.090227.xyz/file/45d70737c64caeb4393ad.jpg" alt="示例5"></p><p>mac系统：</p><p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08">https://blog.950320.us.kg/PicGo/.截屏2025-02-08</a> 21.12.51.png)</p></blockquote><p>之后打开C盘下用户文件夹下的.ssh的文件夹，会看到以下文件</p><ul><li><strong>id_rsa</strong>私钥</li><li><strong>id_rsa.pub</strong>公钥<blockquote><p><img src="https://img.090227.xyz/file/40bd636f749347666f9f7.jpg" alt="示例6"><br>用记事本打开上述图片中的公钥<strong>id_rsa.pub</strong>，复制里面的内容，然后开始在github中配置ssh密钥。</p></blockquote></li></ul><ol start="2"><li>将 SSH KEY 配置到 GitHub<br>进入github，点击右上角头像 选择<strong>settings</strong>，进入设置页后选择 <strong>SSH and GPG keys</strong>，名字随便起，公钥填到Key那一栏。<blockquote><p><img src="https://img.090227.xyz/file/75fc281237bfc6751a295.jpg" alt="示例7"><br><img src="https://img.090227.xyz/file/993edae3bbca9489dc156.jpg" alt="示例8"><br><img src="https://img.090227.xyz/file/fa8a7628c285e6be5c0a4.png" alt="示例9"><br><img src="https://img.090227.xyz/file/f3fa79cf3d639ef2d5bcb.png" alt="示例10"></p></blockquote></li><li>测试连接，输入以下命令</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><p>第一次连接会提示<strong>Are you sure you want to continue connecting (yes&#x2F;no&#x2F;[fingerprint])?</strong>，输入<strong>yes</strong>即可<br>出现连接到账户的信息，说明已经大功告成，至此完成了环境准备工作。</p><blockquote><p><img src="https://img.090227.xyz/file/faa0077eeab8c82f1de9e.png" alt="示例11"></p></blockquote><h2 id="3-3-创建GitHub-io仓库"><a href="#3-3-创建GitHub-io仓库" class="headerlink" title="3.3. 创建GitHub.io仓库"></a>3.3. 创建GitHub.io仓库</h2><ol><li>点击右上角的+按钮，选择New repository，创建一个&lt;用户名&gt;.github.io 的仓库。</li><li>仓库名字的格式必须为：&lt;用户名&gt;.github.io (注意：前缀必须为用户名，此为预览博客需要，后期可修改仓库名)</li><li>可见性必须选择 Public 方便第一次部署检查问题，点击 Creat repository 进行创建即可<blockquote><p><img src="https://img.090227.xyz/file/3d9274644460cd1ffeb26.png" alt="示例12"></p></blockquote></li></ol><h1 id="4-初始化-Hexo-博客"><a href="#4-初始化-Hexo-博客" class="headerlink" title="4.初始化 Hexo 博客"></a>4.初始化 Hexo 博客</h1><ol><li>创建一个文件夹来保存博客源码（我这里选的路径为<strong>C:&#x2F;users&#x2F;chenp&#x2F;MY-BLOG</strong>），在文件夹内右键鼠标，选择<strong>Open Git Bash here</strong><blockquote><p><img src="https://img.090227.xyz/file/f78e04406dc803d610538.png" alt="示例13"></p></blockquote></li><li>在<strong>Git BASH</strong>输入如下命令安装 <strong>Hexo</strong></li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli &amp;&amp; hexo -v</span><br></pre></td></tr></table></figure><p><img src="https://img.090227.xyz/file/808bff9b7ab5b13fcd200.png" alt="示例14"><br>3. 安装完后输入<strong>hexo -v</strong>验证是否安装成功。<br>    <img src="https://img.090227.xyz/file/17349517f78516f7ac8ff.png" alt="示例15"></p><ol start="4"><li>初始化 Hexo 项目安装相关依赖。</li></ol>  <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog-demo</span><br><span class="line">cd blog-demo</span><br><span class="line">npm i</span><br></pre></td></tr></table></figure><p>  <img src="https://img.090227.xyz/file/1c130d7beed537111d448.png" alt="示例16"></p><ol start="5"><li>初始化项目后，blog-demo有如下结构：<br> <img src="https://img.090227.xyz/file/74128294708705e22e188.png" alt="示例17"></li></ol><ul><li><strong>node_modules</strong>：依赖包</li><li><strong>scaffolds</strong>：生成文章的一些模板</li><li><strong>source</strong>：用来存放你的文章</li><li><strong>themes</strong>：主题</li><li><strong>.npmignore</strong>：发布时忽略的文件（可忽略）</li><li><strong>_config.landscape.yml</strong>：主题的配置文件</li><li><strong>config.yml</strong>：博客的配置文件</li><li><strong>package.json</strong>：项目名称、描述、版本、运行和开发等信</li></ul><ol><li>输入hexo cl &amp;&amp; hexo s启动项目<br><img src="https://img.090227.xyz/file/e8c930919bb49270bde5a.png" alt="示例18"></li><li>打开浏览器，输入地址：<a href="http://localhost:4000/">http://localhost:4000/</a> ，看到下面的效果，说明你的博客已经构建成功了。<br><img src="https://img.090227.xyz/file/e285037815104f68f4514.jpg" alt="示例19"></li></ol><h1 id="5-将静态博客挂载到-GitHub-Pages"><a href="#5-将静态博客挂载到-GitHub-Pages" class="headerlink" title="5.将静态博客挂载到 GitHub Pages"></a>5.将静态博客挂载到 GitHub Pages</h1><ol><li>安装 hexo-deployer-git</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><ol start="2"><li>修改 <strong>_config.yml</strong> 文件<br>在blog-demo目录下的_config.yml，就是整个Hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考官方的配置描述。<br>修改最后一行的配置，将repository修改为你自己的github项目地址即可，还有分支要改为<strong>main</strong>代表主分支（注意缩进）。</li><li>修改好配置后，运行如下命令，将代码部署到 GitHub（Hexo三连）。</li></ol><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">// Git BASH终端</span><br><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy  </span><br><span class="line"></span><br><span class="line">// 或者</span><br><span class="line"></span><br><span class="line">// VSCODE终端</span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure><ul><li>hexo clean：删除之前生成的文件，可以用<strong>hexo cl</strong>缩写。</li><li>hexo generate：生成静态文章，可以用<strong>hexo g</strong>缩写</li><li>hexo deploy：部署文章，可以用<strong>hexo d</strong>缩写<br><img src="https://img.090227.xyz/file/18b052b831896bf00cfc4.jpg" alt="示例20"><br>注意！：<em>deploy</em>时可能要你输入 <em>username</em> 和 <em>password</em>。<br>如果出现<strong>Deploy done</strong>，则说明部署成功了。<br><img src="https://img.090227.xyz/file/93a5d61648491a5278556.jpg" alt="示例21"><br>稍等两分钟，打开浏览器访问：https:&#x2F;&#x2F;&lt;用户名&gt;.github.io ，这时候我们就可以看到博客内容了。<br><img src="https://img.090227.xyz/file/1239b1270fcdc8bd896a6.jpg" alt="示例22"></li></ul><h1 id="6-将静态博客挂载到-Cloudflare-Pages"><a href="#6-将静态博客挂载到-Cloudflare-Pages" class="headerlink" title="6.将静态博客挂载到 Cloudflare Pages"></a>6.将静态博客挂载到 Cloudflare Pages</h1><p>打开 <a href="https://dash.cloudflare.com/" title="cloudflare">cloudflare</a> 在 <strong>Workers</strong> 和 <strong>Pages</strong>中选择 <strong>Pages</strong> 的 连接到 <strong>Git</strong><br><img src="https://img.090227.xyz/file/b3eae4e84c4c7c31af665.jpg" alt="示例23"><br><img src="https://img.090227.xyz/file/440581264cb313ed77e75.jpg" alt="实例24"><br>2. 然后登录你Blog仓库对应的GitHub帐号<br><img src="https://img.090227.xyz/file/733c0a673bb66670b7ca1.jpg" alt="示例25"><br><img src="https://img.090227.xyz/file/8fb282e32991167a98f57.jpg" alt="实例26"><br>3. 点击<strong>保存并部署</strong>后等待部署完成即可。<br><img src="https://img.090227.xyz/file/60cca5e2200e260327227.jpg" alt="示例27"><br>4. 提示<strong>成功</strong>！您的项目已部署到以下区域：全球后，浏览器访问：https:&#x2F;&#x2F;&lt;用户名&gt;-github-io.pages.dev ，这时候我们就可以看到博客内容了。<br><img src="https://img.090227.xyz/file/0f2a697243725c6fa2ab8.jpg" alt="实例28"><br>这时你也就可以将你的**&lt;用户名&gt;.github.io<strong>的仓库设置为</strong>Private**私库了<br>5. 如果你有自己的域名，你可以在这里绑定你自己的自定义域，即可<br><img src="https://img.090227.xyz/file/2c9ce4b9b67c09376bb91.jpg" alt="示例29"></p><h1 id="7-如何使用"><a href="#7-如何使用" class="headerlink" title="7.如何使用"></a>7.如何使用</h1><h2 id="7-1新建一篇博文"><a href="#7-1新建一篇博文" class="headerlink" title="7.1新建一篇博文"></a>7.1新建一篇博文</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;新的blog名称&quot;</span><br></pre></td></tr></table></figure><p>然后用文本编辑器去编辑*_posts&#x2F;新的blog名称.md*里的内容即可，注意要使用<strong>Markdown</strong>格式书写。<br>详细使用方法可以查阅 <a href="https://hexo.io/zh-cn/docs/writing">https://hexo.io/zh-cn/docs/writing</a></p><h2 id="编辑完文章保存后可以使用如下命令，生成本地页面-http-localhost-4000-，进行预览"><a href="#编辑完文章保存后可以使用如下命令，生成本地页面-http-localhost-4000-，进行预览" class="headerlink" title="编辑完文章保存后可以使用如下命令，生成本地页面 http://localhost:4000/ ，进行预览"></a>编辑完文章保存后可以使用如下命令，生成本地页面 <a href="http://localhost:4000/">http://localhost:4000/</a> ，进行预览</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">// Git BASH终端</span><br><span class="line">hexo cl &amp;&amp; hexo s</span><br><span class="line"></span><br><span class="line">// 或者</span><br><span class="line"></span><br><span class="line">// VSCODE终端</span><br><span class="line">hexo cl; hexo s</span><br></pre></td></tr></table></figure><h2 id="确认无误后使用以下命令，将本地文章推送至GitHub仓库即可"><a href="#确认无误后使用以下命令，将本地文章推送至GitHub仓库即可" class="headerlink" title="确认无误后使用以下命令，将本地文章推送至GitHub仓库即可"></a>确认无误后使用以下命令，将本地文章推送至GitHub仓库即可</h2><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">//</span> <span class="string">Git</span> <span class="string">BASH终端</span></span><br><span class="line"><span class="string">hexo</span> <span class="string">cl</span> <span class="string">&amp;&amp;</span> <span class="string">hexo</span> <span class="string">g</span> <span class="string">&amp;&amp;</span> <span class="string">hexo</span> <span class="string">d</span></span><br><span class="line"></span><br><span class="line"><span class="string">//</span> <span class="string">或者</span></span><br><span class="line"></span><br><span class="line"><span class="string">//</span> <span class="string">VSCODE终端</span></span><br><span class="line"><span class="string">hexo</span> <span class="string">cl;</span> <span class="string">hexo</span> <span class="string">g;</span> <span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure><h1 id="8-添加评论功能"><a href="#8-添加评论功能" class="headerlink" title="8.添加评论功能"></a>8.添加评论功能</h1><p>​我们现在的博客已经搭建，但是没有评论功能，需要添加评论功能，使用github账号登陆即可评论，如下图，我们可以看到目前是没有评论功能的。</p><p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2021.52.55.png" alt="示例30"></p><p>下面我们来给博客添加一个评论功能，这里我们使用这个 <a href="https://github.com/apps/utterances">utterances插件</a>，它是一个基于 GitHub Issue 的，开源评论插件。</p><p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2021.55.52.png" alt="示例31"></p><p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2022.35.56.png"></p><p>我们点击<strong>Install</strong>它，然后选择对应的仓库给它授权。然后在 GitHub 仓库，点击设置，找到 features 下面这个 Discussion 选项，然后点击勾选上这个选项。</p><p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2022.36.19.png"></p><p>接着我们需要修改 _config.anzhiyu.yml 配置文件，在文件中填入下面的内容，保存就可以了。</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">post:</span></span><br><span class="line">  <span class="attr">comments:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">utterances</span></span><br><span class="line"></span><br><span class="line"><span class="attr">utterances:</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">GitHub用户名/GitHub用户名.github.io</span></span><br><span class="line">  <span class="attr">issue_term:</span> <span class="string">title</span></span><br><span class="line">  <span class="attr">label:</span> <span class="string">utterances</span></span><br><span class="line">  <span class="attr">theme:</span> <span class="string">github-light</span></span><br><span class="line">  <span class="attr">theme_dark:</span> <span class="string">github-dark</span></span><br><span class="line">  <span class="attr">crossorigin:</span> <span class="string">anonymous</span>    </span><br></pre></td></tr></table></figure>]]></content>
-      
-      
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何搭建blog</title>
+    <url>/2025/02/03/%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BAblog/</url>
+    <content><![CDATA[<div class="video-container">
+
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<p>本文详细介绍了如何使用Hexo框架搭建一个个人博客，并将其部署到GitHub Pages和Cloudflare Pages上。主要内容包括</p>
+<ul>
+<li>环境准备：安装Node.js和Git</li>
+<li>配置Git和GitHub：设置SSH密钥，创建GitHub仓库</li>
+<li>初始化Hexo项目：安装Hexo，创建新博客</li>
+<li>部署到GitHub Pages：配置部署设置，推送静态文件</li>
+<li>部署到Cloudflare Pages：连接GitHub仓库，自动部署</li>
+<li>基本使用方法：创建新文章，本地预览，发布更新</li>
+</ul>
+<p>这个教程适合那些想要快速搭建个人博客，但又不想花费太多成本的人。通过使用Hexo、GitHub和Cloudflare的免费服务，您可以轻松创建一个高效、简洁的博客网站。</p>
+<h1 id="1-事前准备"><a href="#1-事前准备" class="headerlink" title="1.事前准备"></a>1.事前准备</h1><ul>
+<li>域名（非必须，你也可以使用免费域名，或者GitHub.io或Pages.dev分配的域名也可以）</li>
+<li>GitHub（必须，你需要注册一个GitHub帐号）</li>
+<li>Cloudflare（非必须，你需要注册一个Cloudflare帐号，这样你就可以将博客部署在CF的CDN里加速，但是你也可以直接使用GitHub.io分配的域名）</li>
+</ul>
+<h1 id="2-软件支持"><a href="#2-软件支持" class="headerlink" title="2.软件支持"></a>2.软件支持</h1><ol>
+<li>Node（必须）</li>
+<li>Git（必须）</li>
+<li>VSCode（非必须，这是一款轻量型的代码编辑器，可以帮助你养成一个很好的编程习惯）</li>
+</ol>
+<h2 id="2-1-安装-Node"><a href="#2-1-安装-Node" class="headerlink" title="2.1.安装 Node"></a>2.1.安装 Node</h2><ol>
+<li>打开Node官网，下载和自己系统相配的Node的安装程序，否则会出现安装问题。下载地址：<a href="https://nodejs.org/en">https://nodejs.org/en</a></li>
+<li>下载后安装，安装的目录可以使用默认目录C:&#x2F;Program Files&#x2F;nodejs&#x2F;</li>
+<li>安装完成后，检查是否安装成功。在键盘按下win + R键，输入CMD，然后回车，打开CMD窗口，执行node -v命令，看到版本信息，则说明安装成功。<blockquote>
+<p><img src="https://img.090227.xyz/file/5ca2f549a4489064d3444.jpg" alt="示例1"></p>
+<p>mac系统：</p>
+<p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-07">https://blog.950320.us.kg/PicGo/.截屏2025-02-07</a> 22.10.09.png)</p>
+</blockquote>
+</li>
+<li>修改npm源。npm下载各种模块，默认是从国处服务器下载，速度较慢，建议配置成华为云镜像源。打开CMD窗口，运行如下命令:</li>
+</ol>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">npm config <span class="built_in">set</span> registry https://mirrors.huaweicloud.com/repository/npm/ </span><br></pre></td></tr></table></figure>
+<h2 id="2-2-安装-Git"><a href="#2-2-安装-Git" class="headerlink" title="2.2.安装 Git"></a>2.2.安装 Git</h2><ol>
+<li>进入官网下载适合你当前系统的 Git：<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a><blockquote>
+<p><img src="https://img.090227.xyz/file/14b9fdf14c49320e531fb.jpg" alt="示例2"></p>
+</blockquote>
+</li>
+<li>下载后傻瓜式安装Git即可，安装的目录最好使用默认目录<strong>C:&#x2F;Program Files&#x2F;Git</strong></li>
+<li>点击电脑左下角开始即可看见<strong>Git CMD、Git Bash、Git GUI</strong>。</li>
+</ol>
+<ul>
+<li><strong>Git CMD</strong> 是windows 命令行的指令风格</li>
+<li><strong>Git Bash</strong> 是linux系统的指令风格（建议使用）</li>
+<li><strong>Git GUI</strong>是图形化界面（新手学习不建议使用）</li>
+</ul>
+<h2 id="4-mac系统下安装"><a href="#4-mac系统下安装" class="headerlink" title="4.mac系统下安装"></a>4.mac系统下安装</h2><p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-07">https://blog.950320.us.kg/PicGo/.截屏2025-02-07</a> 22.15.16.png)</p>
+<p>使用<strong>终端</strong>直接安装即可</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">brew install git #root用户</span><br><span class="line">sudo  brew install git #普通用户</span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="3-配置-Git-密钥并连接至-Github"><a href="#3-配置-Git-密钥并连接至-Github" class="headerlink" title="3.配置 Git 密钥并连接至 Github"></a>3.配置 Git 密钥并连接至 Github</h1><p>常用 Git 命令.</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config -l      //查看所有配置</span><br><span class="line">git config --system --list //查看系统配置</span><br><span class="line">git config --global --list //查看用户（全局）配置</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><img src="https://img.090227.xyz/file/f403664b22ad3488a5fb4.jpg" alt="示例3"></p>
+</blockquote>
+<h2 id="3-1-配置用户名和邮箱"><a href="#3-1-配置用户名和邮箱" class="headerlink" title="3.1. 配置用户名和邮箱"></a>3.1. 配置用户名和邮箱</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;你的用户名&quot;</span><br><span class="line">git config --global user.email &quot;你的邮箱&quot;</span><br></pre></td></tr></table></figure>
+<p>通过<strong>git config -l</strong> 检查是否配置成功。</p>
+<blockquote>
+<p><img src="https://img.090227.xyz/file/67dca39142021e2214e2b.jpg" alt="示例4"></p>
+<p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08">https://blog.950320.us.kg/PicGo/.截屏2025-02-08</a> 21.12.32.png)</p>
+</blockquote>
+<h2 id="3-2-配置公钥连接Github"><a href="#3-2-配置公钥连接Github" class="headerlink" title="3.2. 配置公钥连接Github"></a>3.2. 配置公钥连接Github</h2><ol>
+<li>执行以下命令生成ssh公钥，此公钥用于你的计算机连接Github</li>
+</ol>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;你的邮箱&quot;</span><br></pre></td></tr></table></figure>
+<p>提示<strong>Enter file in which to save the key</strong>直接一路<strong>回车</strong>即可，新手小白不推荐设置密钥</p>
+<blockquote>
+<p><img src="https://img.090227.xyz/file/45d70737c64caeb4393ad.jpg" alt="示例5"></p>
+<p>mac系统：</p>
+<p>![](<a href="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08">https://blog.950320.us.kg/PicGo/.截屏2025-02-08</a> 21.12.51.png)</p>
+</blockquote>
+<p>之后打开C盘下用户文件夹下的.ssh的文件夹，会看到以下文件</p>
+<ul>
+<li><strong>id_rsa</strong>私钥</li>
+<li><strong>id_rsa.pub</strong>公钥<blockquote>
+<p><img src="https://img.090227.xyz/file/40bd636f749347666f9f7.jpg" alt="示例6"><br>用记事本打开上述图片中的公钥<strong>id_rsa.pub</strong>，复制里面的内容，然后开始在github中配置ssh密钥。</p>
+</blockquote>
+</li>
+</ul>
+<ol start="2">
+<li>将 SSH KEY 配置到 GitHub<br>进入github，点击右上角头像 选择<strong>settings</strong>，进入设置页后选择 <strong>SSH and GPG keys</strong>，名字随便起，公钥填到Key那一栏。<blockquote>
+<p><img src="https://img.090227.xyz/file/75fc281237bfc6751a295.jpg" alt="示例7"><br><img src="https://img.090227.xyz/file/993edae3bbca9489dc156.jpg" alt="示例8"><br><img src="https://img.090227.xyz/file/fa8a7628c285e6be5c0a4.png" alt="示例9"><br><img src="https://img.090227.xyz/file/f3fa79cf3d639ef2d5bcb.png" alt="示例10"></p>
+</blockquote>
+</li>
+<li>测试连接，输入以下命令</li>
+</ol>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+<p>第一次连接会提示<strong>Are you sure you want to continue connecting (yes&#x2F;no&#x2F;[fingerprint])?</strong>，输入<strong>yes</strong>即可<br>出现连接到账户的信息，说明已经大功告成，至此完成了环境准备工作。</p>
+<blockquote>
+<p><img src="https://img.090227.xyz/file/faa0077eeab8c82f1de9e.png" alt="示例11"></p>
+</blockquote>
+<h2 id="3-3-创建GitHub-io仓库"><a href="#3-3-创建GitHub-io仓库" class="headerlink" title="3.3. 创建GitHub.io仓库"></a>3.3. 创建GitHub.io仓库</h2><ol>
+<li>点击右上角的+按钮，选择New repository，创建一个&lt;用户名&gt;.github.io 的仓库。</li>
+<li>仓库名字的格式必须为：&lt;用户名&gt;.github.io (注意：前缀必须为用户名，此为预览博客需要，后期可修改仓库名)</li>
+<li>可见性必须选择 Public 方便第一次部署检查问题，点击 Creat repository 进行创建即可<blockquote>
+<p><img src="https://img.090227.xyz/file/3d9274644460cd1ffeb26.png" alt="示例12"></p>
+</blockquote>
+</li>
+</ol>
+<h1 id="4-初始化-Hexo-博客"><a href="#4-初始化-Hexo-博客" class="headerlink" title="4.初始化 Hexo 博客"></a>4.初始化 Hexo 博客</h1><ol>
+<li>创建一个文件夹来保存博客源码（我这里选的路径为<strong>C:&#x2F;users&#x2F;chenp&#x2F;MY-BLOG</strong>），在文件夹内右键鼠标，选择<strong>Open Git Bash here</strong><blockquote>
+<p><img src="https://img.090227.xyz/file/f78e04406dc803d610538.png" alt="示例13"></p>
+</blockquote>
+</li>
+<li>在<strong>Git BASH</strong>输入如下命令安装 <strong>Hexo</strong></li>
+</ol>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli &amp;&amp; hexo -v</span><br></pre></td></tr></table></figure>
+<p><img src="https://img.090227.xyz/file/808bff9b7ab5b13fcd200.png" alt="示例14"><br>3. 安装完后输入<strong>hexo -v</strong>验证是否安装成功。<br>    <img src="https://img.090227.xyz/file/17349517f78516f7ac8ff.png" alt="示例15"></p>
+<ol start="4">
+<li>初始化 Hexo 项目安装相关依赖。</li>
+</ol>
+  <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo init blog-demo</span><br><span class="line">cd blog-demo</span><br><span class="line">npm i</span><br></pre></td></tr></table></figure>
+
+<p>  <img src="https://img.090227.xyz/file/1c130d7beed537111d448.png" alt="示例16"></p>
+<ol start="5">
+<li>初始化项目后，blog-demo有如下结构：<br> <img src="https://img.090227.xyz/file/74128294708705e22e188.png" alt="示例17"></li>
+</ol>
+<ul>
+<li><strong>node_modules</strong>：依赖包</li>
+<li><strong>scaffolds</strong>：生成文章的一些模板</li>
+<li><strong>source</strong>：用来存放你的文章</li>
+<li><strong>themes</strong>：主题</li>
+<li><strong>.npmignore</strong>：发布时忽略的文件（可忽略）</li>
+<li><strong>_config.landscape.yml</strong>：主题的配置文件</li>
+<li><strong>config.yml</strong>：博客的配置文件</li>
+<li><strong>package.json</strong>：项目名称、描述、版本、运行和开发等信</li>
+</ul>
+<ol>
+<li>输入hexo cl &amp;&amp; hexo s启动项目<br><img src="https://img.090227.xyz/file/e8c930919bb49270bde5a.png" alt="示例18"></li>
+<li>打开浏览器，输入地址：<a href="http://localhost:4000/">http://localhost:4000/</a> ，看到下面的效果，说明你的博客已经构建成功了。<br><img src="https://img.090227.xyz/file/e285037815104f68f4514.jpg" alt="示例19"></li>
+</ol>
+<h1 id="5-将静态博客挂载到-GitHub-Pages"><a href="#5-将静态博客挂载到-GitHub-Pages" class="headerlink" title="5.将静态博客挂载到 GitHub Pages"></a>5.将静态博客挂载到 GitHub Pages</h1><ol>
+<li>安装 hexo-deployer-git</li>
+</ol>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+<ol start="2">
+<li>修改 <strong>_config.yml</strong> 文件<br>在blog-demo目录下的_config.yml，就是整个Hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考官方的配置描述。<br>修改最后一行的配置，将repository修改为你自己的github项目地址即可，还有分支要改为<strong>main</strong>代表主分支（注意缩进）。</li>
+<li>修改好配置后，运行如下命令，将代码部署到 GitHub（Hexo三连）。</li>
+</ol>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">// Git BASH终端</span><br><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy  </span><br><span class="line"></span><br><span class="line">// 或者</span><br><span class="line"></span><br><span class="line">// VSCODE终端</span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure>
+<ul>
+<li>hexo clean：删除之前生成的文件，可以用<strong>hexo cl</strong>缩写。</li>
+<li>hexo generate：生成静态文章，可以用<strong>hexo g</strong>缩写</li>
+<li>hexo deploy：部署文章，可以用<strong>hexo d</strong>缩写<br><img src="https://img.090227.xyz/file/18b052b831896bf00cfc4.jpg" alt="示例20"><br>注意！：<em>deploy</em>时可能要你输入 <em>username</em> 和 <em>password</em>。<br>如果出现<strong>Deploy done</strong>，则说明部署成功了。<br><img src="https://img.090227.xyz/file/93a5d61648491a5278556.jpg" alt="示例21"><br>稍等两分钟，打开浏览器访问：https:&#x2F;&#x2F;&lt;用户名&gt;.github.io ，这时候我们就可以看到博客内容了。<br><img src="https://img.090227.xyz/file/1239b1270fcdc8bd896a6.jpg" alt="示例22"></li>
+</ul>
+<h1 id="6-将静态博客挂载到-Cloudflare-Pages"><a href="#6-将静态博客挂载到-Cloudflare-Pages" class="headerlink" title="6.将静态博客挂载到 Cloudflare Pages"></a>6.将静态博客挂载到 Cloudflare Pages</h1><p>打开 <a href="https://dash.cloudflare.com/" title="cloudflare">cloudflare</a> 在 <strong>Workers</strong> 和 <strong>Pages</strong>中选择 <strong>Pages</strong> 的 连接到 <strong>Git</strong><br><img src="https://img.090227.xyz/file/b3eae4e84c4c7c31af665.jpg" alt="示例23"><br><img src="https://img.090227.xyz/file/440581264cb313ed77e75.jpg" alt="实例24"><br>2. 然后登录你Blog仓库对应的GitHub帐号<br><img src="https://img.090227.xyz/file/733c0a673bb66670b7ca1.jpg" alt="示例25"><br><img src="https://img.090227.xyz/file/8fb282e32991167a98f57.jpg" alt="实例26"><br>3. 点击<strong>保存并部署</strong>后等待部署完成即可。<br><img src="https://img.090227.xyz/file/60cca5e2200e260327227.jpg" alt="示例27"><br>4. 提示<strong>成功</strong>！您的项目已部署到以下区域：全球后，浏览器访问：https:&#x2F;&#x2F;&lt;用户名&gt;-github-io.pages.dev ，这时候我们就可以看到博客内容了。<br><img src="https://img.090227.xyz/file/0f2a697243725c6fa2ab8.jpg" alt="实例28"><br>这时你也就可以将你的**&lt;用户名&gt;.github.io<strong>的仓库设置为</strong>Private**私库了<br>5. 如果你有自己的域名，你可以在这里绑定你自己的自定义域，即可<br><img src="https://img.090227.xyz/file/2c9ce4b9b67c09376bb91.jpg" alt="示例29"></p>
+<h1 id="7-如何使用"><a href="#7-如何使用" class="headerlink" title="7.如何使用"></a>7.如何使用</h1><h2 id="7-1新建一篇博文"><a href="#7-1新建一篇博文" class="headerlink" title="7.1新建一篇博文"></a>7.1新建一篇博文</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo new &quot;新的blog名称&quot;</span><br></pre></td></tr></table></figure>
+<p>然后用文本编辑器去编辑*_posts&#x2F;新的blog名称.md*里的内容即可，注意要使用<strong>Markdown</strong>格式书写。<br>详细使用方法可以查阅 <a href="https://hexo.io/zh-cn/docs/writing">https://hexo.io/zh-cn/docs/writing</a></p>
+<h2 id="编辑完文章保存后可以使用如下命令，生成本地页面-http-localhost-4000-，进行预览"><a href="#编辑完文章保存后可以使用如下命令，生成本地页面-http-localhost-4000-，进行预览" class="headerlink" title="编辑完文章保存后可以使用如下命令，生成本地页面 http://localhost:4000/ ，进行预览"></a>编辑完文章保存后可以使用如下命令，生成本地页面 <a href="http://localhost:4000/">http://localhost:4000/</a> ，进行预览</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">// Git BASH终端</span><br><span class="line">hexo cl &amp;&amp; hexo s</span><br><span class="line"></span><br><span class="line">// 或者</span><br><span class="line"></span><br><span class="line">// VSCODE终端</span><br><span class="line">hexo cl; hexo s</span><br></pre></td></tr></table></figure>
+<h2 id="确认无误后使用以下命令，将本地文章推送至GitHub仓库即可"><a href="#确认无误后使用以下命令，将本地文章推送至GitHub仓库即可" class="headerlink" title="确认无误后使用以下命令，将本地文章推送至GitHub仓库即可"></a>确认无误后使用以下命令，将本地文章推送至GitHub仓库即可</h2><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="string">//</span> <span class="string">Git</span> <span class="string">BASH终端</span></span><br><span class="line"><span class="string">hexo</span> <span class="string">cl</span> <span class="string">&amp;&amp;</span> <span class="string">hexo</span> <span class="string">g</span> <span class="string">&amp;&amp;</span> <span class="string">hexo</span> <span class="string">d</span></span><br><span class="line"></span><br><span class="line"><span class="string">//</span> <span class="string">或者</span></span><br><span class="line"></span><br><span class="line"><span class="string">//</span> <span class="string">VSCODE终端</span></span><br><span class="line"><span class="string">hexo</span> <span class="string">cl;</span> <span class="string">hexo</span> <span class="string">g;</span> <span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="8-添加评论功能"><a href="#8-添加评论功能" class="headerlink" title="8.添加评论功能"></a>8.添加评论功能</h1><p>​	我们现在的博客已经搭建，但是没有评论功能，需要添加评论功能，使用github账号登陆即可评论，如下图，我们可以看到目前是没有评论功能的。</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2021.52.55.png" alt="示例30"></p>
+<p>下面我们来给博客添加一个评论功能，这里我们使用这个 <a href="https://github.com/apps/utterances">utterances插件</a>，它是一个基于 GitHub Issue 的，开源评论插件。</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2021.55.52.png" alt="示例31"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2022.35.56.png"></p>
+<p>我们点击<strong>Install</strong>它，然后选择对应的仓库给它授权。然后在 GitHub 仓库，点击设置，找到 features 下面这个 Discussion 选项，然后点击勾选上这个选项。</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.%E6%88%AA%E5%B1%8F2025-02-08%2022.36.19.png"></p>
+<p>接着我们需要修改 _config.anzhiyu.yml 配置文件，在文件中填入下面的内容，保存就可以了。</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">post:</span></span><br><span class="line">  <span class="attr">comments:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">utterances</span></span><br><span class="line"></span><br><span class="line"><span class="attr">utterances:</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">GitHub用户名/GitHub用户名.github.io</span></span><br><span class="line">  <span class="attr">issue_term:</span> <span class="string">title</span></span><br><span class="line">  <span class="attr">label:</span> <span class="string">utterances</span></span><br><span class="line">  <span class="attr">theme:</span> <span class="string">github-light</span></span><br><span class="line">  <span class="attr">theme_dark:</span> <span class="string">github-dark</span></span><br><span class="line">  <span class="attr">crossorigin:</span> <span class="string">anonymous</span>    </span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
       <categories>
-          
-          <category> 教程 </category>
-          
+        <category>教程</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> blog </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2025/02/02/hello-world/"/>
-      <url>/2025/02/02/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
 </search>
