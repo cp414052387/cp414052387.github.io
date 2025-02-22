@@ -1,6 +1,639 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>PMP学习第二课-价值交付系统</title>
+    <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p>
+<p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p>
+<p>项目没有优先级吗？-&gt;没有明确的说明</p>
+<p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p>
+<p>公司要有战略：</p>
+<p>项目组合管理-&gt;关注价值实现</p>
+<ul>
+<li>做正确的“事”</li>
+<li>自由优先级分配</li>
+</ul>
+<p>项目集管理-&gt;关注收益实现</p>
+<ul>
+<li>关联项目管理</li>
+</ul>
+<p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p>
+<ul>
+<li>单个项目管理</li>
+</ul>
+<p>组织项目管理-&gt;组织驱动因素（组织驱动因素主要包括<strong>组织结构、组织文化、组织技术、人力资源实践</strong>。组织驱动因素是组织进行组织级项目管理的重要保证，如果缺失这几个维度的设计，组织级项目管理将会失败，项目组合管理、项目集管理、项目管理也将会失败。）</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.04.29.png"></p>
+<h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​	组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p>
+<ul>
+<li>打通壁垒</li>
+<li>交付战略</li>
+<li>实现价值</li>
+</ul>
+<ol>
+<li>项目、项目集和项目组合管理都要为组织战略服务</li>
+<li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li>
+<li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li>
+<li>战略与战术</li>
+</ol>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.18.49.png"></p>
+<h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol>
+<li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li>
+<li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li>
+<li>不同干系人对于价值的理解可能具有一定的主观性</li>
+<li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li>
+</ol>
+<h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol>
+<li>一组相互关联且被协调管理的项目</li>
+<li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li>
+<li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li>
+<li>项目集管理重点关注项目间的依赖关系</li>
+<li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li>
+<li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li>
+<li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li>
+</ol>
+<h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul>
+<li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li>
+<li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li>
+<li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li>
+<li>项日组合的业务范围随组织战略目标的变化而变化</li>
+<li>做正确的事</li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.19.16.png"></p>
+<h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul>
+<li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li>
+<li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li>
+</ul>
+<h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul>
+<li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li>
+<li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li>
+<li>这个框架会影响：<ol>
+<li>组织目标的设定和实现方式</li>
+<li>风险监控和评估方式</li>
+<li>绩效优化方式</li>
+</ol>
+</li>
+<li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li>
+<li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.45.18.png"></p>
+<h2 id="8-项目组织结构"><a href="#8-项目组织结构" class="headerlink" title="8.项目组织结构"></a>8.项目组织结构</h2><h3 id="职能型"><a href="#职能型" class="headerlink" title="职能型"></a>职能型</h3><p>沟通效率低，专业性高。</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.11.00.png"></p>
+<h3 id="项目型"><a href="#项目型" class="headerlink" title="项目型"></a>项目型</h3><p>沟通会产生项目壁垒，没有归属感，沟通效率高。</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.14.02.png"></p>
+<h3 id="距阵型"><a href="#距阵型" class="headerlink" title="距阵型"></a>距阵型</h3><ul>
+<li><p>弱矩阵型</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.16.29.png"></p>
+</li>
+<li><p>平衡矩阵型</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.17.26.png"></p>
+</li>
+<li><p>强矩阵型</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.18.18.png"></p>
+</li>
+</ul>
+<h3 id="组织结构选择的考虑因素"><a href="#组织结构选择的考虑因素" class="headerlink" title="组织结构选择的考虑因素"></a>组织结构选择的考虑因素</h3><p>选择组织结构时应考虑的因素包括（ 但不限于）：<br>•与组织目标的一致性<br>•专业能力<br>•控制、效率与效果的程度<br>•明确的決策升级渠道<br>•明确的职权线和范围<br>•授权方面的能力<br>•终责分配<br>•职责分配<br>•实施效率<br>•成本考虑<br>•物理位置（例如集中办公、区域办公和虚拟远程办公）<br>•清晰的沟通（例如政策、 工作状态和组织愿景）</p>
+<h3 id="项目管理办公室-PMO"><a href="#项目管理办公室-PMO" class="headerlink" title="项目管理办公室(PMO)"></a>项目管理办公室(PMO)</h3><p>对项目治理过程标准化，促进技术共享的组织部口<br>PMQ 在项目组合、项目集、项且与公司考评体系（如平衡计分卡）之间建立联系<br>所支持或管理的项目<strong>不一定彼此关联</strong><br>在项目<strong>各生命周期内</strong>，PMO可能有权起到核心干系人和关键决策者的作用<br>PMO的一个主要职能是通过各种方式对项目经理<strong>提供支持</strong></p>
+<ul>
+<li><strong>管理共享资源</strong></li>
+<li>识别和开发项目管理方法、最佳实践和标准</li>
+<li>指导  辅导  培训和监督</li>
+<li>通过项目申计，监督对项目管理标准、政策、程序和模板的遵守程度</li>
+<li>制定项目政策、程应 模板和其他共享文件（组织过程资产）</li>
+<li>协调项目之间的沟通</li>
+</ul>
+<h4 id="PMO的六大职能"><a href="#PMO的六大职能" class="headerlink" title="PMO的六大职能"></a>PMO的六大职能</h4><ul>
+<li>人员培养</li>
+<li>流程制度</li>
+<li>咨询辅导</li>
+<li>管理工貝</li>
+<li>过程监控</li>
+<li>绩效考核</li>
+</ul>
+<h4 id="PMO的三种类型："><a href="#PMO的三种类型：" class="headerlink" title="PMO的三种类型："></a>PMO的三种类型：</h4><ul>
+<li><strong>支持型</strong> 项目资源库，对项目控制程度低，无权要求</li>
+<li><strong>控制型</strong>  对项目有一定控制权力，如提供必需使用的模板</li>
+<li><strong>指令型</strong> PMO直接管控项且，PMO拥有很高的权力</li>
+</ul>
+<h3 id="内外部环境"><a href="#内外部环境" class="headerlink" title="内外部环境"></a>内外部环境</h3><ul>
+<li>项目所处的环境可能对项目的开展产生有利或不利的影响</li>
+<li>影响来源：<strong>事业环境因素</strong>(EEF) 和<strong>组织过程资产</strong> (OPA)</li>
+<li>事业环境因素通常源于企业的外部环境（也可包含内部环境因素，组织过程资产源于企业内部）</li>
+<li>除了上述两类，组织系统对项目生命周期也起着重要的作用</li>
+</ul>
+<h4 id="事业环境因素"><a href="#事业环境因素" class="headerlink" title="事业环境因素"></a>事业环境因素</h4><ul>
+<li>事业环境因素（EEF） 是指项目团队不能控制的，将对项目产生影响、限制或指令作用的各种条件</li>
+<li>可能提高或限制项目管理的灵活性，并可能对项目结果产生<strong>积极或消极影响</strong></li>
+<li>分为组织内部的和组织外部的</li>
+<li>内部包括组织文化和结构、<strong>基础设施</strong>、<strong>资源可用性</strong>、员工能力等</li>
+<li>外部包括<u>市场条任、 法律限告 商业数据库、政府或行业标准、物理环境要素</u>等</li>
+</ul>
+<p class='p center logo large'>事业环境因素指的是团队不能直接控制的，将对项目、项目集或项目组合产生影响、限制或指导作用的各种条件。</p>
+
+<h4 id="组织过程资产"><a href="#组织过程资产" class="headerlink" title="组织过程资产"></a>组织过程资产</h4><ul>
+<li>执行组织所特有并使用的计划、过程、政策、程序和知识库，会影响对具体项目的管理</li>
+<li><mark class="hl-label default">帮助项目成功</mark> </li>
+<li>项目团队有责任在项目全过程中对组织过程资产进行必要的更新和补充</li>
+<li>包括：<ol>
+<li><strong>过程、政策和程序</strong>：由项目管理办公室(PMO) 或项目以外的其他职能部门完成，可以通过<strong>项目管理信息系统</strong>呈现</li>
+<li><strong>组织知识库</strong>：在整个项目期间结合项目信息而更新的</li>
+</ol>
+</li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.30.05.png"></p>
+<h2 id="9-产品与项目的关系"><a href="#9-产品与项目的关系" class="headerlink" title="9.产品与项目的关系"></a>9.产品与项目的关系</h2><p>产品生命周期均会产生项目</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.42.59.png"></p>
+<h3 id="9-1-产品生命周期与项目生命周期关系"><a href="#9-1-产品生命周期与项目生命周期关系" class="headerlink" title="9.1 产品生命周期与项目生命周期关系"></a>9.1 产品生命周期与项目生命周期关系</h3><ul>
+<li>项目生命周期与产品生命周期相互独立</li>
+<li>产品生命周期指一个产品从<strong>概念</strong>、<strong>交付</strong>、成长、成熟到衰退的整个演变过程的一系列阶段</li>
+</ul>
+<h3 id="9-2-项目和开发生命周期"><a href="#9-2-项目和开发生命周期" class="headerlink" title="9.2 项目和开发生命周期"></a>9.2 项目和开发生命周期</h3><ul>
+<li>项目生命周期指项目从开始到完成所经历的一系列阶段</li>
+<li>项目生命周期能为管理项目提供基本框架</li>
+<li>项日生命周期的基本结构：开始项目：组织与准备：执行项目工作；结束项目</li>
+<li>这些阶段之间的关系可以<strong>顺序</strong>、<strong>迭代或交叠进行</strong></li>
+<li>项日生命周期内通常有一个或多个险段与产品、服务或成果的开发相关，这些阶段称为<strong>开发生命周期</strong></li>
+<li>开发生命周期可以是<strong>预测型</strong>、<strong>迭代型</strong>、 <strong>增量型</strong>、<strong>敏捷型</strong>或<strong>混合型</strong>的模式</li>
+</ul>
+<h3 id="9-3-项目生命周期中成本和人力投入水平"><a href="#9-3-项目生命周期中成本和人力投入水平" class="headerlink" title="9.3 项目生命周期中成本和人力投入水平"></a>9.3 项目生命周期中成本和人力投入水平</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.49.31.png"></p>
+<h3 id="9-4-项目生命周期的特点-项目干系人影响"><a href="#9-4-项目生命周期的特点-项目干系人影响" class="headerlink" title="9.4 项目生命周期的特点-项目干系人影响"></a>9.4 项目生命周期的特点-项目干系人影响</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.50.52.png"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.52.59.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.53.31.png"></p>
+<h3 id="9-5-开发生命周期"><a href="#9-5-开发生命周期" class="headerlink" title="9.5 开发生命周期"></a>9.5 开发生命周期</h3><div class="img-wrap"><div class="img-bg"><img class="img" src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.55.00.png" alt="开发生命周期示例。"/></div><span class="image-caption">开发生命周期示例。</span></div>
+
+
+
+
+<h4 id="预测型"><a href="#预测型" class="headerlink" title="预测型"></a>预测型</h4><ul>
+<li>完全计划驱动型生命周期</li>
+<li><u>在生命周期的早期阶段确定项目范围、 时间和成本</u>，然后制定产品交付计划，接着通过各阶段来执行计划</li>
+<li>确定计划-＞按计划执行</li>
+<li><u>适用于：充分了解拟交付的产品，有厚实的行业实践基础，整批一次性交付产品有利于干系人</u></li>
+<li><u>预测型生命周期也称为瀑布型生命周期</u></li>
+<li>猴子与大象的故事</li>
+</ul>
+<h4 id="迭代型和增量型"><a href="#迭代型和增量型" class="headerlink" title="迭代型和增量型"></a>迭代型和增量型</h4><ul>
+<li><mark class="hl-label default">迭代</mark> ：通过一系列<mark class="hl-label default">重复</mark> 的循环活动来开发产品</li>
+<li><mark class="hl-label default">增量</mark> ：<mark class="hl-label default">渐进</mark> 的增加产品的功能</li>
+<li>适用于：组织雷要管理<mark class="hl-label default">不断变化</mark> 的目标和范围组织需要隆低项目的复杂性，产品可以部分交付</li>
+</ul>
+<h4 id="敏捷型"><a href="#敏捷型" class="headerlink" title="敏捷型"></a>敏捷型</h4><ul>
+<li>迭代和增量的进一步应用</li>
+<li>迭代快(2-4周迭代一次)，所需<mark class="hl-label default">时间</mark> 和<mark class="hl-label default">资源</mark> 固定</li>
+<li>适用情況：应对<mark class="hl-label default">快速变化</mark> 的<mark class="hl-label default">环境</mark> ，需求或范围难以实现确定，以有利于王系人的方式定义较小的增量改进</li>
+<li>迭代型、 增量型、敏捷型 、混合型都可以看成是<mark class="hl-label default">适应型</mark> 的一种方法</li>
+</ul>
+<p class='p center logo large'>敏捷开发-对付纠结最好的办法就是做让你纠结的事情！！！</p>
+
+<h4 id="不同开发生命周期比较"><a href="#不同开发生命周期比较" class="headerlink" title="不同开发生命周期比较"></a>不同开发生命周期比较</h4><div class="img-wrap"><div class="img-bg"><img class="img" src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_22.12.06.png" alt="不同开发生命周期比较"/></div><span class="image-caption">不同开发生命周期比较</span></div>
+
+
+
+
+<h4 id="敏捷相关背景与注意事项"><a href="#敏捷相关背景与注意事项" class="headerlink" title="敏捷相关背景与注意事项"></a>敏捷相关背景与注意事项</h4><ul>
+<li>2001年初，因观察到许多的软件团队身陷不断扩大的流程之中的困境，一群业界专家聚集在一起(Snowbird,Utah），勾勒出一些能让软件國队迅速工作，以及响应变化的<strong>价值观</strong>和<strong>原则</strong>。他们自称为Agile Alliance</li>
+<li>之后的七个月里，他们创造具有价值的<strong>声明</strong>，也就是敏捷<strong>宣言</strong>。成为敏捷精神的内核和灵魂</li>
+<li>经过实践者不断地总结和梳理，将敏捷的框架、工具、方法等应用到项目管理中，形成了敏捷项目管理的整体思路</li>
+<li>考试通常在混合型生命周期中考察敏捷的 “道” ，在纯敏捷题目中考察敏捷的“术〞，但知识点不会特别深</li>
+</ul>
+<h3 id="敏捷宣言"><a href="#敏捷宣言" class="headerlink" title="敏捷宣言"></a>敏捷宣言</h3><p>我们一直在实践中探寻更好的软件开发方法，身体力行同时也帮助他人。由此我们建立了如下价值观</p>
+<ul>
+<li>个体和互动 高于 流程和工具</li>
+<li>工作的软件 高子 详尽的文档</li>
+<li>客户合作 高于 合同谈判</li>
+<li>响应变化 高于 遵循计划</li>
+</ul>
+<p>也就是说，尽管右项有其价值，我们更重视左项的价值。</p>
+<h3 id="敏捷的原则"><a href="#敏捷的原则" class="headerlink" title="敏捷的原则"></a>敏捷的原则</h3><ol>
+<li>我们最优先要做的是通过尽早的、持续的交付有价值的软件来使客户满意</li>
+<li>即使到了开发的后期，也欢迎改变需求</li>
+<li>经常性地交付可以工作的软件，交付的间隔可以从几周到几个月，<span class='p red'>交付的时间间隔越短越好</span></li>
+<li>在整个项目开发期间，业务人员和开发人员必须天天都在一起工作</li>
+<li>围绕被激励起来的个人来构建项目</li>
+<li>在团队内部，最具有效果并且富有效率的传递信息的方法，就是面对面的交谈</li>
+<li>工作的软件是首要的进度度量标准</li>
+<li>敏捷过程提信平稳的开发节奏；发起人、开发者和用户应该能够保持长期的、恒定的开发速度</li>
+<li>不断地关注优秀的技能和好的设计会增强敏捷能力</li>
+<li>简单化是根本（不做过度设计和预测〕</li>
+<li>最好的构架、需求和设计出自于自组织的团队</li>
+<li>每隔一定时间，团队会在如何才能更有效地工作方面进行反思并对自己的行为进行相应调整</li>
+</ol>
+<p class='p center logo large'>事：</p>
+
+
+<p class='p red'>持续交付，小步快跑</p>
+<p class='p yellow'>拥抱变化，提高优势</p>
+<p class='p green'>尽早反馈，价值排序</p>
+<p class='p red'>成果达成，衡量进度</p>
+<p class='p yellow'>持续更新，强化敏捷</p>
+<p class='p green'>精简产品，杜绝浪费</p>
+
+
+<p class='p center logo large'>人：</p>
+
+
+<p class='p red'>团队合作，每日互动</p>
+<p class='p yellow'>信任成员，给子支援</p>
+<p class='p green'>当面沟通，高效明了</p>
+<p class='p red'>各方成员，稳定节奏</p>
+<p class='p yellow'>同心协力，自我组织</p>
+<p class='p green'>团队自省，持续改进</p>
+
+
+<p class='p center logo large'>敏捷的灵魂是思维模式的转变，而不是工具方法的堆砌</p>
+
+
+
+]]></content>
+      <categories>
+        <category>PMP</category>
+      </categories>
+      <tags>
+        <tag>PMP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PMP学习第五课-团队绩效域</title>
+    <url>/2025/02/17/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%94%E8%AF%BE-%E5%9B%A2%E9%98%9F%E7%BB%A9%E6%95%88%E5%9F%9F/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="第五章-团队绩效域"><a href="#第五章-团队绩效域" class="headerlink" title="第五章 团队绩效域"></a>第五章 团队绩效域</h1><h2 id="1、团队绩效域概览"><a href="#1、团队绩效域概览" class="headerlink" title="1、团队绩效域概览"></a>1、团队绩效域概览</h2><p>团队绩效域涉及与负责生成项目可交付物以实现商业成果的相关的人员活动和功能。</p>
+<p>有效执行此绩效域特产生以下预期成果：</p>
+<ul>
+<li>共享责任。</li>
+<li>高绩效团队。</li>
+<li>所有团队成员都展现出相关领导力和其他人际关系技能。</li>
+</ul>
+<h2 id="2、团队绩效域的相关核心概念"><a href="#2、团队绩效域的相关核心概念" class="headerlink" title="2、团队绩效域的相关核心概念"></a>2、团队绩效域的相关核心概念</h2><ul>
+<li><p><strong>项目经理</strong> ：由执行组织委派，领导项目团队实现项目目标的个人</p>
+</li>
+<li><p><strong>项目管理团队</strong> ：直接参与项目管理活动的项目团队成员</p>
+</li>
+<li><p><strong>项目团队</strong> ：执行项目工作，以实现项目目标的一组人员</p>
+</li>
+<li><p><strong>管理活动</strong> 聚焦于实现项目目标的手段，例如制定有效的程序、规<br>划、协调、测量和监督工作等</p>
+</li>
+<li><p><strong>领导力</strong> 活动关注于人。领导力活动包括影响、激励、倾听、促使<br>（引导），以及与项目团队相关的其他活动。这两个方面对交付<br>预期成果都很重要</p>
+</li>
+<li><p>高绩效团队：项目团队彼此信任，相互协作。项目团队适应不断<br>变化的情况，并在面对挑战时有韧性。项目团队感到被赋能</p>
+</li>
+<li><p><strong>服务型（仆人型）领导者</strong> 使项目团队在可能的情况下进行 <strong>自组织</strong> ，并通过向项目团队成员提供适当的决策机会来提高自主性。服务型领导力行为包括：<br>✓ <strong>消除障碍</strong> 。由于是项目团队创造了大部分商业价值，服务型领导者的关键角色是通过消除进展中的障碍因素来最大化地交付商业价值。这包括解决问题和消除可能妨碍项目团队工作的障碍<br>✓ <strong>避免分心</strong> 。服务型领导者会使项目团队免受内部和外部分心之事影响，时间碎片化会降低生产率，因此使项目团队免受非关键外部需求影响有助于项目团队保持专注<br>✓ <strong>鼓励和发展机会</strong> 。服务型领导者还提供相关工具和鼓励，让项目团队保持满意度且工作富有成效</p>
+</li>
+</ul>
+<h2 id="3、团队绩效域的具体环节"><a href="#3、团队绩效域的具体环节" class="headerlink" title="3、团队绩效域的具体环节"></a>3、团队绩效域的具体环节</h2><p>识别、获取和管理所需资源以成功完成项目的各个过程<br>包括成立团队、组织团队、建设团队活动、 <strong>处理冲突</strong> 等事宜、<br><strong>规划、资源、管理</strong>：定义如何估算、获取、管理和利用团队项目资源的过程获取项目所需的团队成员等相关资源的过程、<br><strong>估算、活动、资源</strong>：估算执行项目所需的团队资源（也可包括材料、设备和用品）的类型和数量的过程<br><strong>获取资源</strong>：获取项目所需的团队成员的个相关资源的过程</p>
+<p><strong>建设团队</strong>：提高工作能力，促进团队成员互动，改善团队整体氛围，以提高项目绩效的过程</p>
+<p><strong>管理团队</strong>：跟踪团队成员工作表现，提供反馈，解决问题并管理团队变更，以优化项目绩效的过程</p>
+<h3 id="3-1规划资源管理"><a href="#3-1规划资源管理" class="headerlink" title="3.1规划资源管理"></a>3.1规划资源管理</h3><ul>
+<li>定义：规定如何估算、获取、管理和利用团队资源的过程</li>
+<li>作用：根据项目类型和复杂程度确定适用于项目资源的管理<br>方法和管理程度</li>
+<li>时间：仅开展一次或仅在项目的预定义点开展</li>
+<li>需要考虑稀缺资源的可得性或者对稀缺资源的竞争，编制相<br>应的计划，保证人力资源规划的有效性</li>
+<li>资源可以从组织内部资产获得，或者通过外包（采购）从组<br>织外部获取</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="规划资源管理"/></div><span class="image-caption">规划资源管理</span></div>
+
+<h4 id="3-1-2RACI——职责分配矩阵的例子"><a href="#3-1-2RACI——职责分配矩阵的例子" class="headerlink" title="3.1.2RACI——职责分配矩阵的例子"></a>3.1.2RACI——职责分配矩阵的例子</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">每一个活动只能有一个“A”角色</span><br><span class="line">R=Responsible（执行，做事儿/执行）</span><br><span class="line">A=Accountable（负责，同意/签署） I=Inform（知情）</span><br><span class="line">C=Consult（征询意见）</span><br></pre></td></tr></table></figure>
+
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="责任分配矩阵示例"/></div><span class="image-caption">责任分配矩阵示例</span></div>
+
+<h3 id="3-2-资源管理计划"><a href="#3-2-资源管理计划" class="headerlink" title="3.2 资源管理计划"></a>3.2 资源管理计划</h3><ul>
+<li>资源管理计划提供了关于 <strong>如何</strong> 分类、分配、管理和释放项目资<br>源的指南</li>
+<li>资源管理计划可以根据项目的具体情况分为 <strong>团队管理计划</strong> 和 <strong>实</strong><br><strong>物资源管理计划</strong></li>
+<li>包括：<br>✓角色和职责（角色、职权、职责、能力的具体说明）<br>✓项目组织图（展示项目团队成员及其报告关系）<br>✓如何识别、获取、控制资源<br>✓如何进行团队建设<br>✓ <strong>如何进行团队资源管理</strong> （人员招募、人员配备、人员<br>管理、人员遣散、 <strong>培训</strong> 需要、认可计划）</li>
+</ul>
+<h3 id="3-3团队章程"><a href="#3-3团队章程" class="headerlink" title="3.3团队章程"></a>3.3团队章程</h3><ul>
+<li>团队章程对项目团队成员的可接受行为确定了明确<br>的期望</li>
+<li>要塑造团队文化（透明、诚信、尊重、勇气、庆祝<br>成功等）</li>
+<li>可定期审查和更新团队章程，确保团队始终了解团<br>队基本规则，并指导新成员融入团队</li>
+<li>为团队创建团队价值观、共识和工作指南的文件</li>
+<li>团队章程可能包括：<br>✓团队价值观；<br>✓沟通指南；<br>✓决策标准和过程；<br>✓冲突处理过程；<br>✓会议指南；<br>✓团队共识；</li>
+</ul>
+<h2 id="3-4估算活动资源"><a href="#3-4估算活动资源" class="headerlink" title="3.4估算活动资源"></a>3.4估算活动资源</h2><ul>
+<li>定义：估算执行项目所需的团队资源的过程</li>
+<li>作用：明确完成项目所需的资源种类、数量和特性</li>
+<li>发生时间：本过程应根据需要在整个项目期间定期开展</li>
+</ul>
+<h3 id="3-4-1关于常见的估算类型"><a href="#3-4-1关于常见的估算类型" class="headerlink" title="3.4.1关于常见的估算类型"></a>3.4.1关于常见的估算类型</h3><div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="关于常见的估算类型"/></div><span class="image-caption">关于常见的估算类型</span></div>
+
+<h3 id="3-4-2-资源需求"><a href="#3-4-2-资源需求" class="headerlink" title="3.4.2 资源需求"></a>3.4.2 资源需求</h3><ul>
+<li>资源需求识别了各个工作包或工作包中每个活动所需的资源类型和数量</li>
+<li>可以汇总这些需求，以估算每个工作包、每个WBS分支以及整个项目所需的资源</li>
+<li>资源需求描述的细节数量与具体程度因应用领域而异</li>
+<li>资源需求文件也可包含为确定所用资源的类型、可用性和所需数量所做的假设</li>
+</ul>
+<h3 id="3-4-3-资源分解结构"><a href="#3-4-3-资源分解结构" class="headerlink" title="3.4.3 资源分解结构"></a>3.4.3 资源分解结构</h3><ul>
+<li>资源分解结构是资源依 <strong>类别和类型</strong> 的层级展现<br>✓资源类别包括（但不限于）人力、材料、<br>设备和用品<br>✓资源类型则包括技能水平、要求证书、等<br>级水平或适用于项目的其他类型</li>
+<li>在规划资源管理过程中，资源分解结构用于指<br>导项目的分类活动</li>
+<li>在这一过程中，资源分解结构是一份完整的文<br>件，用于获取和监督资源</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="资源分解结构"/></div><span class="image-caption">资源分解结构</span></div>
+
+<h3 id="3-4-4-获取资源"><a href="#3-4-4-获取资源" class="headerlink" title="3.4.4 获取资源"></a>3.4.4 获取资源</h3><ul>
+<li>定义：获取项目所需的<u>团队成员、设施、设备、材料、用品和其他资源的过程</u></li>
+<li>作用：概述和指导资源的选择，并将其分配给相应的活动</li>
+<li>发生时间：根据需要在整个项目期间定期开展</li>
+<li>项目所需资源可能来自项目执行组织的内部或外部<br>✓内部资源由 <strong>职能经理或资源经理</strong> 负责获取（分配）<br>✓外部资源则是通过 <strong>采购</strong> 过程获得</li>
+<li>项目管理团队可能不对资源选择有直接控制权，但要注意以下三点：<br>✓有效谈判<br>✓资源不能获取时的风险预判<br>✓<u>有时不得不使用能力不同的替代资源</u>（注意职业道德）</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="多标准决策分析"/></div><span class="image-caption">多标准决策分析</span></div>
+
+<h3 id="3-4-5-实物资源分配单-项目团队派工单"><a href="#3-4-5-实物资源分配单-项目团队派工单" class="headerlink" title="3.4.5 实物资源分配单&amp;项目团队派工单"></a>3.4.5 实物资源分配单&amp;项目团队派工单</h3><ul>
+<li><strong>实物资源分配单</strong> （physical resource assignments）<br>✓记录了项目将使用的材料、设备、用品、地点和其他实物资源</li>
+<li><strong>项目团队派工单</strong> （team assignments ）<br>✓记录了团队成员及其在项目中的角色和职责<br>✓可包括项目团队名录<br>✓需要把人员姓名插入项目管理计划的其他部分，如项目组织图和进度计划</li>
+</ul>
+<h3 id="3-4-6-资源日历"><a href="#3-4-6-资源日历" class="headerlink" title="3.4.6 资源日历"></a>3.4.6 资源日历</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">三个跟资源有关的重点概念：</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><strong>资源日历</strong> ：<br>✓表明每种具体资源的可用工作日或工作班次的日历（ <strong>资源的客观提供</strong> ）<br>✓资源日历需要在整个项目过程中渐进明细<br>和更新</li>
+<li><strong>项目日历</strong> ：表明进度活动的可用工作日和工作班次的日历</li>
+<li><strong>资源直方图</strong> ：按一系列时间段显示某种资源的计划工作时间的条形图（按时段计列的资源 <strong>主观需求</strong> ）</li>
+</ul>
+<h3 id="3-4-7-建设团队（DevelopTeam）"><a href="#3-4-7-建设团队（DevelopTeam）" class="headerlink" title="3.4.7 建设团队（DevelopTeam）"></a>3.4.7 建设团队（DevelopTeam）</h3><ul>
+<li>定义：提高工作能力、促进团队互动和改善团队氛围，以 <strong>提高团队&#x2F;项目绩效</strong> 的过程</li>
+<li>作用：改进团队协作、增强人际关系技能、激励员工、减少摩擦以及提升整体项目绩效</li>
+<li>发生时间：在整个项目期间开展</li>
+<li>PM是个纽带，让团队更和谐</li>
+<li>项目管理团队应该利用文化差异，营造充满信任的氛围</li>
+<li>建设团队的四个目标:<br>✓提高团队成员的知识和技能<br>✓提高团队成员之间的信任和认同感<br>✓创建富有生气和凝聚力的团队文化<br>✓提高团队参与决策的能力</li>
+</ul>
+<h4 id="3-4-7-1-团队一般成长规律–Bruce-Tuckmans模型"><a href="#3-4-7-1-团队一般成长规律–Bruce-Tuckmans模型" class="headerlink" title="3.4.7.1 团队一般成长规律–Bruce Tuckmans模型"></a>3.4.7.1 <strong>团队一般成长规律–Bruce Tuckmans模型</strong></h4><div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="塔克曼团队发展阶段模型"/></div><span class="image-caption">塔克曼团队发展阶段模型</span></div>
+
+<ul>
+<li><strong>形成阶段</strong> ：相互认识，了解角色。相互独立，不怎么开诚布公</li>
+<li><strong>震荡阶段</strong> ：开始从事工作并讨论，可能有冲突，团队环境可能恶化成破坏性的</li>
+<li><strong>规范阶段</strong> ：开始协同工作，开始相互信任</li>
+<li><strong>成熟阶段</strong> ：相互依靠，平稳高效地解决问题</li>
+<li><strong>解散阶段</strong> ：完成所有工作，团队成员离开项目</li>
+<li>阶段持续时间的长短，取决于团队活力、团队规模、团队领导力</li>
+</ul>
+<h4 id="3-4-7-2-集中办公-虚拟团队"><a href="#3-4-7-2-集中办公-虚拟团队" class="headerlink" title="3.4.7.2 集中办公&amp;虚拟团队"></a>3.4.7.2 <strong>集中办公&amp;虚拟团队</strong></h4><p><strong>集中办公</strong></p>
+<ul>
+<li>许多或全部最活跃的项目团队成员安排在同一个物理地点工作，可以是临时的也可以是长久的</li>
+<li>集中办公又被称为紧密矩阵</li>
+<li>是一种有效的团队建设活动</li>
+<li>尽管集中办公是一种良好的团队建设策略，但虚拟团队的使用有时也不可避免</li>
+</ul>
+<p><strong>虚拟团队</strong></p>
+<ul>
+<li>可以使用更多技术熟练的资源、降低成本、减少出差及搬迁费用</li>
+<li>注意沟通规划</li>
+</ul>
+<h5 id="认可与奖励"><a href="#认可与奖励" class="headerlink" title="认可与奖励"></a><strong>认可与奖励</strong></h5><ul>
+<li>只有能满足被奖励者的某个重要需求的奖励，才是有效的奖励</li>
+<li>在决定认可与奖励时，应考虑文化差异</li>
+<li>客观，多赢的态度</li>
+<li><strong>赢‐输（零和）奖励会破坏团队凝聚力</strong></li>
+<li>大多数项目团队成员会因得到成长机会、获得成就感以及用专业技能迎接新挑战，而受到激励</li>
+<li><strong>在整个项目生命周期中尽可能地给予表彰，而不是最后</strong></li>
+</ul>
+<h5 id="培训"><a href="#培训" class="headerlink" title="培训"></a><strong>培训</strong></h5><ul>
+<li>培训可以是正式（课堂培训、在线培训等）或非正式（辅导及指导）的</li>
+<li><strong>应该按资源管理计划中的安排来实施预定的培训</strong></li>
+<li>培训成本包含在项目预算中</li>
+</ul>
+<h5 id="3-4-8个人和团队评估"><a href="#3-4-8个人和团队评估" class="headerlink" title="3.4.8个人和团队评估"></a>3.4.8<strong>个人和团队评估</strong></h5><ul>
+<li>个人和团队评估工具能让项目经理和项目团队洞察成员的优势和劣势</li>
+<li>评估团队成员的偏好和愿望、了解团队成员如何处理信息、如何制定决策，如何与他人打交道</li>
+<li>有利于增进团队成员间的理解、信任、承诺和沟通，从而提高团队成效</li>
+<li>常用工具：态度调查、专项评估、 <strong>结构化访谈</strong> 、能力测试、焦点小组</li>
+</ul>
+<p><strong>马斯洛(Maslow)需求层次理论</strong></p>
+<ol>
+<li>八戒的需求是 <strong>生理</strong> ，激励八戒向前的因素主要有：食物等……(最底层)</li>
+<li>沙僧的需求是 <strong>安全</strong> ，激励沙僧向前的因素主要有：安全、秩序；</li>
+<li>白龙的需求是 <strong>社交</strong> （归属），激励白龙向前的因素主要有：友情、归属；</li>
+<li>唐僧的需求是 <strong>荣誉</strong> ，激励唐僧向前的因素主要有：成就、尊重、欣赏（当然还有自我欣赏）</li>
+<li>悟空的需求是 <strong>自我实现</strong> ，激励悟空向前的因素主要有：实现自我价值，包括学习、发展、创造力和自觉性(最高层)</li>
+</ol>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="马斯洛需求层次理论"/></div><span class="image-caption">马斯洛需求层次理论</span></div>
+
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="麦克雷戈x、y理论"/></div><span class="image-caption">麦克雷戈x、y理论</span></div>
+
+<p><strong>不同版本的Z 理论</strong></p>
+<ul>
+<li>Abraham Maslow 版本的Z 理论认为在工作中，个人的动机是自我实现、价值观和更强的使命感。在这种情境下，最佳的管理风格是一种可培养洞察力、具有意义的管理风格</li>
+<li>William Ouchi版本的Z 理论侧重于通过创造关注员工及其家人福利的终身工作来激励员工</li>
+<li>这种管理方式旨在提高生产率、士气和满意度</li>
+</ul>
+<p><strong>赫茨伯格(Herzberg)的双因素理论</strong></p>
+<ul>
+<li>双因素理论(Two Factors Theory)又称激励保健理论(Motivator-<br>Hygiene Theory)</li>
+<li>引起人们工作动机的因素主要有两个：一是保健因素，二是激励因<br>素。只有激励因素才能够给人们带来满意感，而保健因素只能消除<br>人们的不满，但不会带来满意感。</li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">保健因素 ：是指那些与人们的不满情绪有关的因素，如企业政策，工资水平，工作环境，劳动保护，人际关系等；缺少他们人们会不满意</span><br><span class="line">激励因素 ：是指那些与人们的满意情绪有关的因素，如工作表现机会，工作带来的愉快，工作上的成就感，由于好的成绩而得到的奖励，未来发展的期望，职务上的责任感；缺少他们人们不会满意(没有满意)</span><br></pre></td></tr></table></figure>
+
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="赫茨伯格(Herzberg)的双因素理论"/></div><span class="image-caption">赫茨伯格(Herzberg)的双因素理论</span></div>
+
+<p><strong>丹尼尔·平克(Daniel·Pink)的驱动力模型</strong></p>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="丹尼尔·平克(Daniel·Pink)的驱动力模型"/></div><span class="image-caption">丹尼尔·平克(Daniel·Pink)的驱动力模型</span></div>
+
+<h3 id="3-4-8团队绩效评价"><a href="#3-4-8团队绩效评价" class="headerlink" title="3.4.8团队绩效评价"></a>3.4.8<strong>团队绩效评价</strong></h3><ul>
+<li><strong>项目团队的有效性</strong> ，进行正式或非正式评价</li>
+<li>评价标准：<u>项目的技术成功度（达到约定的项目目标）、项目进度绩效（按时完成）和成本绩效（在财务约束条件内完成），来评价团队绩效</u></li>
+<li>评价团队有效性的指标可包括：<br>✓个人技能的改进，从而使成员更有效地完成工作任务<br>✓<u>团队能力</u>的改进，从而使团队整体工作得更好<br>✓团队成员<u>离职率</u>的降低<br>✓团队凝聚力的加强，从而使团队成员开放地分享信息和经验，并互相帮助，来提高项目绩效</li>
+</ul>
+<h3 id="3-4-9管理团队"><a href="#3-4-9管理团队" class="headerlink" title="3.4.9管理团队"></a>3.4.9<strong>管理团队</strong></h3><ul>
+<li>定义：跟踪团队成员的表现、提供反馈、解决问题并管理变更，<u>以优化项目绩效的过程</u></li>
+<li><u>作用：影响团队行为、管理冲突以及解决问题</u></li>
+<li>发生时间：在整个项目期间开展</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="管理团队"/></div><span class="image-caption">管理团队</span></div>
+
+<h4 id="3-4-9-1人际关系与团队技能——冲突管理"><a href="#3-4-9-1人际关系与团队技能——冲突管理" class="headerlink" title="3.4.9.1人际关系与团队技能——冲突管理"></a>3.4.9.1<strong>人际关系与团队技能——冲突管理</strong></h4><ul>
+<li><strong>冲突是正常的</strong> ，它迫使人们寻找解决方案</li>
+<li>冲突因团队而存在</li>
+<li><u>开诚布公有利于解决冲突</u></li>
+<li>解决冲突应对事不对人</li>
+<li>解决冲突应<u>着眼于现在而非过去</u></li>
+<li>冲突不能避免，遇到冲突需要考虑怎样处理</li>
+<li><strong>早期冲突原因是优先级和资源，中后期是进度</strong></li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="冲突管理1"/></div><span class="image-caption">冲突管理1</span></div>
+
+<p><strong>冲突解决方法：</strong></p>
+<ul>
+<li><strong>合作</strong> ：当参与者之间已 <strong>建立信任</strong> 并且 <strong>有时间达成共识</strong> 时，这是<br>一种有效的方法。项目经理可以引导项目团队成员之间采用这<br>种解决冲突的方法</li>
+<li><strong>强迫&#x2F;命令</strong> ：一输一赢，利用权力，暂时解决</li>
+<li><strong>妥协&#x2F;调解</strong> ：双输，各让一步，一定程度上满意</li>
+<li><strong>缓和&#x2F;包容&#x2F;迁就</strong> ：为维持和谐与关系而退让一步，考虑其他方<br>的需要</li>
+<li><strong>撤退&#x2F;回避</strong> ：退出，推迟，推脱。没有解决冲突</li>
+<li>可以把 <strong>面对&#x2F;解决问题</strong> 单独当作一种方法，当冲突双方之间的关<br>系很重要，并且每一方都对另一方解决问题的能力有信心时，<br>就会采用这种解决冲突的方法</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="冲突管理2"/></div><span class="image-caption">冲突管理2</span></div>
+
+<p><strong>冲突管理——冲突的五个阶段</strong></p>
+<ul>
+<li>管理学家斯蒂芬•P•罗宾斯提出五阶段冲突理论，把冲突的过程分<br>为五个阶段：</li>
+<li><strong>阶段一：潜在的对立</strong> 。（原因：沟通﹑结构和个人因素）</li>
+<li><strong>阶段二：认知和情感投入</strong> 。当个体有了感情上的投入，双方都体验<br>到焦虑和紧张﹑挫折或敌对时，潜在冲突方才可能成为现实</li>
+<li><strong>阶段三：行为意向</strong> 。介于一个人的认知和外显行为之间，指采取某<br>种特定行为的决策。行为意向之所以作为独立阶段划分出来，是因<br>为行为意向导致行为。</li>
+<li><strong>阶段四：行为</strong> 。当一个人采取行动去阻止别人达到目标或损害他<br>人的利益时，就处在冲突过程的第四个阶段。</li>
+<li><strong>阶段五：结果</strong> 。冲突双方之间相互作用导致最后的结果，可能是<br>正向也可能是负向。</li>
+</ul>
+<h4 id="3-4-9-2-人际关系与团队技能——制定决策-情商制定决策"><a href="#3-4-9-2-人际关系与团队技能——制定决策-情商制定决策" class="headerlink" title="3.4.9.2 人际关系与团队技能——制定决策&amp;情商制定决策"></a>3.4.9.2 人际关系与团队技能——制定决策&amp;情商制定决策</h4><p>制定决策</p>
+<ul>
+<li>着眼于所要达到的目标</li>
+<li>遵循决策流程</li>
+<li>研究环境因素</li>
+<li>分析可用信息</li>
+<li>激发团队创造力</li>
+<li>理解风险</li>
+</ul>
+<p>情商</p>
+<ul>
+<li>情商指识别、评估和管理个人情绪、他人情绪及团体情绪的能力</li>
+<li>了解、评估及控制项目团队成员的情绪，预测团队成员的行为，确认团队成员的关注点及跟踪团队成员的问题，来 <strong>减轻压力、加强合作</strong> 的</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="情商低组成部分"/></div><span class="image-caption">情商低组成部分</span></div>
+
+
+<h4 id="3-4-9-3-人际关系与团队技能——影响力-领导力"><a href="#3-4-9-3-人际关系与团队技能——影响力-领导力" class="headerlink" title="3.4.9.3 人际关系与团队技能——影响力&amp;领导力"></a>3.4.9.3 人际关系与团队技能——影响力&amp;领导力</h4><p><strong>影响力</strong></p>
+<ul>
+<li>矩阵环境中，项目经理对团队成员通常没有或仅有很小的命令职权，所以他们 <strong>适时影响</strong> 干系人的能力，对保证项目成功非常关键</li>
+<li>影响力主要体现在如下各方面：<br>✓说服他人<br>✓清晰表达观点和立场<br>✓积极且有效的倾听<br>✓了解并综合考虑各种观点<br>✓收集相关信息，在维护相互信任的关系下，解决问题并达成一致意见</li>
+</ul>
+<p><strong>领导力</strong></p>
+<ul>
+<li>建立和维护愿景、批判性思维、激励、情商、决策</li>
+</ul>
+<p><strong>情境领导力II</strong></p>
+<ul>
+<li><p>Ken Blanchard 的情境领导力II通过将胜任力和承诺作为两大主要变量来测量项目团队成员的发展情况</p>
+</li>
+<li><p>胜任力是能力、知识和技能的组合。承诺涉及个人具有的信心和动机</p>
+</li>
+<li><p>随着个人的胜任力（能力）和承诺（意愿）不断演变，领导风格会经历从指导到教练到支持再到授权的变化，以满足个人的需要</p>
+</li>
+<li><p>判断员工的发展阶段可以依据两个组合要素：能力和意愿。D1阶段的员工能力弱但工作意愿强，D2阶段的员工能力弱或能力平平但工作意愿低，D3阶段的员工能力中等或强，但工作意愿不足，D4阶段的员工能力强且工作意愿高</p>
+</li>
+<li><p>分别把他们称为热情高涨的初学者、憧憬幻灭的学习者、有能力但谨慎的执行者、独立自主的完成者</p>
+</li>
+<li><p>处于D1阶段的员工，适合用指令型的领导型态（S1：高指导、低支持），教练型的领导型态（S2：高指导、高支持）适合用于D2阶段的员工，对D3阶段的员工适合采取支持型（S3：高支持、低指导）的领导型态，由领导者和下属一起进行决策；授权型（S4：低指导、低支持）的领导型态一般针对D4阶段的员工</p>
+</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="情境领导力"/></div><span class="image-caption">情境领导力</span></div>
+
+<h3 id="3-4-10-五种权力类型"><a href="#3-4-10-五种权力类型" class="headerlink" title="3.4.10 五种权力类型"></a>3.4.10 <strong>五种权力类型</strong></h3><ul>
+<li><strong>正式权力</strong> （formal）: 来自组织的正职位，也叫法定权力</li>
+<li><strong>奖励权力</strong> (Reward) ：PM在其职位可以使用的奖励权</li>
+<li><strong>惩罚权力</strong> （punish）: 很有力，但是会对团队造成很坏的气氛</li>
+<li><strong>专家权力</strong> （expert）: 具有专门的知识，会拥有较高的威望</li>
+<li><strong>暗示权力</strong> (referent) : 与一些有权力的人有关系，“狐假虎威”</li>
+<li>PMI推崇奖励权力&#x2F;专家权力，避免使用惩罚权力 张智喨老师版权所有</li>
+</ul>
+]]></content>
+      <categories>
+        <category>PMP</category>
+      </categories>
+      <tags>
+        <tag>PMP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PMP学习第一课-引论</title>
+    <url>/2025/02/10/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%BC%95%E8%AE%BA/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="引论"><a href="#引论" class="headerlink" title="引论"></a>引论</h1><h2 id="1-调查结果"><a href="#1-调查结果" class="headerlink" title="1.调查结果"></a>1.调查结果</h2><h2 id="2-项目管理整体思路"><a href="#2-项目管理整体思路" class="headerlink" title="2.项目管理整体思路"></a>2.项目管理整体思路</h2><ul>
+<li>管事 过程 50%</li>
+<li>理人 人员 42%<ol>
+<li>管理冲突</li>
+<li>领导团队</li>
+<li>支持团队绩效</li>
+<li>授权团队成员</li>
+</ol>
+</li>
+<li>业务环境 8%</li>
+</ul>
+<p>第7版内容：<em><strong>价值、原则、绩效域</strong></em></p>
+<p>项目管理协会职业道德与专业行为规范</p>
+<ul>
+<li><p><strong>责任，尊重、公正、诚实</strong></p>
+</li>
+<li><p>指导<strong>单个</strong>项目如何完成</p>
+<p>项目集，项目组合、组织级项目管理：参考其他标准</p>
+</li>
+</ul>
+<h2 id="3-项目的概念"><a href="#3-项目的概念" class="headerlink" title="3.项目的概念"></a>3.项目的概念</h2><p>为创造<strong>独特</strong>的<strong>产品</strong>、<strong>服务或成果</strong>而进行的<strong>临时性</strong>工作</p>
+<p><strong>有始有终</strong>的就算上项目   项目具有独特性、临时性、渐进明细性（区别于范围潜变《范围蔓延》）滚动规划</p>
+<p>eg：录制一个5分钟视频、跟下属分配一件事情、培养孩子上大学、旅游、约会</p>
+<p>终点模糊的不算项目 运营：重复性，持续性</p>
+<p>eg：财务管理工作、流水线生产、每天例行检查</p>
+<h3 id="3-1-项目管理"><a href="#3-1-项目管理" class="headerlink" title="3.1 项目管理"></a>3.1 项目管理</h3><ul>
+<li><p><strong>知识、技能、工具与技术</strong>应用于<strong>管理活动和领导力</strong>，以满足项目的要求</p>
+</li>
+<li><p>项目管理通过合理于整合特点项目所需的项目管理过程得以实现</p>
+</li>
+<li><p>项目管理的重点和难点：平衡制约，实现价值</p>
+</li>
+</ul>
+<h3 id="3-2-项目管理的四个层次"><a href="#3-2-项目管理的四个层次" class="headerlink" title="3.2 项目管理的四个层次"></a>3.2 项目管理的四个层次</h3><ul>
+<li><p><strong>分解</strong> 复杂的事情简单化</p>
+</li>
+<li><p><strong>临界值</strong> 简单的事情量化</p>
+</li>
+<li><p><strong>规律</strong> 量化的事情专业化</p>
+</li>
+<li><p><strong>框架模版</strong>（ITO） 专业的事情模版化</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.2025-02-1002.png"></p>
+</li>
+</ul>
+<h3 id="3-3-项目的制约因素"><a href="#3-3-项目的制约因素" class="headerlink" title="3.3 项目的制约因素"></a>3.3 项目的制约因素</h3><p>范围、进度、成本</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.2025-02101.png"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.22.26.png"></p>
+<h3 id="3-4-项目启动背景"><a href="#3-4-项目启动背景" class="headerlink" title="3.4 项目启动背景"></a>3.4 项目启动背景</h3><ul>
+<li>执行、变更业务或技术战略 <strong>公司</strong></li>
+<li>满足干系人的要求或需求 <strong>个人</strong></li>
+<li>符合法律、法规或社会要求 <strong>法律</strong></li>
+<li>创造、改进或修复过程或服务 <strong>创新</strong></li>
+</ul>
+<h3 id="3-5-项目的作用"><a href="#3-5-项目的作用" class="headerlink" title="3.5 项目的作用"></a>3.5 项目的作用</h3><p>项目代理的收益可以上有型的、无形的或两者兼有之</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.30.08.png"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.28.31.png"></p>
+<p>Pmbook第6版本 项目管理的十大知识领域</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.31.49.png"></p>
+<p>项目管理的五大过程组</p>
+<p>启动、规划、执行、监控、收尾</p>
+<p>监控过程组贯穿始终。</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.33.23.png"></p>
+<p>第7版本 核心内容、价值、原则、绩效域</p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.41.38.png"></p>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.42.13.png"></p>
+<h2 id="4-引论大纲"><a href="#4-引论大纲" class="headerlink" title="4.引论大纲"></a>4.引论大纲</h2><p>加粗的上重点！</p>
+<p>八大绩效域</p>
+<ul>
+<li>项目价值交付系统</li>
+<li>项目管理整体原则</li>
+<li>干系人绩效域</li>
+<li>团队绩效域</li>
+<li>开发方法与生命周期绩效域</li>
+<li>交付绩效域</li>
+<li><strong>规划绩效域</strong></li>
+<li>项目工作绩效域</li>
+<li><strong>测量绩效域</strong> </li>
+<li>不确定绩效域</li>
+<li>适应型（敏捷）生命周期内容补充</li>
+</ul>
+<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.04.54.png"></p>
+<h3 id="4-1-项目经理的定义"><a href="#4-1-项目经理的定义" class="headerlink" title="4.1 项目经理的定义"></a>4.1 项目经理的定义</h3><p>项目经理-执行组织委派、领导团队实现项目目标的个人</p>
+<p>职能经理-专注于某个职能领域或业务单元的管理和监督</p>
+<p>运营经理-负责保障业务运营的高效性</p>
+<h3 id="4-2-项目经理对项目的影响"><a href="#4-2-项目经理对项目的影响" class="headerlink" title="4.2 项目经理对项目的影响"></a>4.2 项目经理对项目的影响</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.08.58.png"></p>
+<h3 id="4-3-项目经理与组织的交互"><a href="#4-3-项目经理与组织的交互" class="headerlink" title="4.3 项目经理与组织的交互"></a>4.3 项目经理与组织的交互</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.09.52.png"></p>
+<h3 id="4-4-项目经理的能力-项目管理人才三角"><a href="#4-4-项目经理的能力-项目管理人才三角" class="headerlink" title="4.4 项目经理的能力-项目管理人才三角"></a>4.4 项目经理的能力-项目管理人才三角</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.12.21.png"></p>
+<h3 id="4-5-运营与项目管理"><a href="#4-5-运营与项目管理" class="headerlink" title="4.5 运营与项目管理"></a>4.5 运营与项目管理</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.13.52.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.14.40.png"></p>
+]]></content>
+      <categories>
+        <category>PMP</category>
+      </categories>
+      <tags>
+        <tag>PMP</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>PMP学习第三课-项目管理原则</title>
     <url>/2025/02/13/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%89%E8%AF%BE-%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%8E%9F%E5%88%99/</url>
     <content><![CDATA[<div class="video-container">[]</div>
@@ -469,340 +1102,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PMP学习第二课-价值交付系统</title>
-    <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<div class="video-container">[]</div>
-<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p>
-<p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p>
-<p>项目没有优先级吗？-&gt;没有明确的说明</p>
-<p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p>
-<p>公司要有战略：</p>
-<p>项目组合管理-&gt;关注价值实现</p>
-<ul>
-<li>做正确的“事”</li>
-<li>自由优先级分配</li>
-</ul>
-<p>项目集管理-&gt;关注收益实现</p>
-<ul>
-<li>关联项目管理</li>
-</ul>
-<p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p>
-<ul>
-<li>单个项目管理</li>
-</ul>
-<p>组织项目管理-&gt;组织驱动因素（组织驱动因素主要包括<strong>组织结构、组织文化、组织技术、人力资源实践</strong>。组织驱动因素是组织进行组织级项目管理的重要保证，如果缺失这几个维度的设计，组织级项目管理将会失败，项目组合管理、项目集管理、项目管理也将会失败。）</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.04.29.png"></p>
-<h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​	组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p>
-<ul>
-<li>打通壁垒</li>
-<li>交付战略</li>
-<li>实现价值</li>
-</ul>
-<ol>
-<li>项目、项目集和项目组合管理都要为组织战略服务</li>
-<li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li>
-<li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li>
-<li>战略与战术</li>
-</ol>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.18.49.png"></p>
-<h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol>
-<li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li>
-<li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li>
-<li>不同干系人对于价值的理解可能具有一定的主观性</li>
-<li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li>
-</ol>
-<h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol>
-<li>一组相互关联且被协调管理的项目</li>
-<li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li>
-<li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li>
-<li>项目集管理重点关注项目间的依赖关系</li>
-<li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li>
-<li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li>
-<li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li>
-</ol>
-<h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul>
-<li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li>
-<li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li>
-<li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li>
-<li>项日组合的业务范围随组织战略目标的变化而变化</li>
-<li>做正确的事</li>
-</ul>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.19.16.png"></p>
-<h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul>
-<li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li>
-<li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li>
-</ul>
-<h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul>
-<li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li>
-<li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li>
-<li>这个框架会影响：<ol>
-<li>组织目标的设定和实现方式</li>
-<li>风险监控和评估方式</li>
-<li>绩效优化方式</li>
-</ol>
-</li>
-<li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li>
-<li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li>
-</ul>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_21.45.18.png"></p>
-<h2 id="8-项目组织结构"><a href="#8-项目组织结构" class="headerlink" title="8.项目组织结构"></a>8.项目组织结构</h2><h3 id="职能型"><a href="#职能型" class="headerlink" title="职能型"></a>职能型</h3><p>沟通效率低，专业性高。</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.11.00.png"></p>
-<h3 id="项目型"><a href="#项目型" class="headerlink" title="项目型"></a>项目型</h3><p>沟通会产生项目壁垒，没有归属感，沟通效率高。</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.14.02.png"></p>
-<h3 id="距阵型"><a href="#距阵型" class="headerlink" title="距阵型"></a>距阵型</h3><ul>
-<li><p>弱矩阵型</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.16.29.png"></p>
-</li>
-<li><p>平衡矩阵型</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.17.26.png"></p>
-</li>
-<li><p>强矩阵型</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.18.18.png"></p>
-</li>
-</ul>
-<h3 id="组织结构选择的考虑因素"><a href="#组织结构选择的考虑因素" class="headerlink" title="组织结构选择的考虑因素"></a>组织结构选择的考虑因素</h3><p>选择组织结构时应考虑的因素包括（ 但不限于）：<br>•与组织目标的一致性<br>•专业能力<br>•控制、效率与效果的程度<br>•明确的決策升级渠道<br>•明确的职权线和范围<br>•授权方面的能力<br>•终责分配<br>•职责分配<br>•实施效率<br>•成本考虑<br>•物理位置（例如集中办公、区域办公和虚拟远程办公）<br>•清晰的沟通（例如政策、 工作状态和组织愿景）</p>
-<h3 id="项目管理办公室-PMO"><a href="#项目管理办公室-PMO" class="headerlink" title="项目管理办公室(PMO)"></a>项目管理办公室(PMO)</h3><p>对项目治理过程标准化，促进技术共享的组织部口<br>PMQ 在项目组合、项目集、项且与公司考评体系（如平衡计分卡）之间建立联系<br>所支持或管理的项目<strong>不一定彼此关联</strong><br>在项目<strong>各生命周期内</strong>，PMO可能有权起到核心干系人和关键决策者的作用<br>PMO的一个主要职能是通过各种方式对项目经理<strong>提供支持</strong></p>
-<ul>
-<li><strong>管理共享资源</strong></li>
-<li>识别和开发项目管理方法、最佳实践和标准</li>
-<li>指导  辅导  培训和监督</li>
-<li>通过项目申计，监督对项目管理标准、政策、程序和模板的遵守程度</li>
-<li>制定项目政策、程应 模板和其他共享文件（组织过程资产）</li>
-<li>协调项目之间的沟通</li>
-</ul>
-<h4 id="PMO的六大职能"><a href="#PMO的六大职能" class="headerlink" title="PMO的六大职能"></a>PMO的六大职能</h4><ul>
-<li>人员培养</li>
-<li>流程制度</li>
-<li>咨询辅导</li>
-<li>管理工貝</li>
-<li>过程监控</li>
-<li>绩效考核</li>
-</ul>
-<h4 id="PMO的三种类型："><a href="#PMO的三种类型：" class="headerlink" title="PMO的三种类型："></a>PMO的三种类型：</h4><ul>
-<li><strong>支持型</strong> 项目资源库，对项目控制程度低，无权要求</li>
-<li><strong>控制型</strong>  对项目有一定控制权力，如提供必需使用的模板</li>
-<li><strong>指令型</strong> PMO直接管控项且，PMO拥有很高的权力</li>
-</ul>
-<h3 id="内外部环境"><a href="#内外部环境" class="headerlink" title="内外部环境"></a>内外部环境</h3><ul>
-<li>项目所处的环境可能对项目的开展产生有利或不利的影响</li>
-<li>影响来源：<strong>事业环境因素</strong>(EEF) 和<strong>组织过程资产</strong> (OPA)</li>
-<li>事业环境因素通常源于企业的外部环境（也可包含内部环境因素，组织过程资产源于企业内部）</li>
-<li>除了上述两类，组织系统对项目生命周期也起着重要的作用</li>
-</ul>
-<h4 id="事业环境因素"><a href="#事业环境因素" class="headerlink" title="事业环境因素"></a>事业环境因素</h4><ul>
-<li>事业环境因素（EEF） 是指项目团队不能控制的，将对项目产生影响、限制或指令作用的各种条件</li>
-<li>可能提高或限制项目管理的灵活性，并可能对项目结果产生<strong>积极或消极影响</strong></li>
-<li>分为组织内部的和组织外部的</li>
-<li>内部包括组织文化和结构、<strong>基础设施</strong>、<strong>资源可用性</strong>、员工能力等</li>
-<li>外部包括<u>市场条任、 法律限告 商业数据库、政府或行业标准、物理环境要素</u>等</li>
-</ul>
-<p class='p center logo large'>事业环境因素指的是团队不能直接控制的，将对项目、项目集或项目组合产生影响、限制或指导作用的各种条件。</p>
-
-<h4 id="组织过程资产"><a href="#组织过程资产" class="headerlink" title="组织过程资产"></a>组织过程资产</h4><ul>
-<li>执行组织所特有并使用的计划、过程、政策、程序和知识库，会影响对具体项目的管理</li>
-<li><mark class="hl-label default">帮助项目成功</mark> </li>
-<li>项目团队有责任在项目全过程中对组织过程资产进行必要的更新和补充</li>
-<li>包括：<ol>
-<li><strong>过程、政策和程序</strong>：由项目管理办公室(PMO) 或项目以外的其他职能部门完成，可以通过<strong>项目管理信息系统</strong>呈现</li>
-<li><strong>组织知识库</strong>：在整个项目期间结合项目信息而更新的</li>
-</ol>
-</li>
-</ul>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.30.05.png"></p>
-<h2 id="9-产品与项目的关系"><a href="#9-产品与项目的关系" class="headerlink" title="9.产品与项目的关系"></a>9.产品与项目的关系</h2><p>产品生命周期均会产生项目</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.42.59.png"></p>
-<h3 id="9-1-产品生命周期与项目生命周期关系"><a href="#9-1-产品生命周期与项目生命周期关系" class="headerlink" title="9.1 产品生命周期与项目生命周期关系"></a>9.1 产品生命周期与项目生命周期关系</h3><ul>
-<li>项目生命周期与产品生命周期相互独立</li>
-<li>产品生命周期指一个产品从<strong>概念</strong>、<strong>交付</strong>、成长、成熟到衰退的整个演变过程的一系列阶段</li>
-</ul>
-<h3 id="9-2-项目和开发生命周期"><a href="#9-2-项目和开发生命周期" class="headerlink" title="9.2 项目和开发生命周期"></a>9.2 项目和开发生命周期</h3><ul>
-<li>项目生命周期指项目从开始到完成所经历的一系列阶段</li>
-<li>项目生命周期能为管理项目提供基本框架</li>
-<li>项日生命周期的基本结构：开始项目：组织与准备：执行项目工作；结束项目</li>
-<li>这些阶段之间的关系可以<strong>顺序</strong>、<strong>迭代或交叠进行</strong></li>
-<li>项日生命周期内通常有一个或多个险段与产品、服务或成果的开发相关，这些阶段称为<strong>开发生命周期</strong></li>
-<li>开发生命周期可以是<strong>预测型</strong>、<strong>迭代型</strong>、 <strong>增量型</strong>、<strong>敏捷型</strong>或<strong>混合型</strong>的模式</li>
-</ul>
-<h3 id="9-3-项目生命周期中成本和人力投入水平"><a href="#9-3-项目生命周期中成本和人力投入水平" class="headerlink" title="9.3 项目生命周期中成本和人力投入水平"></a>9.3 项目生命周期中成本和人力投入水平</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.49.31.png"></p>
-<h3 id="9-4-项目生命周期的特点-项目干系人影响"><a href="#9-4-项目生命周期的特点-项目干系人影响" class="headerlink" title="9.4 项目生命周期的特点-项目干系人影响"></a>9.4 项目生命周期的特点-项目干系人影响</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.50.52.png"></p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.52.59.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.53.31.png"></p>
-<h3 id="9-5-开发生命周期"><a href="#9-5-开发生命周期" class="headerlink" title="9.5 开发生命周期"></a>9.5 开发生命周期</h3><div class="img-wrap"><div class="img-bg"><img class="img" src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_21.55.00.png" alt="开发生命周期示例。"/></div><span class="image-caption">开发生命周期示例。</span></div>
-
-
-
-
-<h4 id="预测型"><a href="#预测型" class="headerlink" title="预测型"></a>预测型</h4><ul>
-<li>完全计划驱动型生命周期</li>
-<li><u>在生命周期的早期阶段确定项目范围、 时间和成本</u>，然后制定产品交付计划，接着通过各阶段来执行计划</li>
-<li>确定计划-＞按计划执行</li>
-<li><u>适用于：充分了解拟交付的产品，有厚实的行业实践基础，整批一次性交付产品有利于干系人</u></li>
-<li><u>预测型生命周期也称为瀑布型生命周期</u></li>
-<li>猴子与大象的故事</li>
-</ul>
-<h4 id="迭代型和增量型"><a href="#迭代型和增量型" class="headerlink" title="迭代型和增量型"></a>迭代型和增量型</h4><ul>
-<li><mark class="hl-label default">迭代</mark> ：通过一系列<mark class="hl-label default">重复</mark> 的循环活动来开发产品</li>
-<li><mark class="hl-label default">增量</mark> ：<mark class="hl-label default">渐进</mark> 的增加产品的功能</li>
-<li>适用于：组织雷要管理<mark class="hl-label default">不断变化</mark> 的目标和范围组织需要隆低项目的复杂性，产品可以部分交付</li>
-</ul>
-<h4 id="敏捷型"><a href="#敏捷型" class="headerlink" title="敏捷型"></a>敏捷型</h4><ul>
-<li>迭代和增量的进一步应用</li>
-<li>迭代快(2-4周迭代一次)，所需<mark class="hl-label default">时间</mark> 和<mark class="hl-label default">资源</mark> 固定</li>
-<li>适用情況：应对<mark class="hl-label default">快速变化</mark> 的<mark class="hl-label default">环境</mark> ，需求或范围难以实现确定，以有利于王系人的方式定义较小的增量改进</li>
-<li>迭代型、 增量型、敏捷型 、混合型都可以看成是<mark class="hl-label default">适应型</mark> 的一种方法</li>
-</ul>
-<p class='p center logo large'>敏捷开发-对付纠结最好的办法就是做让你纠结的事情！！！</p>
-
-<h4 id="不同开发生命周期比较"><a href="#不同开发生命周期比较" class="headerlink" title="不同开发生命周期比较"></a>不同开发生命周期比较</h4><div class="img-wrap"><div class="img-bg"><img class="img" src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-12_22.12.06.png" alt="不同开发生命周期比较"/></div><span class="image-caption">不同开发生命周期比较</span></div>
-
-
-
-
-<h4 id="敏捷相关背景与注意事项"><a href="#敏捷相关背景与注意事项" class="headerlink" title="敏捷相关背景与注意事项"></a>敏捷相关背景与注意事项</h4><ul>
-<li>2001年初，因观察到许多的软件团队身陷不断扩大的流程之中的困境，一群业界专家聚集在一起(Snowbird,Utah），勾勒出一些能让软件國队迅速工作，以及响应变化的<strong>价值观</strong>和<strong>原则</strong>。他们自称为Agile Alliance</li>
-<li>之后的七个月里，他们创造具有价值的<strong>声明</strong>，也就是敏捷<strong>宣言</strong>。成为敏捷精神的内核和灵魂</li>
-<li>经过实践者不断地总结和梳理，将敏捷的框架、工具、方法等应用到项目管理中，形成了敏捷项目管理的整体思路</li>
-<li>考试通常在混合型生命周期中考察敏捷的 “道” ，在纯敏捷题目中考察敏捷的“术〞，但知识点不会特别深</li>
-</ul>
-<h3 id="敏捷宣言"><a href="#敏捷宣言" class="headerlink" title="敏捷宣言"></a>敏捷宣言</h3><p>我们一直在实践中探寻更好的软件开发方法，身体力行同时也帮助他人。由此我们建立了如下价值观</p>
-<ul>
-<li>个体和互动 高于 流程和工具</li>
-<li>工作的软件 高子 详尽的文档</li>
-<li>客户合作 高于 合同谈判</li>
-<li>响应变化 高于 遵循计划</li>
-</ul>
-<p>也就是说，尽管右项有其价值，我们更重视左项的价值。</p>
-<h3 id="敏捷的原则"><a href="#敏捷的原则" class="headerlink" title="敏捷的原则"></a>敏捷的原则</h3><ol>
-<li>我们最优先要做的是通过尽早的、持续的交付有价值的软件来使客户满意</li>
-<li>即使到了开发的后期，也欢迎改变需求</li>
-<li>经常性地交付可以工作的软件，交付的间隔可以从几周到几个月，<span class='p red'>交付的时间间隔越短越好</span></li>
-<li>在整个项目开发期间，业务人员和开发人员必须天天都在一起工作</li>
-<li>围绕被激励起来的个人来构建项目</li>
-<li>在团队内部，最具有效果并且富有效率的传递信息的方法，就是面对面的交谈</li>
-<li>工作的软件是首要的进度度量标准</li>
-<li>敏捷过程提信平稳的开发节奏；发起人、开发者和用户应该能够保持长期的、恒定的开发速度</li>
-<li>不断地关注优秀的技能和好的设计会增强敏捷能力</li>
-<li>简单化是根本（不做过度设计和预测〕</li>
-<li>最好的构架、需求和设计出自于自组织的团队</li>
-<li>每隔一定时间，团队会在如何才能更有效地工作方面进行反思并对自己的行为进行相应调整</li>
-</ol>
-<p class='p center logo large'>事：</p>
-
-
-<p class='p red'>持续交付，小步快跑</p>
-<p class='p yellow'>拥抱变化，提高优势</p>
-<p class='p green'>尽早反馈，价值排序</p>
-<p class='p red'>成果达成，衡量进度</p>
-<p class='p yellow'>持续更新，强化敏捷</p>
-<p class='p green'>精简产品，杜绝浪费</p>
-
-
-<p class='p center logo large'>人：</p>
-
-
-<p class='p red'>团队合作，每日互动</p>
-<p class='p yellow'>信任成员，给子支援</p>
-<p class='p green'>当面沟通，高效明了</p>
-<p class='p red'>各方成员，稳定节奏</p>
-<p class='p yellow'>同心协力，自我组织</p>
-<p class='p green'>团队自省，持续改进</p>
-
-
-<p class='p center logo large'>敏捷的灵魂是思维模式的转变，而不是工具方法的堆砌</p>
-
-
-
-]]></content>
-      <categories>
-        <category>PMP</category>
-      </categories>
-      <tags>
-        <tag>PMP</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PMP学习第五课-团队绩效域</title>
-    <url>/2025/02/17/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%94%E8%AF%BE-%E5%9B%A2%E9%98%9F%E7%BB%A9%E6%95%88%E5%9F%9F/</url>
-    <content><![CDATA[<div class="video-container">[]</div>
-<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<h1 id="第五章-团队绩效域"><a href="#第五章-团队绩效域" class="headerlink" title="第五章 团队绩效域"></a>第五章 团队绩效域</h1><h2 id="1、团队绩效域概览"><a href="#1、团队绩效域概览" class="headerlink" title="1、团队绩效域概览"></a>1、团队绩效域概览</h2><p>团队绩效域涉及与负责生成项目可交付物以实现商业成果的相关的人员活动和功能。</p>
-<p>有效执行此绩效域特产生以下预期成果：</p>
-<ul>
-<li>共享责任。</li>
-<li>高绩效团队。</li>
-<li>所有团队成员都展现出相关领导力和其他人际关系技能。</li>
-</ul>
-<h2 id="2、团队绩效域的相关核心概念"><a href="#2、团队绩效域的相关核心概念" class="headerlink" title="2、团队绩效域的相关核心概念"></a>2、团队绩效域的相关核心概念</h2><ul>
-<li><p><strong>项目经理</strong> ：由执行组织委派，领导项目团队实现项目目标的个人</p>
-</li>
-<li><p><strong>项目管理团队</strong> ：直接参与项目管理活动的项目团队成员</p>
-</li>
-<li><p><strong>项目团队</strong> ：执行项目工作，以实现项目目标的一组人员</p>
-</li>
-<li><p><strong>管理活动</strong> 聚焦于实现项目目标的手段，例如制定有效的程序、规<br>划、协调、测量和监督工作等</p>
-</li>
-<li><p><strong>领导力</strong> 活动关注于人。领导力活动包括影响、激励、倾听、促使<br>（引导），以及与项目团队相关的其他活动。这两个方面对交付<br>预期成果都很重要</p>
-</li>
-<li><p>高绩效团队：项目团队彼此信任，相互协作。项目团队适应不断<br>变化的情况，并在面对挑战时有韧性。项目团队感到被赋能</p>
-</li>
-<li><p><strong>服务型（仆人型）领导者</strong> 使项目团队在可能的情况下进行 <strong>自组织</strong> ，并通过向项目团队成员提供适当的决策机会来提高自主性。服务型领导力行为包括：<br>✓ <strong>消除障碍</strong> 。由于是项目团队创造了大部分商业价值，服务型领导者的关键角色是通过消除进展中的障碍因素来最大化地交付商业价值。这包括解决问题和消除可能妨碍项目团队工作的障碍<br>✓ <strong>避免分心</strong> 。服务型领导者会使项目团队免受内部和外部分心之事影响，时间碎片化会降低生产率，因此使项目团队免受非关键外部需求影响有助于项目团队保持专注<br>✓ <strong>鼓励和发展机会</strong> 。服务型领导者还提供相关工具和鼓励，让项目团队保持满意度且工作富有成效</p>
-</li>
-</ul>
-<h2 id="3、团队绩效域的具体环节"><a href="#3、团队绩效域的具体环节" class="headerlink" title="3、团队绩效域的具体环节"></a>3、团队绩效域的具体环节</h2><p>识别、获取和管理所需资源以成功完成项目的各个过程<br>包括成立团队、组织团队、建设团队活动、 <strong>处理冲突</strong> 等事宜、<br><strong>规划、资源、管理</strong>：定义如何估算、获取、管理和利用团队项目资源的过程获取项目所需的团队成员等相关资源的过程、<br><strong>估算、活动、资源</strong>：估算执行项目所需的团队资源（也可包括材料、设备和用品）的类型和数量的过程<br><strong>获取资源</strong>：获取项目所需的团队成员的个相关资源的过程</p>
-<p><strong>建设团队</strong>：提高工作能力，促进团队成员互动，改善团队整体氛围，以提高项目绩效的过程</p>
-<p><strong>管理团队</strong>：跟踪团队成员工作表现，提供反馈，解决问题并管理团队变更，以优化项目绩效的过程</p>
-<h3 id="3-1规划资源管理"><a href="#3-1规划资源管理" class="headerlink" title="3.1规划资源管理"></a>3.1规划资源管理</h3><ul>
-<li>定义：规定如何估算、获取、管理和利用团队资源的过程</li>
-<li>作用：根据项目类型和复杂程度确定适用于项目资源的管理<br>方法和管理程度</li>
-<li>时间：仅开展一次或仅在项目的预定义点开展</li>
-<li>需要考虑稀缺资源的可得性或者对稀缺资源的竞争，编制相<br>应的计划，保证人力资源规划的有效性</li>
-<li>资源可以从组织内部资产获得，或者通过外包（采购）从组<br>织外部获取</li>
-</ul>
-<h4 id="3-1-2RACI——职责分配矩阵的例子"><a href="#3-1-2RACI——职责分配矩阵的例子" class="headerlink" title="3.1.2RACI——职责分配矩阵的例子"></a>3.1.2RACI——职责分配矩阵的例子</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">每一个活动只能有一个“A”角色</span><br><span class="line">R=Responsible（执行，做事儿/执行）</span><br><span class="line">A=Accountable（负责，同意/签署） I=Inform（知情）</span><br><span class="line">C=Consult（征询意见）</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-3-资源管理计划"><a href="#3-3-资源管理计划" class="headerlink" title="3.3 资源管理计划"></a>3.3 资源管理计划</h3><ul>
-<li>资源管理计划提供了关于 <strong>如何</strong> 分类、分配、管理和释放项目资<br>源的指南</li>
-<li>资源管理计划可以根据项目的具体情况分为 <strong>团队管理计划</strong> 和 <strong>实</strong><br><strong>物资源管理计划</strong></li>
-<li>包括：<br>✓角色和职责（角色、职权、职责、能力的具体说明）<br>✓项目组织图（展示项目团队成员及其报告关系）<br>✓如何识别、获取、控制资源<br>✓如何进行团队建设<br>✓ <strong>如何进行团队资源管理</strong> （人员招募、人员配备、人员<br>管理、人员遣散、 <strong>培训</strong> 需要、认可计划）</li>
-</ul>
-<h3 id="3-1-4团队章程"><a href="#3-1-4团队章程" class="headerlink" title="3.1.4团队章程"></a>3.1.4团队章程</h3><ul>
-<li>团队章程对项目团队成员的可接受行为确定了明确<br>的期望</li>
-<li>要塑造团队文化（透明、诚信、尊重、勇气、庆祝<br>成功等）</li>
-<li>可定期审查和更新团队章程，确保团队始终了解团<br>队基本规则，并指导新成员融入团队</li>
-<li>为团队创建团队价值观、共识和工作指南的文件</li>
-<li>团队章程可能包括：<br>✓团队价值观；<br>✓沟通指南；<br>✓决策标准和过程；<br>✓冲突处理过程；<br>✓会议指南；<br>✓团队共识；</li>
-</ul>
-<h2 id="3-2估算活动资源"><a href="#3-2估算活动资源" class="headerlink" title="3.2估算活动资源"></a>3.2估算活动资源</h2><ul>
-<li>定义：估算执行项目所需的团队资源的过程</li>
-<li>作用：明确完成项目所需的资源种类、数量和特性</li>
-<li>发生时间：本过程应根据需要在整个项目期间定期开展</li>
-</ul>
-<h3 id="3-2-1关于常见的估算类型"><a href="#3-2-1关于常见的估算类型" class="headerlink" title="3.2.1关于常见的估算类型"></a>3.2.1关于常见的估算类型</h3><div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="关于常见的估算类型"/></div><span class="image-caption">关于常见的估算类型</span></div>
-
-<h3 id="3-2-2-资源需求"><a href="#3-2-2-资源需求" class="headerlink" title="3.2.2 资源需求"></a>3.2.2 资源需求</h3><ul>
-<li>资源需求识别了各个工作包或工作包中每个活动所需的资源类型和数量</li>
-<li>可以汇总这些需求，以估算每个工作包、每个WBS分支以及整个项目所需的资源</li>
-<li>资源需求描述的细节数量与具体程度因应用领域而异</li>
-<li>资源需求文件也可包含为确定所用资源的类型、可用性和所需数量所做的假设</li>
-</ul>
-<h3 id="3-2-3-资源分解结构"><a href="#3-2-3-资源分解结构" class="headerlink" title="3.2.3 资源分解结构"></a>3.2.3 资源分解结构</h3><ul>
-<li>资源分解结构是资源依 <strong>类别和类型</strong> 的层级展现<br>✓资源类别包括（但不限于）人力、材料、<br>设备和用品<br>✓资源类型则包括技能水平、要求证书、等<br>级水平或适用于项目的其他类型</li>
-<li>在规划资源管理过程中，资源分解结构用于指<br>导项目的分类活动</li>
-<li>在这一过程中，资源分解结构是一份完整的文<br>件，用于获取和监督资源</li>
-</ul>
-<div class="img-wrap"><div class="img-bg"><img class="img" src="" alt="资源分解结构"/></div><span class="image-caption">资源分解结构</span></div>
-
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      <categories>
-        <category>PMP</category>
-      </categories>
-      <tags>
-        <tag>PMP</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>PMP学习第四课-干系人绩效域</title>
     <url>/2025/02/16/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E5%B9%B2%E7%B3%BB%E4%BA%BA%E7%BB%A9%E6%95%88%E5%9F%9F/</url>
     <content><![CDATA[<div class="video-container">[]</div>
@@ -951,113 +1250,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hexo-blog美化</title>
-    <url>/2025/02/08/hexo-blog%E7%BE%8E%E5%8C%96/</url>
-    <content><![CDATA[<div class="video-container">[]</div>
-<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<h1 id="美化Hexo博客，主题安装配置"><a href="#美化Hexo博客，主题安装配置" class="headerlink" title="美化Hexo博客，主题安装配置"></a>美化Hexo博客，主题安装配置</h1><p>这期教程演示将使用一款基于<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a>修改的主題-<strong>安知鱼</strong>，安知鱼是一个简洁、美丽的静态hexo主题</p>
-<p><strong>项目地址</strong>：<a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu">https://github.com/anzhiyu-c/hexo-theme-anzhiyu</a><br><strong>官方文档</strong>：<a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a></p>
-<hr>
-<h2 id="1-安装主题"><a href="#1-安装主题" class="headerlink" title="1.安装主题"></a>1.安装主题</h2><h3 id="1-1-Git-安裝"><a href="#1-1-Git-安裝" class="headerlink" title="1.1. Git 安裝"></a>1.1. Git 安裝</h3><p>在博客根目录里安装最新版主题</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu</span><br></pre></td></tr></table></figure>
-
-<p>第一次使用需要安装 pug 以及 stylus 的渲染器</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
-
-<h3 id="1-2-应用主题"><a href="#1-2-应用主题" class="headerlink" title="1.2. 应用主题"></a>1.2. 应用主题</h3><p>修改 hexo 配置文件<code>_config.yml</code>，把主题改为<code>anzhiyu</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">theme: anzhiyu</span><br></pre></td></tr></table></figure>
-
-<h3 id="1-3-覆盖配置"><a href="#1-3-覆盖配置" class="headerlink" title="1.3. 覆盖配置"></a>1.3. 覆盖配置</h3><p>覆盖配置可以使<code>主题配置</code>放置在 anzhiyu 目录之外，避免在更新主题时丢失自定义的配置。</p>
-<p>如果你是<strong>linux系统</strong>就执行以下命令</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">bash</span><br><span class="line">cp -rf ./themes/anzhiyu/_config.yml ./_config.anzhiyu.yml</span><br></pre></td></tr></table></figure>
-
-<p>如果你是<strong>windows系统</strong>就请手动将<code>/themes/anzhiyu/_config.yml</code>复制到根目录下并重命名为<code>_config.anzhiyu.yml</code>即可。</p>
-<p>以后如果修改任何主题配置，都只需修改 <code>_config.anzhiyu.yml</code> 的配置即可。</p>
-<p>注意：</p>
-<ul>
-<li>只要存在于 <code>_config.anzhiyu.yml</code> 的配置都是高优先级，修改原 <code>_config.yml</code> 是无效的。</li>
-<li>每次更新主题可能存在配置变更，请注意更新说明，可能需要手动对 <code>_config.anzhiyu.yml</code> 同步修改。</li>
-<li>想查看覆盖配置有没有生效，可以通过 <code>hexo g --debug</code> 查看命令行输出。</li>
-<li>如果想将某些配置覆盖为空，注意不要把主键删掉，不然是无法覆盖的</li>
-</ul>
-<h3 id="1-4-配置主题与主站配置文件"><a href="#1-4-配置主题与主站配置文件" class="headerlink" title="1.4. 配置主题与主站配置文件"></a>1.4. 配置主题与主站配置文件</h3><p>到这一步主题部署就完成了，<strong>就是这么简单！！！</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">//本地预览</span><br><span class="line">hexo cl; hexo s</span><br><span class="line"></span><br><span class="line">//推送更新上线</span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure>
-
-<h3 id="1-5-生成标签页和分类页"><a href="#1-5-生成标签页和分类页" class="headerlink" title="1.5. 生成标签页和分类页"></a>1.5. 生成标签页和分类页</h3><p>执行以下命令生成标签页</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page tags</span><br></pre></td></tr></table></figure>
-
-<p>找到 <code>source/tags/index.md</code> 这个文件，修改添加 <code>type: &quot;tags&quot;</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 标签</span><br><span class="line">date: 2024-07-05 03:36:02</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">comments: false</span><br><span class="line">top_img: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<p>执行以下命令生成分类页</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page categories</span><br></pre></td></tr></table></figure>
-
-<p>找到 <code>source/categories/index.md</code> 这个文件，修改添加 <code>type: &quot;categories&quot;</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 分类</span><br><span class="line">date: 2024-07-05 03:36:48</span><br><span class="line">aside: false</span><br><span class="line">top_img: false</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<p>剩下的工作就是配置<code>_config.yml</code>和<code>_config.anzhiyu.yml</code>文件，修改博客参数。</p>
-<hr>
-<h2 id="2-配置文章模版"><a href="#2-配置文章模版" class="headerlink" title="2. 配置文章模版"></a>2. 配置文章模版</h2><p><code>/scaffolds</code>目录下有几个模版文件，其中</p>
-<ul>
-<li><strong>post.md</strong>：新建博文模版</li>
-<li><strong>page.md</strong>：新建标签页模版</li>
-</ul>
-<h3 id="post-md模版，仅供参考"><a href="#post-md模版，仅供参考" class="headerlink" title="post.md模版，仅供参考"></a><strong>post.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">tags: #【可选】文章标签</span><br><span class="line">categories: #【可选】文章分类</span><br><span class="line">keywords: #【可选】文章关键字</span><br><span class="line">description: #【可选】文章描述</span><br><span class="line">top: # 1 置顶</span><br><span class="line">top_img: #【可选】文章顶部图片</span><br><span class="line">comments: #【可选】显示文章评论模块(默认 true)</span><br><span class="line">cover: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)</span><br><span class="line">toc: #【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)</span><br><span class="line">toc_number: #【可选】显示 toc_number(默认为设置中 toc 的 number 配置)</span><br><span class="line">toc_style_simple: #【可选】显示 toc 简洁模式</span><br><span class="line">copyright: #【可选】显示文章版权模块(默认为设置中 post_copyright 的 enable 配置)</span><br><span class="line">copyright_author: #【可选】文章版权模块的文章作者</span><br><span class="line">copyright_author_href: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_url: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_info: #【可选】文章版权模块的版权声明文字</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">swiper_index: 10 #【可选】首页轮播图配置 index 索引，数字越小越靠前</span><br><span class="line">top_group_index: 10 #【可选】首页右侧卡片组配置, 数字越小越靠前</span><br><span class="line">ai: #【可选】文章ai摘要</span><br><span class="line">background: &quot;#fff&quot; #【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如#ffffff 不可写成#fff</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line">&lt;div class=&quot;video-container&quot;&gt;</span><br><span class="line">[up主专用，视频内嵌代码贴在这]</span><br><span class="line">&lt;/div&gt;</span><br><span class="line"></span><br><span class="line">&lt;style&gt;</span><br><span class="line">.video-container &#123;</span><br><span class="line">    position: relative;</span><br><span class="line">    width: 100%;</span><br><span class="line">    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">.video-container iframe &#123;</span><br><span class="line">    position: absolute;</span><br><span class="line">    top: 0;</span><br><span class="line">    left: 0;</span><br><span class="line">    width: 100%;</span><br><span class="line">    height: 100%;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>
-
-<h3 id="page-md模版，仅供参考"><a href="#page-md模版，仅供参考" class="headerlink" title="page.md模版，仅供参考"></a><strong>page.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">type: #【必需】标签、分类、关于、音乐馆、友情链接、相册、相册详情、朋友圈、即刻页面需要配置</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">comments: #【可选】显示页面评论模块(默认 true)</span><br><span class="line">description: #【可选】页面描述</span><br><span class="line">keywords: #【可选】页面关键字</span><br><span class="line">top_img: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】页面顶部图片</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">top_single_background: #【可选】部分页面的顶部模块背景图片</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h1 id="更多功能"><a href="#更多功能" class="headerlink" title="更多功能"></a>更多功能</h1><h2 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h2><h3 id="新建博文命令"><a href="#新建博文命令" class="headerlink" title="新建博文命令"></a>新建博文命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new 这是一篇新的博文</span><br></pre></td></tr></table></figure>
-
-<h3 id="新建标签页命令"><a href="#新建标签页命令" class="headerlink" title="新建标签页命令"></a>新建标签页命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page 新建的标签页</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="文章置顶"><a href="#文章置顶" class="headerlink" title="文章置顶"></a>文章置顶</h2><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-topindex --save</span><br></pre></td></tr></table></figure>
-
-<h3 id="设置置顶"><a href="#设置置顶" class="headerlink" title="设置置顶"></a>设置置顶</h3><p>给需要置顶的文章加入top参数，如下：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line">---</span><br><span class="line">title: 每天一个linux命令</span><br><span class="line">date: 2017-01-23 11:41:48</span><br><span class="line">top: 1</span><br><span class="line">categories:</span><br><span class="line">- 运维</span><br><span class="line">tags:</span><br><span class="line">- linux命令</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<p>如果存在多个置顶文章，top后的参数越大，越靠前。</p>
-<hr>
-<h2 id="开启本地搜索"><a href="#开启本地搜索" class="headerlink" title="开启本地搜索"></a>开启本地搜索</h2><h3 id="安装插件-1"><a href="#安装插件-1" class="headerlink" title="安装插件"></a>安装插件</h3><p>你需要安装 <a href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>，根据它的文档去做相应配置</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure>
-
-<h3 id="设置主题配置文件"><a href="#设置主题配置文件" class="headerlink" title="设置主题配置文件"></a>设置主题配置文件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  preload: false</span><br><span class="line">  CDN:</span><br></pre></td></tr></table></figure>
-
-<table>
-<thead>
-<tr>
-<th>参数</th>
-<th>解释</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>enable</td>
-<td>是否开启本地搜索</td>
-</tr>
-<tr>
-<td>preload</td>
-<td>预加载，开启后，进入网页后会自动加载搜索文件。关闭时，只有点击搜索按钮后，才会加载搜索文件</td>
-</tr>
-<tr>
-<td>CDN</td>
-<td>搜索文件的 CDN 地址（默认使用的本地链接）</td>
-</tr>
-</tbody></table>
-<hr>
-<h2 id="添加任意文件"><a href="#添加任意文件" class="headerlink" title="添加任意文件"></a>添加任意文件</h2><p>例如当我们想在网站根目录添加<code>ads.txt</code>文件，来通过站长验证时，我们只需要在<code>/source</code>文件夹下放置该文件即可。</p>
-<hr>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a><br><a href="https://www.fomal.cc/posts/4aa2d85f.html">https://www.fomal.cc/posts/4aa2d85f.html</a><br><a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1">https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1</a><br><a href="https://blog.csdn.net/COCO56/article/details/103840966">https://blog.csdn.net/COCO56/article/details/103840966</a></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-      </tags>
   </entry>
   <entry>
     <title>如何搭建blog</title>
@@ -1257,105 +1449,110 @@
       </tags>
   </entry>
   <entry>
-    <title>PMP学习第一课-引论</title>
-    <url>/2025/02/10/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%BC%95%E8%AE%BA/</url>
+    <title>hexo-blog美化</title>
+    <url>/2025/02/08/hexo-blog%E7%BE%8E%E5%8C%96/</url>
     <content><![CDATA[<div class="video-container">[]</div>
 <style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 
-<h1 id="引论"><a href="#引论" class="headerlink" title="引论"></a>引论</h1><h2 id="1-调查结果"><a href="#1-调查结果" class="headerlink" title="1.调查结果"></a>1.调查结果</h2><h2 id="2-项目管理整体思路"><a href="#2-项目管理整体思路" class="headerlink" title="2.项目管理整体思路"></a>2.项目管理整体思路</h2><ul>
-<li>管事 过程 50%</li>
-<li>理人 人员 42%<ol>
-<li>管理冲突</li>
-<li>领导团队</li>
-<li>支持团队绩效</li>
-<li>授权团队成员</li>
-</ol>
-</li>
-<li>业务环境 8%</li>
-</ul>
-<p>第7版内容：<em><strong>价值、原则、绩效域</strong></em></p>
-<p>项目管理协会职业道德与专业行为规范</p>
+<h1 id="美化Hexo博客，主题安装配置"><a href="#美化Hexo博客，主题安装配置" class="headerlink" title="美化Hexo博客，主题安装配置"></a>美化Hexo博客，主题安装配置</h1><p>这期教程演示将使用一款基于<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a>修改的主題-<strong>安知鱼</strong>，安知鱼是一个简洁、美丽的静态hexo主题</p>
+<p><strong>项目地址</strong>：<a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu">https://github.com/anzhiyu-c/hexo-theme-anzhiyu</a><br><strong>官方文档</strong>：<a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a></p>
+<hr>
+<h2 id="1-安装主题"><a href="#1-安装主题" class="headerlink" title="1.安装主题"></a>1.安装主题</h2><h3 id="1-1-Git-安裝"><a href="#1-1-Git-安裝" class="headerlink" title="1.1. Git 安裝"></a>1.1. Git 安裝</h3><p>在博客根目录里安装最新版主题</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu</span><br></pre></td></tr></table></figure>
+
+<p>第一次使用需要安装 pug 以及 stylus 的渲染器</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="1-2-应用主题"><a href="#1-2-应用主题" class="headerlink" title="1.2. 应用主题"></a>1.2. 应用主题</h3><p>修改 hexo 配置文件<code>_config.yml</code>，把主题改为<code>anzhiyu</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">theme: anzhiyu</span><br></pre></td></tr></table></figure>
+
+<h3 id="1-3-覆盖配置"><a href="#1-3-覆盖配置" class="headerlink" title="1.3. 覆盖配置"></a>1.3. 覆盖配置</h3><p>覆盖配置可以使<code>主题配置</code>放置在 anzhiyu 目录之外，避免在更新主题时丢失自定义的配置。</p>
+<p>如果你是<strong>linux系统</strong>就执行以下命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">bash</span><br><span class="line">cp -rf ./themes/anzhiyu/_config.yml ./_config.anzhiyu.yml</span><br></pre></td></tr></table></figure>
+
+<p>如果你是<strong>windows系统</strong>就请手动将<code>/themes/anzhiyu/_config.yml</code>复制到根目录下并重命名为<code>_config.anzhiyu.yml</code>即可。</p>
+<p>以后如果修改任何主题配置，都只需修改 <code>_config.anzhiyu.yml</code> 的配置即可。</p>
+<p>注意：</p>
 <ul>
-<li><p><strong>责任，尊重、公正、诚实</strong></p>
-</li>
-<li><p>指导<strong>单个</strong>项目如何完成</p>
-<p>项目集，项目组合、组织级项目管理：参考其他标准</p>
-</li>
+<li>只要存在于 <code>_config.anzhiyu.yml</code> 的配置都是高优先级，修改原 <code>_config.yml</code> 是无效的。</li>
+<li>每次更新主题可能存在配置变更，请注意更新说明，可能需要手动对 <code>_config.anzhiyu.yml</code> 同步修改。</li>
+<li>想查看覆盖配置有没有生效，可以通过 <code>hexo g --debug</code> 查看命令行输出。</li>
+<li>如果想将某些配置覆盖为空，注意不要把主键删掉，不然是无法覆盖的</li>
 </ul>
-<h2 id="3-项目的概念"><a href="#3-项目的概念" class="headerlink" title="3.项目的概念"></a>3.项目的概念</h2><p>为创造<strong>独特</strong>的<strong>产品</strong>、<strong>服务或成果</strong>而进行的<strong>临时性</strong>工作</p>
-<p><strong>有始有终</strong>的就算上项目   项目具有独特性、临时性、渐进明细性（区别于范围潜变《范围蔓延》）滚动规划</p>
-<p>eg：录制一个5分钟视频、跟下属分配一件事情、培养孩子上大学、旅游、约会</p>
-<p>终点模糊的不算项目 运营：重复性，持续性</p>
-<p>eg：财务管理工作、流水线生产、每天例行检查</p>
-<h3 id="3-1-项目管理"><a href="#3-1-项目管理" class="headerlink" title="3.1 项目管理"></a>3.1 项目管理</h3><ul>
-<li><p><strong>知识、技能、工具与技术</strong>应用于<strong>管理活动和领导力</strong>，以满足项目的要求</p>
-</li>
-<li><p>项目管理通过合理于整合特点项目所需的项目管理过程得以实现</p>
-</li>
-<li><p>项目管理的重点和难点：平衡制约，实现价值</p>
-</li>
-</ul>
-<h3 id="3-2-项目管理的四个层次"><a href="#3-2-项目管理的四个层次" class="headerlink" title="3.2 项目管理的四个层次"></a>3.2 项目管理的四个层次</h3><ul>
-<li><p><strong>分解</strong> 复杂的事情简单化</p>
-</li>
-<li><p><strong>临界值</strong> 简单的事情量化</p>
-</li>
-<li><p><strong>规律</strong> 量化的事情专业化</p>
-</li>
-<li><p><strong>框架模版</strong>（ITO） 专业的事情模版化</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.2025-02-1002.png"></p>
-</li>
-</ul>
-<h3 id="3-3-项目的制约因素"><a href="#3-3-项目的制约因素" class="headerlink" title="3.3 项目的制约因素"></a>3.3 项目的制约因素</h3><p>范围、进度、成本</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.2025-02101.png"></p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.22.26.png"></p>
-<h3 id="3-4-项目启动背景"><a href="#3-4-项目启动背景" class="headerlink" title="3.4 项目启动背景"></a>3.4 项目启动背景</h3><ul>
-<li>执行、变更业务或技术战略 <strong>公司</strong></li>
-<li>满足干系人的要求或需求 <strong>个人</strong></li>
-<li>符合法律、法规或社会要求 <strong>法律</strong></li>
-<li>创造、改进或修复过程或服务 <strong>创新</strong></li>
-</ul>
-<h3 id="3-5-项目的作用"><a href="#3-5-项目的作用" class="headerlink" title="3.5 项目的作用"></a>3.5 项目的作用</h3><p>项目代理的收益可以上有型的、无形的或两者兼有之</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.30.08.png"></p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.28.31.png"></p>
-<p>Pmbook第6版本 项目管理的十大知识领域</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.31.49.png"></p>
-<p>项目管理的五大过程组</p>
-<p>启动、规划、执行、监控、收尾</p>
-<p>监控过程组贯穿始终。</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.33.23.png"></p>
-<p>第7版本 核心内容、价值、原则、绩效域</p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.41.38.png"></p>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-10_22.42.13.png"></p>
-<h2 id="4-引论大纲"><a href="#4-引论大纲" class="headerlink" title="4.引论大纲"></a>4.引论大纲</h2><p>加粗的上重点！</p>
-<p>八大绩效域</p>
+<h3 id="1-4-配置主题与主站配置文件"><a href="#1-4-配置主题与主站配置文件" class="headerlink" title="1.4. 配置主题与主站配置文件"></a>1.4. 配置主题与主站配置文件</h3><p>到这一步主题部署就完成了，<strong>就是这么简单！！！</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">//本地预览</span><br><span class="line">hexo cl; hexo s</span><br><span class="line"></span><br><span class="line">//推送更新上线</span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure>
+
+<h3 id="1-5-生成标签页和分类页"><a href="#1-5-生成标签页和分类页" class="headerlink" title="1.5. 生成标签页和分类页"></a>1.5. 生成标签页和分类页</h3><p>执行以下命令生成标签页</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page tags</span><br></pre></td></tr></table></figure>
+
+<p>找到 <code>source/tags/index.md</code> 这个文件，修改添加 <code>type: &quot;tags&quot;</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 标签</span><br><span class="line">date: 2024-07-05 03:36:02</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">comments: false</span><br><span class="line">top_img: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>执行以下命令生成分类页</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page categories</span><br></pre></td></tr></table></figure>
+
+<p>找到 <code>source/categories/index.md</code> 这个文件，修改添加 <code>type: &quot;categories&quot;</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">plaintext</span><br><span class="line">---</span><br><span class="line">title: 分类</span><br><span class="line">date: 2024-07-05 03:36:48</span><br><span class="line">aside: false</span><br><span class="line">top_img: false</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>剩下的工作就是配置<code>_config.yml</code>和<code>_config.anzhiyu.yml</code>文件，修改博客参数。</p>
+<hr>
+<h2 id="2-配置文章模版"><a href="#2-配置文章模版" class="headerlink" title="2. 配置文章模版"></a>2. 配置文章模版</h2><p><code>/scaffolds</code>目录下有几个模版文件，其中</p>
 <ul>
-<li>项目价值交付系统</li>
-<li>项目管理整体原则</li>
-<li>干系人绩效域</li>
-<li>团队绩效域</li>
-<li>开发方法与生命周期绩效域</li>
-<li>交付绩效域</li>
-<li><strong>规划绩效域</strong></li>
-<li>项目工作绩效域</li>
-<li><strong>测量绩效域</strong> </li>
-<li>不确定绩效域</li>
-<li>适应型（敏捷）生命周期内容补充</li>
+<li><strong>post.md</strong>：新建博文模版</li>
+<li><strong>page.md</strong>：新建标签页模版</li>
 </ul>
-<p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.04.54.png"></p>
-<h3 id="4-1-项目经理的定义"><a href="#4-1-项目经理的定义" class="headerlink" title="4.1 项目经理的定义"></a>4.1 项目经理的定义</h3><p>项目经理-执行组织委派、领导团队实现项目目标的个人</p>
-<p>职能经理-专注于某个职能领域或业务单元的管理和监督</p>
-<p>运营经理-负责保障业务运营的高效性</p>
-<h3 id="4-2-项目经理对项目的影响"><a href="#4-2-项目经理对项目的影响" class="headerlink" title="4.2 项目经理对项目的影响"></a>4.2 项目经理对项目的影响</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.08.58.png"></p>
-<h3 id="4-3-项目经理与组织的交互"><a href="#4-3-项目经理与组织的交互" class="headerlink" title="4.3 项目经理与组织的交互"></a>4.3 项目经理与组织的交互</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.09.52.png"></p>
-<h3 id="4-4-项目经理的能力-项目管理人才三角"><a href="#4-4-项目经理的能力-项目管理人才三角" class="headerlink" title="4.4 项目经理的能力-项目管理人才三角"></a>4.4 项目经理的能力-项目管理人才三角</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.12.21.png"></p>
-<h3 id="4-5-运营与项目管理"><a href="#4-5-运营与项目管理" class="headerlink" title="4.5 运营与项目管理"></a>4.5 运营与项目管理</h3><p><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.13.52.png"><br><img src="https://blog.950320.us.kg/PicGo/.iShot_2025-02-11_20.14.40.png"></p>
+<h3 id="post-md模版，仅供参考"><a href="#post-md模版，仅供参考" class="headerlink" title="post.md模版，仅供参考"></a><strong>post.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">tags: #【可选】文章标签</span><br><span class="line">categories: #【可选】文章分类</span><br><span class="line">keywords: #【可选】文章关键字</span><br><span class="line">description: #【可选】文章描述</span><br><span class="line">top: # 1 置顶</span><br><span class="line">top_img: #【可选】文章顶部图片</span><br><span class="line">comments: #【可选】显示文章评论模块(默认 true)</span><br><span class="line">cover: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)</span><br><span class="line">toc: #【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)</span><br><span class="line">toc_number: #【可选】显示 toc_number(默认为设置中 toc 的 number 配置)</span><br><span class="line">toc_style_simple: #【可选】显示 toc 简洁模式</span><br><span class="line">copyright: #【可选】显示文章版权模块(默认为设置中 post_copyright 的 enable 配置)</span><br><span class="line">copyright_author: #【可选】文章版权模块的文章作者</span><br><span class="line">copyright_author_href: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_url: #【可选】文章版权模块的文章作者链接</span><br><span class="line">copyright_info: #【可选】文章版权模块的版权声明文字</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">swiper_index: 10 #【可选】首页轮播图配置 index 索引，数字越小越靠前</span><br><span class="line">top_group_index: 10 #【可选】首页右侧卡片组配置, 数字越小越靠前</span><br><span class="line">ai: #【可选】文章ai摘要</span><br><span class="line">background: &quot;#fff&quot; #【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如#ffffff 不可写成#fff</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line">&lt;div class=&quot;video-container&quot;&gt;</span><br><span class="line">[up主专用，视频内嵌代码贴在这]</span><br><span class="line">&lt;/div&gt;</span><br><span class="line"></span><br><span class="line">&lt;style&gt;</span><br><span class="line">.video-container &#123;</span><br><span class="line">    position: relative;</span><br><span class="line">    width: 100%;</span><br><span class="line">    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">.video-container iframe &#123;</span><br><span class="line">    position: absolute;</span><br><span class="line">    top: 0;</span><br><span class="line">    left: 0;</span><br><span class="line">    width: 100%;</span><br><span class="line">    height: 100%;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>
+
+<h3 id="page-md模版，仅供参考"><a href="#page-md模版，仅供参考" class="headerlink" title="page.md模版，仅供参考"></a><strong>page.md</strong>模版，仅供参考</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125; #【必需】页面标题</span><br><span class="line">date: &#123;&#123; date &#125;&#125; #【必需】页面创建日期</span><br><span class="line">type: #【必需】标签、分类、关于、音乐馆、友情链接、相册、相册详情、朋友圈、即刻页面需要配置</span><br><span class="line">updated: #【可选】页面更新日期</span><br><span class="line">comments: #【可选】显示页面评论模块(默认 true)</span><br><span class="line">description: #【可选】页面描述</span><br><span class="line">keywords: #【可选】页面关键字</span><br><span class="line">top_img: https://img.090227.xyz/file/ae62475a131f3734a201c.png #【可选】页面顶部图片</span><br><span class="line">mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)</span><br><span class="line">aside: #【可选】显示侧边栏 (默认 true)</span><br><span class="line">aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</span><br><span class="line">highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)</span><br><span class="line">top_single_background: #【可选】部分页面的顶部模块背景图片</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h1 id="更多功能"><a href="#更多功能" class="headerlink" title="更多功能"></a>更多功能</h1><h2 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h2><h3 id="新建博文命令"><a href="#新建博文命令" class="headerlink" title="新建博文命令"></a>新建博文命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new 这是一篇新的博文</span><br></pre></td></tr></table></figure>
+
+<h3 id="新建标签页命令"><a href="#新建标签页命令" class="headerlink" title="新建标签页命令"></a>新建标签页命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">hexo new page 新建的标签页</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="文章置顶"><a href="#文章置顶" class="headerlink" title="文章置顶"></a>文章置顶</h2><h3 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-topindex --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="设置置顶"><a href="#设置置顶" class="headerlink" title="设置置顶"></a>设置置顶</h3><p>给需要置顶的文章加入top参数，如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line">---</span><br><span class="line">title: 每天一个linux命令</span><br><span class="line">date: 2017-01-23 11:41:48</span><br><span class="line">top: 1</span><br><span class="line">categories:</span><br><span class="line">- 运维</span><br><span class="line">tags:</span><br><span class="line">- linux命令</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>如果存在多个置顶文章，top后的参数越大，越靠前。</p>
+<hr>
+<h2 id="开启本地搜索"><a href="#开启本地搜索" class="headerlink" title="开启本地搜索"></a>开启本地搜索</h2><h3 id="安装插件-1"><a href="#安装插件-1" class="headerlink" title="安装插件"></a>安装插件</h3><p>你需要安装 <a href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>，根据它的文档去做相应配置</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">shell</span><br><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="设置主题配置文件"><a href="#设置主题配置文件" class="headerlink" title="设置主题配置文件"></a>设置主题配置文件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">yml</span><br><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  preload: false</span><br><span class="line">  CDN:</span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>enable</td>
+<td>是否开启本地搜索</td>
+</tr>
+<tr>
+<td>preload</td>
+<td>预加载，开启后，进入网页后会自动加载搜索文件。关闭时，只有点击搜索按钮后，才会加载搜索文件</td>
+</tr>
+<tr>
+<td>CDN</td>
+<td>搜索文件的 CDN 地址（默认使用的本地链接）</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="添加任意文件"><a href="#添加任意文件" class="headerlink" title="添加任意文件"></a>添加任意文件</h2><p>例如当我们想在网站根目录添加<code>ads.txt</code>文件，来通过站长验证时，我们只需要在<code>/source</code>文件夹下放置该文件即可。</p>
+<hr>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a href="https://docs.anheyu.com/initall.html">https://docs.anheyu.com/initall.html</a><br><a href="https://www.fomal.cc/posts/4aa2d85f.html">https://www.fomal.cc/posts/4aa2d85f.html</a><br><a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1">https://github.com/anzhiyu-c/hexo-theme-anzhiyu/blob/dev/README.md?plain=1</a><br><a href="https://blog.csdn.net/COCO56/article/details/103840966">https://blog.csdn.net/COCO56/article/details/103840966</a></p>
 ]]></content>
       <categories>
-        <category>PMP</category>
+        <category>教程</category>
       </categories>
       <tags>
-        <tag>PMP</tag>
+        <tag>blog</tag>
       </tags>
   </entry>
 </search>
