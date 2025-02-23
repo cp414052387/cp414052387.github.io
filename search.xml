@@ -103,6 +103,259 @@
       </tags>
   </entry>
   <entry>
+    <title>PMP学习第二课-价值交付系统</title>
+    <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p>
+<p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p>
+<p>项目没有优先级吗？-&gt;没有明确的说明</p>
+<p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p>
+<p>公司要有战略：</p>
+<p>项目组合管理-&gt;关注价值实现</p>
+<ul>
+<li>做正确的“事”</li>
+<li>自由优先级分配</li>
+</ul>
+<p>项目集管理-&gt;关注收益实现</p>
+<ul>
+<li>关联项目管理</li>
+</ul>
+<p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p>
+<ul>
+<li>单个项目管理</li>
+</ul>
+<p>组织项目管理-&gt;组织驱动因素（组织驱动因素主要包括<strong>组织结构、组织文化、组织技术、人力资源实践</strong>。组织驱动因素是组织进行组织级项目管理的重要保证，如果缺失这几个维度的设计，组织级项目管理将会失败，项目组合管理、项目集管理、项目管理也将会失败。）</p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.04.29.png"></p>
+<h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​	组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p>
+<ul>
+<li>打通壁垒</li>
+<li>交付战略</li>
+<li>实现价值</li>
+</ul>
+<ol>
+<li>项目、项目集和项目组合管理都要为组织战略服务</li>
+<li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li>
+<li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li>
+<li>战略与战术</li>
+</ol>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.18.49.png"></p>
+<h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol>
+<li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li>
+<li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li>
+<li>不同干系人对于价值的理解可能具有一定的主观性</li>
+<li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li>
+</ol>
+<h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol>
+<li>一组相互关联且被协调管理的项目</li>
+<li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li>
+<li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li>
+<li>项目集管理重点关注项目间的依赖关系</li>
+<li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li>
+<li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li>
+<li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li>
+</ol>
+<h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul>
+<li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li>
+<li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li>
+<li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li>
+<li>项日组合的业务范围随组织战略目标的变化而变化</li>
+<li>做正确的事</li>
+</ul>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.19.16.png"></p>
+<h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul>
+<li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li>
+<li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li>
+</ul>
+<h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul>
+<li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li>
+<li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li>
+<li>这个框架会影响：<ol>
+<li>组织目标的设定和实现方式</li>
+<li>风险监控和评估方式</li>
+<li>绩效优化方式</li>
+</ol>
+</li>
+<li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li>
+<li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li>
+</ul>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.45.18.png"></p>
+<h2 id="8-项目组织结构"><a href="#8-项目组织结构" class="headerlink" title="8.项目组织结构"></a>8.项目组织结构</h2><h3 id="职能型"><a href="#职能型" class="headerlink" title="职能型"></a>职能型</h3><p>沟通效率低，专业性高。</p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.11.00.png"></p>
+<h3 id="项目型"><a href="#项目型" class="headerlink" title="项目型"></a>项目型</h3><p>沟通会产生项目壁垒，没有归属感，沟通效率高。</p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.14.02.png"></p>
+<h3 id="距阵型"><a href="#距阵型" class="headerlink" title="距阵型"></a>距阵型</h3><ul>
+<li><p>弱矩阵型</p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.16.29.png"></p>
+</li>
+<li><p>平衡矩阵型</p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.17.26.png"></p>
+</li>
+<li><p>强矩阵型</p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.18.18.png"></p>
+</li>
+</ul>
+<h3 id="组织结构选择的考虑因素"><a href="#组织结构选择的考虑因素" class="headerlink" title="组织结构选择的考虑因素"></a>组织结构选择的考虑因素</h3><p>选择组织结构时应考虑的因素包括（ 但不限于）：<br>•与组织目标的一致性<br>•专业能力<br>•控制、效率与效果的程度<br>•明确的決策升级渠道<br>•明确的职权线和范围<br>•授权方面的能力<br>•终责分配<br>•职责分配<br>•实施效率<br>•成本考虑<br>•物理位置（例如集中办公、区域办公和虚拟远程办公）<br>•清晰的沟通（例如政策、 工作状态和组织愿景）</p>
+<h3 id="项目管理办公室-PMO"><a href="#项目管理办公室-PMO" class="headerlink" title="项目管理办公室(PMO)"></a>项目管理办公室(PMO)</h3><p>对项目治理过程标准化，促进技术共享的组织部口<br>PMQ 在项目组合、项目集、项且与公司考评体系（如平衡计分卡）之间建立联系<br>所支持或管理的项目<strong>不一定彼此关联</strong><br>在项目<strong>各生命周期内</strong>，PMO可能有权起到核心干系人和关键决策者的作用<br>PMO的一个主要职能是通过各种方式对项目经理<strong>提供支持</strong></p>
+<ul>
+<li><strong>管理共享资源</strong></li>
+<li>识别和开发项目管理方法、最佳实践和标准</li>
+<li>指导  辅导  培训和监督</li>
+<li>通过项目申计，监督对项目管理标准、政策、程序和模板的遵守程度</li>
+<li>制定项目政策、程应 模板和其他共享文件（组织过程资产）</li>
+<li>协调项目之间的沟通</li>
+</ul>
+<h4 id="PMO的六大职能"><a href="#PMO的六大职能" class="headerlink" title="PMO的六大职能"></a>PMO的六大职能</h4><ul>
+<li>人员培养</li>
+<li>流程制度</li>
+<li>咨询辅导</li>
+<li>管理工貝</li>
+<li>过程监控</li>
+<li>绩效考核</li>
+</ul>
+<h4 id="PMO的三种类型："><a href="#PMO的三种类型：" class="headerlink" title="PMO的三种类型："></a>PMO的三种类型：</h4><ul>
+<li><strong>支持型</strong> 项目资源库，对项目控制程度低，无权要求</li>
+<li><strong>控制型</strong>  对项目有一定控制权力，如提供必需使用的模板</li>
+<li><strong>指令型</strong> PMO直接管控项且，PMO拥有很高的权力</li>
+</ul>
+<h3 id="内外部环境"><a href="#内外部环境" class="headerlink" title="内外部环境"></a>内外部环境</h3><ul>
+<li>项目所处的环境可能对项目的开展产生有利或不利的影响</li>
+<li>影响来源：<strong>事业环境因素</strong>(EEF) 和<strong>组织过程资产</strong> (OPA)</li>
+<li>事业环境因素通常源于企业的外部环境（也可包含内部环境因素，组织过程资产源于企业内部）</li>
+<li>除了上述两类，组织系统对项目生命周期也起着重要的作用</li>
+</ul>
+<h4 id="事业环境因素"><a href="#事业环境因素" class="headerlink" title="事业环境因素"></a>事业环境因素</h4><ul>
+<li>事业环境因素（EEF） 是指项目团队不能控制的，将对项目产生影响、限制或指令作用的各种条件</li>
+<li>可能提高或限制项目管理的灵活性，并可能对项目结果产生<strong>积极或消极影响</strong></li>
+<li>分为组织内部的和组织外部的</li>
+<li>内部包括组织文化和结构、<strong>基础设施</strong>、<strong>资源可用性</strong>、员工能力等</li>
+<li>外部包括<u>市场条任、 法律限告 商业数据库、政府或行业标准、物理环境要素</u>等</li>
+</ul>
+<p class='p center logo large'>事业环境因素指的是团队不能直接控制的，将对项目、项目集或项目组合产生影响、限制或指导作用的各种条件。</p>
+
+<h4 id="组织过程资产"><a href="#组织过程资产" class="headerlink" title="组织过程资产"></a>组织过程资产</h4><ul>
+<li>执行组织所特有并使用的计划、过程、政策、程序和知识库，会影响对具体项目的管理</li>
+<li><mark class="hl-label default">帮助项目成功</mark> </li>
+<li>项目团队有责任在项目全过程中对组织过程资产进行必要的更新和补充</li>
+<li>包括：<ol>
+<li><strong>过程、政策和程序</strong>：由项目管理办公室(PMO) 或项目以外的其他职能部门完成，可以通过<strong>项目管理信息系统</strong>呈现</li>
+<li><strong>组织知识库</strong>：在整个项目期间结合项目信息而更新的</li>
+</ol>
+</li>
+</ul>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.30.05.png"></p>
+<h2 id="9-产品与项目的关系"><a href="#9-产品与项目的关系" class="headerlink" title="9.产品与项目的关系"></a>9.产品与项目的关系</h2><p>产品生命周期均会产生项目</p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.42.59.png"></p>
+<h3 id="9-1-产品生命周期与项目生命周期关系"><a href="#9-1-产品生命周期与项目生命周期关系" class="headerlink" title="9.1 产品生命周期与项目生命周期关系"></a>9.1 产品生命周期与项目生命周期关系</h3><ul>
+<li>项目生命周期与产品生命周期相互独立</li>
+<li>产品生命周期指一个产品从<strong>概念</strong>、<strong>交付</strong>、成长、成熟到衰退的整个演变过程的一系列阶段</li>
+</ul>
+<h3 id="9-2-项目和开发生命周期"><a href="#9-2-项目和开发生命周期" class="headerlink" title="9.2 项目和开发生命周期"></a>9.2 项目和开发生命周期</h3><ul>
+<li>项目生命周期指项目从开始到完成所经历的一系列阶段</li>
+<li>项目生命周期能为管理项目提供基本框架</li>
+<li>项日生命周期的基本结构：开始项目：组织与准备：执行项目工作；结束项目</li>
+<li>这些阶段之间的关系可以<strong>顺序</strong>、<strong>迭代或交叠进行</strong></li>
+<li>项日生命周期内通常有一个或多个险段与产品、服务或成果的开发相关，这些阶段称为<strong>开发生命周期</strong></li>
+<li>开发生命周期可以是<strong>预测型</strong>、<strong>迭代型</strong>、 <strong>增量型</strong>、<strong>敏捷型</strong>或<strong>混合型</strong>的模式</li>
+</ul>
+<h3 id="9-3-项目生命周期中成本和人力投入水平"><a href="#9-3-项目生命周期中成本和人力投入水平" class="headerlink" title="9.3 项目生命周期中成本和人力投入水平"></a>9.3 项目生命周期中成本和人力投入水平</h3><p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.49.31.png"></p>
+<h3 id="9-4-项目生命周期的特点-项目干系人影响"><a href="#9-4-项目生命周期的特点-项目干系人影响" class="headerlink" title="9.4 项目生命周期的特点-项目干系人影响"></a>9.4 项目生命周期的特点-项目干系人影响</h3><p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.50.52.png"></p>
+<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.52.59.png"><br><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.53.31.png"></p>
+<h3 id="9-5-开发生命周期"><a href="#9-5-开发生命周期" class="headerlink" title="9.5 开发生命周期"></a>9.5 开发生命周期</h3><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.55.00.png" alt="开发生命周期示例。"/></div><span class="image-caption">开发生命周期示例。</span></div>
+
+
+
+
+<h4 id="预测型"><a href="#预测型" class="headerlink" title="预测型"></a>预测型</h4><ul>
+<li>完全计划驱动型生命周期</li>
+<li><u>在生命周期的早期阶段确定项目范围、 时间和成本</u>，然后制定产品交付计划，接着通过各阶段来执行计划</li>
+<li>确定计划-＞按计划执行</li>
+<li><u>适用于：充分了解拟交付的产品，有厚实的行业实践基础，整批一次性交付产品有利于干系人</u></li>
+<li><u>预测型生命周期也称为瀑布型生命周期</u></li>
+<li>猴子与大象的故事</li>
+</ul>
+<h4 id="迭代型和增量型"><a href="#迭代型和增量型" class="headerlink" title="迭代型和增量型"></a>迭代型和增量型</h4><ul>
+<li><mark class="hl-label default">迭代</mark> ：通过一系列<mark class="hl-label default">重复</mark> 的循环活动来开发产品</li>
+<li><mark class="hl-label default">增量</mark> ：<mark class="hl-label default">渐进</mark> 的增加产品的功能</li>
+<li>适用于：组织雷要管理<mark class="hl-label default">不断变化</mark> 的目标和范围组织需要隆低项目的复杂性，产品可以部分交付</li>
+</ul>
+<h4 id="敏捷型"><a href="#敏捷型" class="headerlink" title="敏捷型"></a>敏捷型</h4><ul>
+<li>迭代和增量的进一步应用</li>
+<li>迭代快(2-4周迭代一次)，所需<mark class="hl-label default">时间</mark> 和<mark class="hl-label default">资源</mark> 固定</li>
+<li>适用情況：应对<mark class="hl-label default">快速变化</mark> 的<mark class="hl-label default">环境</mark> ，需求或范围难以实现确定，以有利于王系人的方式定义较小的增量改进</li>
+<li>迭代型、 增量型、敏捷型 、混合型都可以看成是<mark class="hl-label default">适应型</mark> 的一种方法</li>
+</ul>
+<p class='p center logo large'>敏捷开发-对付纠结最好的办法就是做让你纠结的事情！！！</p>
+
+<h4 id="不同开发生命周期比较"><a href="#不同开发生命周期比较" class="headerlink" title="不同开发生命周期比较"></a>不同开发生命周期比较</h4><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_22.12.06.png" alt="不同开发生命周期比较"/></div><span class="image-caption">不同开发生命周期比较</span></div>
+
+
+
+
+<h4 id="敏捷相关背景与注意事项"><a href="#敏捷相关背景与注意事项" class="headerlink" title="敏捷相关背景与注意事项"></a>敏捷相关背景与注意事项</h4><ul>
+<li>2001年初，因观察到许多的软件团队身陷不断扩大的流程之中的困境，一群业界专家聚集在一起(Snowbird,Utah），勾勒出一些能让软件國队迅速工作，以及响应变化的<strong>价值观</strong>和<strong>原则</strong>。他们自称为Agile Alliance</li>
+<li>之后的七个月里，他们创造具有价值的<strong>声明</strong>，也就是敏捷<strong>宣言</strong>。成为敏捷精神的内核和灵魂</li>
+<li>经过实践者不断地总结和梳理，将敏捷的框架、工具、方法等应用到项目管理中，形成了敏捷项目管理的整体思路</li>
+<li>考试通常在混合型生命周期中考察敏捷的 “道” ，在纯敏捷题目中考察敏捷的“术〞，但知识点不会特别深</li>
+</ul>
+<h3 id="敏捷宣言"><a href="#敏捷宣言" class="headerlink" title="敏捷宣言"></a>敏捷宣言</h3><p>我们一直在实践中探寻更好的软件开发方法，身体力行同时也帮助他人。由此我们建立了如下价值观</p>
+<ul>
+<li>个体和互动 高于 流程和工具</li>
+<li>工作的软件 高子 详尽的文档</li>
+<li>客户合作 高于 合同谈判</li>
+<li>响应变化 高于 遵循计划</li>
+</ul>
+<p>也就是说，尽管右项有其价值，我们更重视左项的价值。</p>
+<h3 id="敏捷的原则"><a href="#敏捷的原则" class="headerlink" title="敏捷的原则"></a>敏捷的原则</h3><ol>
+<li>我们最优先要做的是通过尽早的、持续的交付有价值的软件来使客户满意</li>
+<li>即使到了开发的后期，也欢迎改变需求</li>
+<li>经常性地交付可以工作的软件，交付的间隔可以从几周到几个月，<span class='p red'>交付的时间间隔越短越好</span></li>
+<li>在整个项目开发期间，业务人员和开发人员必须天天都在一起工作</li>
+<li>围绕被激励起来的个人来构建项目</li>
+<li>在团队内部，最具有效果并且富有效率的传递信息的方法，就是面对面的交谈</li>
+<li>工作的软件是首要的进度度量标准</li>
+<li>敏捷过程提信平稳的开发节奏；发起人、开发者和用户应该能够保持长期的、恒定的开发速度</li>
+<li>不断地关注优秀的技能和好的设计会增强敏捷能力</li>
+<li>简单化是根本（不做过度设计和预测〕</li>
+<li>最好的构架、需求和设计出自于自组织的团队</li>
+<li>每隔一定时间，团队会在如何才能更有效地工作方面进行反思并对自己的行为进行相应调整</li>
+</ol>
+<p class='p center logo large'>事：</p>
+
+
+<p class='p red'>持续交付，小步快跑</p>
+<p class='p yellow'>拥抱变化，提高优势</p>
+<p class='p green'>尽早反馈，价值排序</p>
+<p class='p red'>成果达成，衡量进度</p>
+<p class='p yellow'>持续更新，强化敏捷</p>
+<p class='p green'>精简产品，杜绝浪费</p>
+
+
+<p class='p center logo large'>人：</p>
+
+
+<p class='p red'>团队合作，每日互动</p>
+<p class='p yellow'>信任成员，给子支援</p>
+<p class='p green'>当面沟通，高效明了</p>
+<p class='p red'>各方成员，稳定节奏</p>
+<p class='p yellow'>同心协力，自我组织</p>
+<p class='p green'>团队自省，持续改进</p>
+
+
+<p class='p center logo large'>敏捷的灵魂是思维模式的转变，而不是工具方法的堆砌</p>
+
+
+
+]]></content>
+      <categories>
+        <category>PMP</category>
+      </categories>
+      <tags>
+        <tag>PMP</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>PMP学习第五课-团队绩效域</title>
     <url>/2025/02/17/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%94%E8%AF%BE-%E5%9B%A2%E9%98%9F%E7%BB%A9%E6%95%88%E5%9F%9F/</url>
     <content><![CDATA[<div class="video-container">[]</div>
@@ -379,6 +632,190 @@
       <tags>
         <tag>PMP</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>PMP学习第六课-开发方法和生命周期绩效域</title>
+    <url>/2025/02/23/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E5%85%AD%E8%AF%BE-%E5%BC%80%E5%8F%91%E6%96%B9%E6%B3%95%E5%92%8C%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E7%BB%A9%E6%95%88%E5%9F%9F/</url>
+    <content><![CDATA[<div class="video-container">[]</div>
+<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<h1 id="开发方法和生命周期绩效域"><a href="#开发方法和生命周期绩效域" class="headerlink" title="开发方法和生命周期绩效域"></a>开发方法和生命周期绩效域</h1><h2 id="1、开发方法和生命周期绩效域概览"><a href="#1、开发方法和生命周期绩效域概览" class="headerlink" title="1、开发方法和生命周期绩效域概览"></a><strong>1、开发方法和生命周期绩效域概览</strong></h2><p><strong>开发方法和生命周期绩效域的相关核心概念</strong></p>
+<ul>
+<li><strong>开发方法</strong> ：在项目生命周期内用于创建并改进产品、服务或结果的方法，例如预测型、迭代型、增量型、敏捷型或混合型方法</li>
+<li><strong>节奏</strong> ：在整个项目期间所开展活动的节律</li>
+<li><strong>项目阶段</strong> ：一组具有逻辑关系的项目活动的集合，通常以一个或多个可交付物的完成为结束</li>
+<li><strong>项目生命周期</strong> ：项目从开始到结束所经历的一系列阶段</li>
+</ul>
+<h3 id="1-1不同生命周期的比较"><a href="#1-1不同生命周期的比较" class="headerlink" title="1.1不同生命周期的比较"></a><strong>1.1不同生命周期的比较</strong></h3><ul>
+<li><strong>预测型生命周期</strong> 。这是一种更为传统的方法，提前进行大量的计划工作，然后一次性执行；执行是一个连续的过程</li>
+<li><strong>采用迭代型方法的生命周期</strong> 。这种方法允许对未完成的工作进行反馈，从而改进和修改该工作</li>
+<li><strong>采用增量型方法的生命周期</strong> 。这种方法向客户提供各个已完成的，可能立即使用的可交付物</li>
+<li><strong>采用敏捷型方法的生命周期</strong> 。这种方法既有迭代，也有增量，便于完善工作，频繁交付价值</li>
+</ul>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_11.59.35.png,alt=预测型"/></div></div>
+
+<div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_11.59.49.png,alt=增量型"/></div></div>
+
+
+
+<h2 id="2、敏捷相关的基本知识"><a href="#2、敏捷相关的基本知识" class="headerlink" title="2、敏捷相关的基本知识"></a>2、敏捷相关的基本知识</h2><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_12.02.13.png,alt=敏捷"/></div></div>
+
+<h3 id="2-1、敏捷宣言回顾"><a href="#2-1、敏捷宣言回顾" class="headerlink" title="2.1、敏捷宣言回顾"></a>2.1、<strong>敏捷宣言回顾</strong></h3><p>我们一直在实践中探寻更好的软件开发方法，身体力行的同时也帮助他人。由此我们建立了如下价值观：<br>个体和互动 高于 流程和工具<br>工作的软件 高于 详尽的文档<br>客户合作 高于 合同谈判<br>响应变化 高于 遵循计划</p>
+<p>也就是说，尽管右项有其价值，我们更重视左项的价值</p>
+<h3 id="2-2、敏捷原则回顾"><a href="#2-2、敏捷原则回顾" class="headerlink" title="2.2、敏捷原则回顾"></a>2.2、<strong>敏捷原则回顾</strong></h3><ol>
+<li>我们最优先要做的是通过 <strong>尽早的、持续的交付有价值的软件</strong> 来使客户满意</li>
+<li>即使到了开发的后期，也 <strong>欢迎改变需求</strong></li>
+<li>经常性地交付可以工作的软件，交付的间隔可以从几周到几个月，交付的<strong>时间间隔越短越好</strong></li>
+<li>在整个项目开发期间， <strong>业务人员和开发人员必须天天都在一起工作</strong></li>
+<li>围绕 <strong>被激励起来的个人</strong> 来构建项目</li>
+<li>在团队内部，最具有效果并且富有效率的传递信息的方法，就是 <strong>面对面的交谈</strong></li>
+<li>工作的软件<strong>是首要的进度度量标准</strong></li>
+<li>敏捷过程提倡平稳的开发节奏；发起人、开发者和用户应该能够保持一个<br><strong>长期的、恒定的开发速度</strong></li>
+<li>不断地关注优秀的技能和好的设计<strong>会增强敏捷能力</strong></li>
+<li>简单化<strong>是根本（不做过度设计和预测）</strong> </li>
+<li>最好的构架、需求和设计出自于 <strong>自组织的团队</strong></li>
+<li>每隔一定时间，团队会在如何才能更有效地工作方面 <strong>进行反思</strong> 并对自己的行为进行相应调整</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">持续交付，小步快跑</span><br><span class="line">拥抱变化，提高优势</span><br><span class="line">尽早反馈，价值排序</span><br><span class="line">成果达成，衡量进度</span><br><span class="line">持续更新，强化敏捷</span><br><span class="line">精简产品，杜绝浪费</span><br><span class="line">团队合作，每日互动</span><br><span class="line">信任成员，给予支援</span><br><span class="line">当面沟通，高效明了</span><br><span class="line">各方成员，稳定节奏</span><br><span class="line">同心协力，自我组织</span><br><span class="line">团队自省，持续改进</span><br></pre></td></tr></table></figure>
+
+<p><strong>敏捷的灵魂是思维模式的转变，而不是工具方法的堆砌</strong></p>
+<h3 id="2-3、敏捷的角色"><a href="#2-3、敏捷的角色" class="headerlink" title="2.3、敏捷的角色"></a>2.3、<strong>敏捷的角色</strong></h3><ul>
+<li>敏捷团队中有三种常见的角色：<br>✓跨职能团队成员（team）<br>✓产品负责人（PO）<br>✓团队促进者（team Facilitator，在不同的模型中可被成为Scrum Master，Team Leader，Project Manager等）</li>
+<li>其他的辅助性角色：<br>✓治理团队<br>✓PMO</li>
+</ul>
+<h4 id="2-3-1跨职能团队成员（team）"><a href="#2-3-1跨职能团队成员（team）" class="headerlink" title="2.3.1跨职能团队成员（team）"></a>2.3.1<strong>跨职能团队成员（team）</strong></h4><ul>
+<li>一般情况人数在 3 - 9 个左右</li>
+<li>团队成员跨职能（包括开发人员、测试人员、用户界面设计师等），鼓励成为T型人才，最好是 <strong>全栈式工程师</strong></li>
+<li>敏捷团队成员需要全职，不能随意发生变化（至少迭代内），否则影响团队速度</li>
+<li>在团队章程内有权力做任何工作形式的决策来确保达到迭代&#x2F;冲刺的目标</li>
+<li>高度的自组织能力（重点强调尊重、承诺和责任，而不是肆无忌惮的自由散漫）</li>
+<li>需要向Product Owner演示产品功能</li>
+<li>团队需要定义DoD（针对所有任务的）</li>
+</ul>
+<h4 id="2-3-2DoD-AC-DoR的区别和联系"><a href="#2-3-2DoD-AC-DoR的区别和联系" class="headerlink" title="2.3.2DoD&#x2F;AC&#x2F;DoR的区别和联系"></a>2.3.2<strong>DoD&#x2F;AC&#x2F;DoR的区别和联系</strong></h4><ul>
+<li>在敏捷项目管理中，常用Definition of Done“完成的定义”来表示工作是否已完成，不同的活动有不同的完成定义（迭代DoD、发布DoD、每日DoD、用户故事DoD等）</li>
+<li>用户故事的DoD实例：<br>✓用户故事最终的描述符合INVEST<br>✓用户故事得到测试用例的对应覆盖</li>
+<li>DoD是针对于所有需求，任务，迭代，交付定义的（整体性），而验收标准AC（Accept criteria）是针对每个需求定义的（局部性）</li>
+<li>DoR（Definition Of Ready）是某一个阶段正常开启的先决条件。而DoD则是某阶段产物完成的标准和原则</li>
+</ul>
+<h4 id="2-3-3产品负责人（Product-Owner）"><a href="#2-3-3产品负责人（Product-Owner）" class="headerlink" title="2.3.3产品负责人（Product Owner）"></a>2.3.3<strong>产品负责人（Product Owner）</strong></h4><ul>
+<li>产品负责人（Product Owner）的职责如下：<br>✓确定产品的功能<br>✓决定发布的日期和发布内容<br>✓根据市场价值等因素确定需求（用户故事）的优先级<br>✓为产品的profitability of the product (ROI)负责<br>✓每个冲刺&#x2F;迭代（Sprint）前，根据需要调整功能和优先级<br>✓接受或拒绝接受开发团队的工作成果<br>✓作为客户代言人，接收不同的需求和反馈，并不断梳理待办<br>项清单，但不能在迭代中影响团队现有的工作</li>
+</ul>
+<h4 id="2-3-4-团队促进者（Team-Facilitator-）"><a href="#2-3-4-团队促进者（Team-Facilitator-）" class="headerlink" title="2.3.4 团队促进者（Team Facilitator ）"></a>2.3.4 <strong>团队促进者（Team</strong> Facilitator <strong>）</strong></h4><ul>
+<li>此角色在不同的敏捷模型中可能被称为项目经理、Scrum Master、Team Facilitator等</li>
+<li>促动者倡<strong>导仆人式领导</strong>（servant leadership）</li>
+<li>促动者更像是守望者，不是做决策，而是提供支持。对流程负责，对内容不负责</li>
+<li>和Product owner及团队紧密地工作在一起，他可以及时地为团队成员<strong>提供帮助</strong></li>
+<li>确保团队资源完全可被利用并且全部是高产出的，否则应提供相应的培训和指导</li>
+<li>保证各个角色及职责的良好协作，让大家了解敏捷的真正作用与相关要求</li>
+<li>解决团队开发中的障碍（<strong>沟通障碍、流程障碍</strong>等）</li>
+<li>做为团队和外部的接口，处理外界对团队成员的干扰（信息发射源、看板解决信息<br>不对称的问题；新的需求转移给PO解决新需求影响团队的问题）</li>
+<li>保证开发过程按计划进行，<strong>组织各种会议</strong>（如Scrum中的：站立会（Daily Scrum）,冲刺回顾会、迭代规划会等）</li>
+</ul>
+<h4 id="2-3-5仆人式（服务型）领导为团队赋权"><a href="#2-3-5仆人式（服务型）领导为团队赋权" class="headerlink" title="2.3.5仆人式（服务型）领导为团队赋权"></a>2.3.5<strong>仆人式（服务型）领导为团队赋权</strong></h4><ul>
+<li>敏捷方法强调，仆人式领导是一种为团队赋权的方法。仆人式领导是<br>通过对团队服务来领导团队的实践，它注重理解和关注团队成员的需<br>要和发展，旨在使团队尽可能达到最高绩效</li>
+<li>以下仆人式领导的特征让项目领导变得更加敏捷，促进团队的成功：<br>✓提升自我意识（ <strong>不强行决策与干预</strong> ）<br>✓倾听（ <strong>了解根因与现状，了解团队的情绪</strong> ）<br>✓为团队服务（ <strong>解决团队现有的障碍</strong> ，而不是制造麻烦）<br>✓帮助他人成长（ <strong>培训与辅导</strong> ）<br>✓引导与控制（ <strong>让团队说话，在流程上控制好，而不是内容</strong> ）<br>✓促进安全、尊重与信任（ <strong>先私下沟通，鼓励团队自组织</strong> ）<br>✓促进他人精力和才智提升（ <strong>减少其他人对团队的影响</strong> ）</li>
+</ul>
+<h4 id="2-3-6敏捷PMO"><a href="#2-3-6敏捷PMO" class="headerlink" title="2.3.6敏捷PMO"></a>2.3.6<strong>敏捷PMO</strong></h4><ul>
+<li>设立PMO的目的是引导组织实现商业价值。敏捷PMO为价值驱动型、面向创新型、多学科型</li>
+<li>敏捷PMO可进行如下职责：<br>✓ <strong>制定和实施标准</strong> 。提供用户故事、测试案例、累积流图等模板，提供敏捷工具并培训支持小组了解迭代开发概念<br>✓ <strong>通过培训和指导发展人才</strong> 。协调敏捷培训课程、教练和导师以帮助员工过渡到敏捷思维模式并升级其技能。鼓励和支持员工参与本地敏捷活动<br>✓ <strong>多项目管理</strong> 。通过不同项目交流协调敏捷团队。考虑分享进度、问题、回顾性发现和改进实<br>验等内容。借助适当的框架，帮助管理项目层的主要客户发布和项目组合层的投资主题<br>✓ <strong>促进组织学习</strong> 。收集项目进度信息并获取、存储和记录回顾性发现成果<br>✓ <strong>管理干系人</strong> 。提供产品负责人培训，指导验收测试以及评估方法，并提供系统反馈。宣扬主题专家(SME)对项目的重要性<br>✓ <strong>招聘、筛选和评估项目领导</strong> 。制定敏捷实践者访谈指南<br>✓ <strong>执行专业化项目任务</strong> 。培训和提供回顾促进者，与敏捷项目问题解决者订立协议，并提供导师和教练</li>
+</ul>
+<h3 id="2-4、敏捷相关的基本知识"><a href="#2-4、敏捷相关的基本知识" class="headerlink" title="2.4、敏捷相关的基本知识"></a>2.4、<strong>敏捷相关的基本知识</strong></h3><h4 id="2-4-1-敏捷方法"><a href="#2-4-1-敏捷方法" class="headerlink" title="2.4.1 敏捷方法"></a>2.4.1 <strong>敏捷方法</strong></h4><ul>
+<li>敏捷方法是在敏捷宣言（ 4 条）、敏捷原则（ 12 条）的指导下，根据不同的场景总结出的良好实践</li>
+<li>在PMI《敏捷实践指南》中，“敏捷方法”是一个囊括了各种框架和方法的涵盖性术语</li>
+</ul>
+<h4 id="2-4-2-看板的作用与优势"><a href="#2-4-2-看板的作用与优势" class="headerlink" title="2.4.2 看板的作用与优势"></a>2.4.2 <strong>看板的作用与优势</strong></h4><ul>
+<li>“看板”一词按字面翻译为“视觉符号”或“卡片”。带有卡片的物理看板面板能够<u>推动和实现整个系统中工作流的<strong>可视化</strong></u>，让每个人都可以看到</li>
+<li>该信息发射源包含许多列，表示需要完成的工作流的状态。最简单的面板可能包含三列（即，要完成的工作、进行中的工作和已完成工作），但可以调整为使用团队所需要的任何状态</li>
+<li>看板方法应用并适用于多种场合，可以确保工作流和价值交付的持续性</li>
+<li>在看板方法中，完成工作比开始新工作更为重要。从未完成的工作中无法获得任何价值，因此团队将协作实施和遵从在制品(WIP) 限制，让整个系统中的每份工作得以“完成”</li>
+<li>考试中，看板通常用来起到展示项目情况、透明各方信息的作用</li>
+</ul>
+<h4 id="2-4-3-极限编程——eXtremeProgramming"><a href="#2-4-3-极限编程——eXtremeProgramming" class="headerlink" title="2.4.3 极限编程——eXtremeProgramming"></a>2.4.3 极限编程——eXtremeProgramming</h4><ul>
+<li><p>轻量级的开发流程</p>
+</li>
+<li><p>最主要的精神是：在客户有系统需求时，给予及时满意的可执<br>行程序，所以最适合需求快速变动的项目</p>
+</li>
+<li><p>它强调客户所要的是workable的执行代码，所以把与撰写程序<br>无关的工作降至最低，并要求客户与开发人员最好以side-by-<br>side的方式一起工作</p>
+</li>
+<li><p>XP的实践包括：<br>✓完整团队、计划游戏、客户测试<br>✓简单设计、 <strong>结对编程、测试驱动开发</strong><br>✓改进设计、 <strong>持续集成</strong> 、集体代码所有权<br>✓编码标准、隐喻、可持续的速度</p>
+</li>
+<li><p><strong>持续集成</strong> 。无论产品如何，都要频繁地将工作集成到整体中，然后再进行重新测试，以确定整个产品仍然按照预期工作</p>
+</li>
+<li><p><strong>在不同层面测试</strong> 。对端到端信息使用系统级测试，对构建块使用单元测试。在两者之间，了解是否需要进行集成测试，以及在何处进行测试。团队发现冒烟测试有助于测试工作产品是否良好。团队<br>发现，决定何时以及对哪些产品运行回归测试，可以帮助他们在维护产品质量的同时，良好地构建性能。敏捷团队非常偏爱自动化测试，因此他们可以借此构建和保持交付的势头</p>
+</li>
+<li><p><strong>验收测试驱动开发(ATDD)</strong> 。在ATDD中，整个团队聚集一起讨论工作产品的验收标准。然后，团队创建测试，这让团队能够编写足够的代码，进行自动化测试，满足标准要求。对于非软件项目，要考虑怎样在团队完成大量价值时对工作进行测试</p>
+</li>
+<li><p><strong>测试驱动开发(TDD)和行为驱动开发(BDD)</strong> 。在编写&#x2F;创建产品之前编写自动化测试，实际上可以帮助人员设计产品，防范产品错误。对于非软件项目，要考虑如何通过“测试驱动”团队的设计。硬件和机械类项目经常使用模拟进行设计的中间测试</p>
+</li>
+<li><p><strong>刺探（时间盒研究或实验）</strong> 。刺探对学习很有用，可以在诸如评估、验收标准定义以及通过产品了解用户行为的流程中使用。在团队需要学习一些关键技术或功能要素时，刺探会很有帮助</p>
+</li>
+</ul>
+<h4 id="2-4-4-Scrum"><a href="#2-4-4-Scrum" class="headerlink" title="2.4.4 Scrum"></a>2.4.4 <strong>Scrum</strong></h4><p>Scrum包括了 <strong>一系列实践和预定义角色的过程骨架</strong> 。Scrum中的主要角色包括同项目经理类似的Scrum主管角色负责维护过程和任务，产品负责人代表利益所有者，开发团队包括了所有开发人员</p>
+<div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_12.43.50.png,alt=Scrum"/></div></div>
+
+<h4 id="2-4-5-Sprints（冲刺）"><a href="#2-4-5-Sprints（冲刺）" class="headerlink" title="2.4.5 Sprints（冲刺）"></a>2.4.5 <strong>Sprints（冲刺）</strong></h4><ul>
+<li>Scrum的项目过程由一系列的Sprint组成</li>
+<li>Sprint的长度一般控制在 2 - 4 周</li>
+<li>通过固定的周期保持良好的节奏</li>
+<li>产品的设计、开发、测试都在Sprint期间完成</li>
+<li>Sprint结束时交付可以工作的软件</li>
+<li>在Sprint过程中不允许发生变更</li>
+</ul>
+<h4 id="2-4-6-Scrum-of-scrums"><a href="#2-4-6-Scrum-of-scrums" class="headerlink" title="2.4.6 Scrum of scrums"></a>2.4.6 <strong>Scrum of scrums</strong></h4><ul>
+<li>Scrum of Scrums (SoS) 也称为“meta Scrum”，是由两个或多个Scrum 团队而不是一个大型Scrum 团队所使用的一种技术</li>
+<li>其中一个团队包含三到九名成员来协调其工作。每个团队的代表会与其他团队代表定期召开会议，可能是每日例会，但通常是一周两次或三次</li>
+<li>每日例会的执行方式类似于Scrum 的每日站会，其中代表将报告已完成的工作、下一步工作设置、任何当前障碍以及可能会阻碍其他团队的潜在未来障碍。其目标是确保团队协调工作并清除障碍，以优化所有团队的效率</li>
+<li>具有多个团队的大型团队可能要求执行Scrum of Scrum ofScrums，其遵循的模式与SoS 相同，每个SoS 代表向更大组织的代表报告</li>
+</ul>
+<h4 id="2-4-7-时间盒（Time-Box）"><a href="#2-4-7-时间盒（Time-Box）" class="headerlink" title="2.4.7 时间盒（Time Box）"></a>2.4.7 <strong>时间盒（Time Box）</strong></h4><p>​	 <strong>时间盒的价值：</strong></p>
+<ul>
+<li>帕金森定律的一剂良药</li>
+<li>人们往往记住失误的日期，而不是失误的特征</li>
+<li>尽早促成难度大的决策和权衡</li>
+<li>更好的控制</li>
+<li>防止镀金，因为时间盒很短，没有时间镀金<br><strong>运作规则：</strong></li>
+<li>在每个时间盒过程中，不要增加人员。Brook定律：在一个滞后的项目中加人只<br>能使其滞后</li>
+<li>时间盒不用来做绩效考核</li>
+<li>时间盒内不许有变更</li>
+<li>每日同步</li>
+</ul>
+<h4 id="2-4-8-敏捷的其他常见模式"><a href="#2-4-8-敏捷的其他常见模式" class="headerlink" title="2.4.8 敏捷的其他常见模式"></a>2.4.8 <strong>敏捷的其他常见模式</strong></h4><ul>
+<li><strong>追逐太阳模式</strong> ：追逐太阳的开发过程是一种每天结束时将工作移交给下一个工作地点（可能相差很多时区）的方法，旨在为加快产品的开发</li>
+<li><strong>鱼缸窗口模式</strong> ：各个地点之间建立长期视频会议链接，创建一个鱼缸窗口。每天工作开始时，打开链接，工作结束时，关闭链接</li>
+<li><strong>远程结对模式</strong> ：结对编程是一种由两名团队成员结对、同时从事同一工作项目的技术。而远程结对是通过使用虚拟会议工具来共享屏幕，包括语音和视频链接，建立远程对接</li>
+</ul>
+<h3 id="2-5、敏捷相关的基本知识"><a href="#2-5、敏捷相关的基本知识" class="headerlink" title="2.5、敏捷相关的基本知识"></a>2.5、<strong>敏捷相关的基本知识</strong></h3><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_12.43.50.png,alt=不同生命周期的比较"/></div></div>
+
+<h4 id="2-5-1-混合型生命周期存在的意义和价值"><a href="#2-5-1-混合型生命周期存在的意义和价值" class="headerlink" title="2.5.1 混合型生命周期存在的意义和价值"></a>2.5.1 <strong>混合型生命周期存在的意义和价值</strong></h4><ul>
+<li>项目管理的目标是在当前环境下尽可能以最好的方式创造商业价值。</li>
+<li>项目采用何种生命周期的元问题：“我们怎样做才能最成功地交付价值？”</li>
+<li>混合型生命周期解决价值交付过程中 <strong>组织不能完全敏捷的场景</strong> 、 <strong>敏捷过渡期的场景</strong> 、 <strong>加速预测生命周期交付速度的场景</strong> 以及 <strong>改变团队成员思维模式的场景</strong> 。目的是为了增加价值交付的效率和效果</li>
+<li>当团队创造价值时，是否需要快速阶段性反馈？如果需要，增量方法将会有所帮助。在探讨各种想法时，是否需要随时管理风险？如果需要，迭代方法或敏捷方法将会有所帮助</li>
+<li>当组织无法交付中间价值时，完全的敏捷方法可能不是很有用。可能会选择部分使用敏捷，部分使用预测型生命周期的方式来做项目</li>
+</ul>
+<h4 id="2-5-2-混合型生命周期的不同类型"><a href="#2-5-2-混合型生命周期的不同类型" class="headerlink" title="2.5.2 混合型生命周期的不同类型"></a>2.5.2 <strong>混合型生命周期的不同类型</strong></h4><ul>
+<li><strong>敏捷的工具和预测的计划模式在整个生命周期同步存在</strong> 。比如：同一项目中结合使用了预测计划法和敏捷工具及思想。如短迭代、每日站会和回顾会等。虽然它显然没有充分体现敏捷思维模式、价值观和原则。不过，这是一种典型的混合方法</li>
+<li><strong>以预测法为主、敏捷方法为辅的方法</strong> 。举个例子，某工程公司正在使用一个新的组件建造一个设施。虽然大部分项目可能是常规的、可预测的，就像组织实施的许多其它的设施项目一样，但这个项目包含了一种新的屋顶材料。承包商可能计划首先在地面上进行一些小规模的安装迭代试验，以确定最佳的安装方法，并在有足够时间解决问题时尽早发现问题</li>
+<li><strong>以敏捷方法为主、预测法为辅的方法</strong> 。当某个特定要素不可协商，或者使用敏捷方法不可执行时，可能会使用这种方法。这种情况的例子包括，集成由不同供应商开发的外部组件，这些外部组件不能或不会以协作或增量方式合作。在组件交付之后，需要单独集成</li>
+</ul>
+<h4 id="2-5-3-混合型生命周期的答题思路"><a href="#2-5-3-混合型生命周期的答题思路" class="headerlink" title="2.5.3 混合型生命周期的答题思路"></a>2.5.3 <strong>混合型生命周期的答题思路</strong></h4><ul>
+<li>混合型生命周期的考察重点是敏捷的灵魂（敏捷宣言和原则），偶尔<br>会直接考察敏捷的具体工具（如看板、燃尽图等）</li>
+<li>混合型生命周期的题目会对项目经理&#x2F;SM的角色定位考察比较深入，<br>全面了解考生是否对VUCA环境下项目经理的角色定位有深刻的洞见<br>和理解</li>
+<li>混合型生命周期对沟通和协同的考察比较多，项目经理&#x2F;SM需要有充<br>分的仆人式领导力来为团队扫清障碍，并学会选择优秀的试点推广敏<br>捷思想，并且通过结果证明敏捷方法的好处与优势</li>
+<li>混合型生命周期的部分题目还会关注项目的质量问题，需要对DoD、<br>AC、DoR有清楚的理解和认知</li>
+<li>混合型生命周期是稳定和灵活的一种平衡，需要注意通过治理团队的<br>决策作用、产品目标和冲刺&#x2F;迭代目标的清晰共识、PMO的多项目协<br>同让项目更稳定</li>
+</ul>
+<h4 id="2-5-4-敏捷转型成功的策略与方法"><a href="#2-5-4-敏捷转型成功的策略与方法" class="headerlink" title="2.5.4 敏捷转型成功的策略与方法"></a>2.5.4 <strong>敏捷转型成功的策略与方法</strong></h4><ul>
+<li><strong>要点一</strong> ：渐进的过渡涉及到要增加更多的迭代技术，以便改进学习，加强团队和干系人的一致性</li>
+<li><strong>要点二</strong> ：考虑增加更多的增量技术，以加快对发起人的价值和投资回报</li>
+<li><strong>要点三</strong> ：可以先在一个<strong>风险不大、具有中低程度不确定性</strong>的项目中尝试这些新技术</li>
+<li><strong>要点四</strong> ：通过组织成功地使用混合方法后，再尝试更复杂的敏捷项目，这些项目需要增加更多的敏捷技术。这是一种根据组织的情况、特定的风险，以及团队适应并接受变革的就绪情况而调整的渐进混合的良好过渡</li>
+</ul>
+]]></content>
+      <categories>
+        <category>PMP</category>
+      </categories>
   </entry>
   <entry>
     <title>PMP学习第三课-项目管理原则</title>
@@ -849,441 +1286,22 @@
       </tags>
   </entry>
   <entry>
-    <title>PMP学习第二课-价值交付系统</title>
-    <url>/2025/02/11/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<div class="video-container">[]</div>
-<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+    <title>Hello World</title>
+    <url>/2025/02/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<h1 id="价值交付系统"><a href="#价值交付系统" class="headerlink" title="价值交付系统"></a>价值交付系统</h1><h2 id="1-项目-项目集-项目组合以及运营管理之间的关系"><a href="#1-项目-项目集-项目组合以及运营管理之间的关系" class="headerlink" title="1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系"></a>1. 项目&#x2F;项目集&#x2F;项目组合以及运营管理之间的关系</h2><p>进度落后原因？-&gt;倒排进度自由不够，大家都忙</p>
-<p>具体忙什么，分钟资源的人知道吗？-&gt; 不知道，不透明，谁催听谁的</p>
-<p>项目没有优先级吗？-&gt;没有明确的说明</p>
-<p>大家知道为啥忙着写项目吗? -&gt;不知道，领导让做就做，反正我们觉得做着写项目没啥意义</p>
-<p>公司要有战略：</p>
-<p>项目组合管理-&gt;关注价值实现</p>
-<ul>
-<li>做正确的“事”</li>
-<li>自由优先级分配</li>
-</ul>
-<p>项目集管理-&gt;关注收益实现</p>
-<ul>
-<li>关联项目管理</li>
-</ul>
-<p>项目管理-&gt;关注可交付物 ，<strong>变化</strong> 还需要<strong>关注收益</strong></p>
-<ul>
-<li>单个项目管理</li>
-</ul>
-<p>组织项目管理-&gt;组织驱动因素（组织驱动因素主要包括<strong>组织结构、组织文化、组织技术、人力资源实践</strong>。组织驱动因素是组织进行组织级项目管理的重要保证，如果缺失这几个维度的设计，组织级项目管理将会失败，项目组合管理、项目集管理、项目管理也将会失败。）</p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_20.58.14.png"><br><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.04.29.png"></p>
-<h2 id="2-组织级项目管理和战略"><a href="#2-组织级项目管理和战略" class="headerlink" title="2.组织级项目管理和战略"></a>2.组织级项目管理和战略</h2><p>​	组织级项目管理（<strong>OPM</strong>）事一个<strong>战略执行框架</strong>，利用<strong>项目组合</strong>、<strong>项目集</strong>和<strong>项目管理</strong>以及组<strong>织驱动因素</strong>的最佳实现，持续地、可预测地<strong>交付组织战略</strong>，以及产生更好的绩效、更好的结果和<strong>持续的竞争优势</strong>。</p>
-<ul>
-<li>打通壁垒</li>
-<li>交付战略</li>
-<li>实现价值</li>
-</ul>
-<ol>
-<li>项目、项目集和项目组合管理都要为组织战略服务</li>
-<li>战略目标-&gt;组织级项目管理-&gt;项目组合-&gt;项目集-&gt;项目</li>
-<li><strong>OPM</strong>（<strong>组织级项目管理</strong>）&#x3D;项目、项目集和项目组合管理的原则和实践+<strong>组织驱动因素</strong>（如<strong>组织结构</strong>、<strong>组织文化</strong>、<strong>组织技术</strong>、<strong>人类资源实践</strong>），提升组织能力，支持战略目标</li>
-<li>战略与战术</li>
-</ol>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.18.49.png"></p>
-<h2 id="3-组件和成果的概念"><a href="#3-组件和成果的概念" class="headerlink" title="3.组件和成果的概念"></a>3.组件和成果的概念</h2><ol>
-<li>价值交付系统中的组件（component）创建了用于产出的成果和收益的课交付物</li>
-<li>收益继而课创造价值，而价值是具有作用、重要性或实用性的事务</li>
-<li>不同干系人对于价值的理解可能具有一定的主观性</li>
-<li>考生需要理解可交付物到收益、收益再到价值的逻辑顺序和关系</li>
-</ol>
-<h2 id="4-项目集（Program）管理"><a href="#4-项目集（Program）管理" class="headerlink" title="4.项目集（Program）管理"></a>4.项目集（Program）管理</h2><ol>
-<li>一组相互关联且被协调管理的项目</li>
-<li>为了获得对单个项目分别管理所无法实现的收益（benefit）和控制（节省时间、成本等）</li>
-<li>如果项目间的联系仅限于 共享顾主、供应商、技术或资源，这些项目就应作为一个顶目组合而非项目重来管理</li>
-<li>项目集管理重点关注项目间的依赖关系</li>
-<li>建立一个新的通信卫星系统就是项目集的一个实例，其所辖项目包括卫星与地面站的设计和建造、卫星发射以及系统整合</li>
-<li>项目集不是大项目。规模特别大的项目称为 “大型项目”</li>
-<li>一般定义，大型项目通常需要 10亿美元或以上的成本，可影响几百万人，并目将持续数年</li>
-</ol>
-<h2 id="5-项目组合（Portfolio）管理"><a href="#5-项目组合（Portfolio）管理" class="headerlink" title="5.项目组合（Portfolio）管理"></a>5.项目组合（Portfolio）管理</h2><ul>
-<li>项目组合：为便于有效管理、<strong>实现战略业务目标</strong>而组合在一起的项目、项目集、子项目组合和运营工作。</li>
-<li>项目组合管理：包括<strong>识别</strong>、<strong>排序</strong>、<strong>授权</strong>、管理和控制项目、项目集和其他有关工作</li>
-<li>重点关注：确定<strong>资源分配</strong>的优先顺序，确保与组织<strong>战略协调一致</strong></li>
-<li>项日组合的业务范围随组织战略目标的变化而变化</li>
-<li>做正确的事</li>
-</ul>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.19.16.png"></p>
-<h2 id="6-价值交付的相关生态环节"><a href="#6-价值交付的相关生态环节" class="headerlink" title="6. 价值交付的相关生态环节"></a>6. 价值交付的相关生态环节</h2><ul>
-<li>组织进行价值交付的时候，会有相关生态环节影响价值交付的效果和效率</li>
-<li>具体生态环节体现在三个方面：<br>丷<strong>治理架构</strong><br>￥<strong>组织结构</strong><br>丫 <strong>内外部环境</strong></li>
-</ul>
-<h2 id="7-组织治理框架"><a href="#7-组织治理框架" class="headerlink" title="7.组织治理框架"></a>7.组织治理框架</h2><ul>
-<li>治理指<strong>组织各个层面的有组织的或有结构的安排</strong>，旨在确定和影响组织成员的行为</li>
-<li>治理是在组织内通过<strong>制定规则</strong>、<strong>政策</strong>、<strong>程序</strong>等方式行使职权的框架</li>
-<li>这个框架会影响：<ol>
-<li>组织目标的设定和实现方式</li>
-<li>风险监控和评估方式</li>
-<li>绩效优化方式</li>
-</ol>
-</li>
-<li>项目组合、项目集和项目管理的常见治理框架，涉及四个治理领域：<strong>一致性</strong>、<strong>风险</strong>、<strong>绩效和沟通</strong></li>
-<li>各个领域都具备以下职能部门：<strong>监督</strong>、<strong>控制</strong>、<strong>整合与决策</strong></li>
-</ul>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-11_21.45.18.png"></p>
-<h2 id="8-项目组织结构"><a href="#8-项目组织结构" class="headerlink" title="8.项目组织结构"></a>8.项目组织结构</h2><h3 id="职能型"><a href="#职能型" class="headerlink" title="职能型"></a>职能型</h3><p>沟通效率低，专业性高。</p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.11.00.png"></p>
-<h3 id="项目型"><a href="#项目型" class="headerlink" title="项目型"></a>项目型</h3><p>沟通会产生项目壁垒，没有归属感，沟通效率高。</p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.14.02.png"></p>
-<h3 id="距阵型"><a href="#距阵型" class="headerlink" title="距阵型"></a>距阵型</h3><ul>
-<li><p>弱矩阵型</p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.16.29.png"></p>
-</li>
-<li><p>平衡矩阵型</p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.17.26.png"></p>
-</li>
-<li><p>强矩阵型</p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.18.18.png"></p>
-</li>
-</ul>
-<h3 id="组织结构选择的考虑因素"><a href="#组织结构选择的考虑因素" class="headerlink" title="组织结构选择的考虑因素"></a>组织结构选择的考虑因素</h3><p>选择组织结构时应考虑的因素包括（ 但不限于）：<br>•与组织目标的一致性<br>•专业能力<br>•控制、效率与效果的程度<br>•明确的決策升级渠道<br>•明确的职权线和范围<br>•授权方面的能力<br>•终责分配<br>•职责分配<br>•实施效率<br>•成本考虑<br>•物理位置（例如集中办公、区域办公和虚拟远程办公）<br>•清晰的沟通（例如政策、 工作状态和组织愿景）</p>
-<h3 id="项目管理办公室-PMO"><a href="#项目管理办公室-PMO" class="headerlink" title="项目管理办公室(PMO)"></a>项目管理办公室(PMO)</h3><p>对项目治理过程标准化，促进技术共享的组织部口<br>PMQ 在项目组合、项目集、项且与公司考评体系（如平衡计分卡）之间建立联系<br>所支持或管理的项目<strong>不一定彼此关联</strong><br>在项目<strong>各生命周期内</strong>，PMO可能有权起到核心干系人和关键决策者的作用<br>PMO的一个主要职能是通过各种方式对项目经理<strong>提供支持</strong></p>
-<ul>
-<li><strong>管理共享资源</strong></li>
-<li>识别和开发项目管理方法、最佳实践和标准</li>
-<li>指导  辅导  培训和监督</li>
-<li>通过项目申计，监督对项目管理标准、政策、程序和模板的遵守程度</li>
-<li>制定项目政策、程应 模板和其他共享文件（组织过程资产）</li>
-<li>协调项目之间的沟通</li>
-</ul>
-<h4 id="PMO的六大职能"><a href="#PMO的六大职能" class="headerlink" title="PMO的六大职能"></a>PMO的六大职能</h4><ul>
-<li>人员培养</li>
-<li>流程制度</li>
-<li>咨询辅导</li>
-<li>管理工貝</li>
-<li>过程监控</li>
-<li>绩效考核</li>
-</ul>
-<h4 id="PMO的三种类型："><a href="#PMO的三种类型：" class="headerlink" title="PMO的三种类型："></a>PMO的三种类型：</h4><ul>
-<li><strong>支持型</strong> 项目资源库，对项目控制程度低，无权要求</li>
-<li><strong>控制型</strong>  对项目有一定控制权力，如提供必需使用的模板</li>
-<li><strong>指令型</strong> PMO直接管控项且，PMO拥有很高的权力</li>
-</ul>
-<h3 id="内外部环境"><a href="#内外部环境" class="headerlink" title="内外部环境"></a>内外部环境</h3><ul>
-<li>项目所处的环境可能对项目的开展产生有利或不利的影响</li>
-<li>影响来源：<strong>事业环境因素</strong>(EEF) 和<strong>组织过程资产</strong> (OPA)</li>
-<li>事业环境因素通常源于企业的外部环境（也可包含内部环境因素，组织过程资产源于企业内部）</li>
-<li>除了上述两类，组织系统对项目生命周期也起着重要的作用</li>
-</ul>
-<h4 id="事业环境因素"><a href="#事业环境因素" class="headerlink" title="事业环境因素"></a>事业环境因素</h4><ul>
-<li>事业环境因素（EEF） 是指项目团队不能控制的，将对项目产生影响、限制或指令作用的各种条件</li>
-<li>可能提高或限制项目管理的灵活性，并可能对项目结果产生<strong>积极或消极影响</strong></li>
-<li>分为组织内部的和组织外部的</li>
-<li>内部包括组织文化和结构、<strong>基础设施</strong>、<strong>资源可用性</strong>、员工能力等</li>
-<li>外部包括<u>市场条任、 法律限告 商业数据库、政府或行业标准、物理环境要素</u>等</li>
-</ul>
-<p class='p center logo large'>事业环境因素指的是团队不能直接控制的，将对项目、项目集或项目组合产生影响、限制或指导作用的各种条件。</p>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<h4 id="组织过程资产"><a href="#组织过程资产" class="headerlink" title="组织过程资产"></a>组织过程资产</h4><ul>
-<li>执行组织所特有并使用的计划、过程、政策、程序和知识库，会影响对具体项目的管理</li>
-<li><mark class="hl-label default">帮助项目成功</mark> </li>
-<li>项目团队有责任在项目全过程中对组织过程资产进行必要的更新和补充</li>
-<li>包括：<ol>
-<li><strong>过程、政策和程序</strong>：由项目管理办公室(PMO) 或项目以外的其他职能部门完成，可以通过<strong>项目管理信息系统</strong>呈现</li>
-<li><strong>组织知识库</strong>：在整个项目期间结合项目信息而更新的</li>
-</ol>
-</li>
-</ul>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.30.05.png"></p>
-<h2 id="9-产品与项目的关系"><a href="#9-产品与项目的关系" class="headerlink" title="9.产品与项目的关系"></a>9.产品与项目的关系</h2><p>产品生命周期均会产生项目</p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.42.59.png"></p>
-<h3 id="9-1-产品生命周期与项目生命周期关系"><a href="#9-1-产品生命周期与项目生命周期关系" class="headerlink" title="9.1 产品生命周期与项目生命周期关系"></a>9.1 产品生命周期与项目生命周期关系</h3><ul>
-<li>项目生命周期与产品生命周期相互独立</li>
-<li>产品生命周期指一个产品从<strong>概念</strong>、<strong>交付</strong>、成长、成熟到衰退的整个演变过程的一系列阶段</li>
-</ul>
-<h3 id="9-2-项目和开发生命周期"><a href="#9-2-项目和开发生命周期" class="headerlink" title="9.2 项目和开发生命周期"></a>9.2 项目和开发生命周期</h3><ul>
-<li>项目生命周期指项目从开始到完成所经历的一系列阶段</li>
-<li>项目生命周期能为管理项目提供基本框架</li>
-<li>项日生命周期的基本结构：开始项目：组织与准备：执行项目工作；结束项目</li>
-<li>这些阶段之间的关系可以<strong>顺序</strong>、<strong>迭代或交叠进行</strong></li>
-<li>项日生命周期内通常有一个或多个险段与产品、服务或成果的开发相关，这些阶段称为<strong>开发生命周期</strong></li>
-<li>开发生命周期可以是<strong>预测型</strong>、<strong>迭代型</strong>、 <strong>增量型</strong>、<strong>敏捷型</strong>或<strong>混合型</strong>的模式</li>
-</ul>
-<h3 id="9-3-项目生命周期中成本和人力投入水平"><a href="#9-3-项目生命周期中成本和人力投入水平" class="headerlink" title="9.3 项目生命周期中成本和人力投入水平"></a>9.3 项目生命周期中成本和人力投入水平</h3><p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.49.31.png"></p>
-<h3 id="9-4-项目生命周期的特点-项目干系人影响"><a href="#9-4-项目生命周期的特点-项目干系人影响" class="headerlink" title="9.4 项目生命周期的特点-项目干系人影响"></a>9.4 项目生命周期的特点-项目干系人影响</h3><p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.50.52.png"></p>
-<p><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.52.59.png"><br><img src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.53.31.png"></p>
-<h3 id="9-5-开发生命周期"><a href="#9-5-开发生命周期" class="headerlink" title="9.5 开发生命周期"></a>9.5 开发生命周期</h3><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_21.55.00.png" alt="开发生命周期示例。"/></div><span class="image-caption">开发生命周期示例。</span></div>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
-
-
-<h4 id="预测型"><a href="#预测型" class="headerlink" title="预测型"></a>预测型</h4><ul>
-<li>完全计划驱动型生命周期</li>
-<li><u>在生命周期的早期阶段确定项目范围、 时间和成本</u>，然后制定产品交付计划，接着通过各阶段来执行计划</li>
-<li>确定计划-＞按计划执行</li>
-<li><u>适用于：充分了解拟交付的产品，有厚实的行业实践基础，整批一次性交付产品有利于干系人</u></li>
-<li><u>预测型生命周期也称为瀑布型生命周期</u></li>
-<li>猴子与大象的故事</li>
-</ul>
-<h4 id="迭代型和增量型"><a href="#迭代型和增量型" class="headerlink" title="迭代型和增量型"></a>迭代型和增量型</h4><ul>
-<li><mark class="hl-label default">迭代</mark> ：通过一系列<mark class="hl-label default">重复</mark> 的循环活动来开发产品</li>
-<li><mark class="hl-label default">增量</mark> ：<mark class="hl-label default">渐进</mark> 的增加产品的功能</li>
-<li>适用于：组织雷要管理<mark class="hl-label default">不断变化</mark> 的目标和范围组织需要隆低项目的复杂性，产品可以部分交付</li>
-</ul>
-<h4 id="敏捷型"><a href="#敏捷型" class="headerlink" title="敏捷型"></a>敏捷型</h4><ul>
-<li>迭代和增量的进一步应用</li>
-<li>迭代快(2-4周迭代一次)，所需<mark class="hl-label default">时间</mark> 和<mark class="hl-label default">资源</mark> 固定</li>
-<li>适用情況：应对<mark class="hl-label default">快速变化</mark> 的<mark class="hl-label default">环境</mark> ，需求或范围难以实现确定，以有利于王系人的方式定义较小的增量改进</li>
-<li>迭代型、 增量型、敏捷型 、混合型都可以看成是<mark class="hl-label default">适应型</mark> 的一种方法</li>
-</ul>
-<p class='p center logo large'>敏捷开发-对付纠结最好的办法就是做让你纠结的事情！！！</p>
-
-<h4 id="不同开发生命周期比较"><a href="#不同开发生命周期比较" class="headerlink" title="不同开发生命周期比较"></a>不同开发生命周期比较</h4><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-12_22.12.06.png" alt="不同开发生命周期比较"/></div><span class="image-caption">不同开发生命周期比较</span></div>
-
-
-
-
-<h4 id="敏捷相关背景与注意事项"><a href="#敏捷相关背景与注意事项" class="headerlink" title="敏捷相关背景与注意事项"></a>敏捷相关背景与注意事项</h4><ul>
-<li>2001年初，因观察到许多的软件团队身陷不断扩大的流程之中的困境，一群业界专家聚集在一起(Snowbird,Utah），勾勒出一些能让软件國队迅速工作，以及响应变化的<strong>价值观</strong>和<strong>原则</strong>。他们自称为Agile Alliance</li>
-<li>之后的七个月里，他们创造具有价值的<strong>声明</strong>，也就是敏捷<strong>宣言</strong>。成为敏捷精神的内核和灵魂</li>
-<li>经过实践者不断地总结和梳理，将敏捷的框架、工具、方法等应用到项目管理中，形成了敏捷项目管理的整体思路</li>
-<li>考试通常在混合型生命周期中考察敏捷的 “道” ，在纯敏捷题目中考察敏捷的“术〞，但知识点不会特别深</li>
-</ul>
-<h3 id="敏捷宣言"><a href="#敏捷宣言" class="headerlink" title="敏捷宣言"></a>敏捷宣言</h3><p>我们一直在实践中探寻更好的软件开发方法，身体力行同时也帮助他人。由此我们建立了如下价值观</p>
-<ul>
-<li>个体和互动 高于 流程和工具</li>
-<li>工作的软件 高子 详尽的文档</li>
-<li>客户合作 高于 合同谈判</li>
-<li>响应变化 高于 遵循计划</li>
-</ul>
-<p>也就是说，尽管右项有其价值，我们更重视左项的价值。</p>
-<h3 id="敏捷的原则"><a href="#敏捷的原则" class="headerlink" title="敏捷的原则"></a>敏捷的原则</h3><ol>
-<li>我们最优先要做的是通过尽早的、持续的交付有价值的软件来使客户满意</li>
-<li>即使到了开发的后期，也欢迎改变需求</li>
-<li>经常性地交付可以工作的软件，交付的间隔可以从几周到几个月，<span class='p red'>交付的时间间隔越短越好</span></li>
-<li>在整个项目开发期间，业务人员和开发人员必须天天都在一起工作</li>
-<li>围绕被激励起来的个人来构建项目</li>
-<li>在团队内部，最具有效果并且富有效率的传递信息的方法，就是面对面的交谈</li>
-<li>工作的软件是首要的进度度量标准</li>
-<li>敏捷过程提信平稳的开发节奏；发起人、开发者和用户应该能够保持长期的、恒定的开发速度</li>
-<li>不断地关注优秀的技能和好的设计会增强敏捷能力</li>
-<li>简单化是根本（不做过度设计和预测〕</li>
-<li>最好的构架、需求和设计出自于自组织的团队</li>
-<li>每隔一定时间，团队会在如何才能更有效地工作方面进行反思并对自己的行为进行相应调整</li>
-</ol>
-<p class='p center logo large'>事：</p>
-
-
-<p class='p red'>持续交付，小步快跑</p>
-<p class='p yellow'>拥抱变化，提高优势</p>
-<p class='p green'>尽早反馈，价值排序</p>
-<p class='p red'>成果达成，衡量进度</p>
-<p class='p yellow'>持续更新，强化敏捷</p>
-<p class='p green'>精简产品，杜绝浪费</p>
-
-
-<p class='p center logo large'>人：</p>
-
-
-<p class='p red'>团队合作，每日互动</p>
-<p class='p yellow'>信任成员，给子支援</p>
-<p class='p green'>当面沟通，高效明了</p>
-<p class='p red'>各方成员，稳定节奏</p>
-<p class='p yellow'>同心协力，自我组织</p>
-<p class='p green'>团队自省，持续改进</p>
-
-
-<p class='p center logo large'>敏捷的灵魂是思维模式的转变，而不是工具方法的堆砌</p>
-
-
-
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <categories>
-        <category>PMP</category>
-      </categories>
-      <tags>
-        <tag>PMP</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PMP学习第六课-开发方法和生命周期绩效域</title>
-    <url>/2025/02/23/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E5%85%AD%E8%AF%BE-%E5%BC%80%E5%8F%91%E6%96%B9%E6%B3%95%E5%92%8C%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E7%BB%A9%E6%95%88%E5%9F%9F/</url>
-    <content><![CDATA[<div class="video-container">[]</div>
-<style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<h1 id="开发方法和生命周期绩效域"><a href="#开发方法和生命周期绩效域" class="headerlink" title="开发方法和生命周期绩效域"></a>开发方法和生命周期绩效域</h1><h2 id="1、开发方法和生命周期绩效域概览"><a href="#1、开发方法和生命周期绩效域概览" class="headerlink" title="1、开发方法和生命周期绩效域概览"></a><strong>1、开发方法和生命周期绩效域概览</strong></h2><p><strong>开发方法和生命周期绩效域的相关核心概念</strong></p>
-<ul>
-<li><strong>开发方法</strong> ：在项目生命周期内用于创建并改进产品、服务或结果的方法，例如预测型、迭代型、增量型、敏捷型或混合型方法</li>
-<li><strong>节奏</strong> ：在整个项目期间所开展活动的节律</li>
-<li><strong>项目阶段</strong> ：一组具有逻辑关系的项目活动的集合，通常以一个或多个可交付物的完成为结束</li>
-<li><strong>项目生命周期</strong> ：项目从开始到结束所经历的一系列阶段</li>
-</ul>
-<h3 id="1-1不同生命周期的比较"><a href="#1-1不同生命周期的比较" class="headerlink" title="1.1不同生命周期的比较"></a><strong>1.1不同生命周期的比较</strong></h3><ul>
-<li><strong>预测型生命周期</strong> 。这是一种更为传统的方法，提前进行大量的计划工作，然后一次性执行；执行是一个连续的过程</li>
-<li><strong>采用迭代型方法的生命周期</strong> 。这种方法允许对未完成的工作进行反馈，从而改进和修改该工作</li>
-<li><strong>采用增量型方法的生命周期</strong> 。这种方法向客户提供各个已完成的，可能立即使用的可交付物</li>
-<li><strong>采用敏捷型方法的生命周期</strong> 。这种方法既有迭代，也有增量，便于完善工作，频繁交付价值</li>
-</ul>
-<div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_11.59.35.png,alt=预测型"/></div></div>
-
-<div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_11.59.49.png,alt=增量型"/></div></div>
-
-
-
-<h2 id="2、敏捷相关的基本知识"><a href="#2、敏捷相关的基本知识" class="headerlink" title="2、敏捷相关的基本知识"></a>2、敏捷相关的基本知识</h2><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_12.02.13.png,alt=敏捷"/></div></div>
-
-<h3 id="2-1、敏捷宣言回顾"><a href="#2-1、敏捷宣言回顾" class="headerlink" title="2.1、敏捷宣言回顾"></a>2.1、<strong>敏捷宣言回顾</strong></h3><p>我们一直在实践中探寻更好的软件开发方法，身体力行的同时也帮助他人。由此我们建立了如下价值观：<br>个体和互动 高于 流程和工具<br>工作的软件 高于 详尽的文档<br>客户合作 高于 合同谈判<br>响应变化 高于 遵循计划</p>
-<p>也就是说，尽管右项有其价值，我们更重视左项的价值</p>
-<h3 id="2-2、敏捷原则回顾"><a href="#2-2、敏捷原则回顾" class="headerlink" title="2.2、敏捷原则回顾"></a>2.2、<strong>敏捷原则回顾</strong></h3><ol>
-<li>我们最优先要做的是通过 <strong>尽早的、持续的交付有价值的软件</strong> 来使客户满意</li>
-<li>即使到了开发的后期，也 <strong>欢迎改变需求</strong></li>
-<li>经常性地交付可以工作的软件，交付的间隔可以从几周到几个月，交付的<strong>时间间隔越短越好</strong></li>
-<li>在整个项目开发期间， <strong>业务人员和开发人员必须天天都在一起工作</strong></li>
-<li>围绕 <strong>被激励起来的个人</strong> 来构建项目</li>
-<li>在团队内部，最具有效果并且富有效率的传递信息的方法，就是 <strong>面对面的交谈</strong></li>
-<li>工作的软件<strong>是首要的进度度量标准</strong></li>
-<li>敏捷过程提倡平稳的开发节奏；发起人、开发者和用户应该能够保持一个<br><strong>长期的、恒定的开发速度</strong></li>
-<li>不断地关注优秀的技能和好的设计<strong>会增强敏捷能力</strong></li>
-<li>简单化<strong>是根本（不做过度设计和预测）</strong> </li>
-<li>最好的构架、需求和设计出自于 <strong>自组织的团队</strong></li>
-<li>每隔一定时间，团队会在如何才能更有效地工作方面 <strong>进行反思</strong> 并对自己的行为进行相应调整</li>
-</ol>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">持续交付，小步快跑</span><br><span class="line">拥抱变化，提高优势</span><br><span class="line">尽早反馈，价值排序</span><br><span class="line">成果达成，衡量进度</span><br><span class="line">持续更新，强化敏捷</span><br><span class="line">精简产品，杜绝浪费</span><br><span class="line">团队合作，每日互动</span><br><span class="line">信任成员，给予支援</span><br><span class="line">当面沟通，高效明了</span><br><span class="line">各方成员，稳定节奏</span><br><span class="line">同心协力，自我组织</span><br><span class="line">团队自省，持续改进</span><br></pre></td></tr></table></figure>
-
-<p><strong>敏捷的灵魂是思维模式的转变，而不是工具方法的堆砌</strong></p>
-<h3 id="2-3、敏捷的角色"><a href="#2-3、敏捷的角色" class="headerlink" title="2.3、敏捷的角色"></a>2.3、<strong>敏捷的角色</strong></h3><ul>
-<li>敏捷团队中有三种常见的角色：<br>✓跨职能团队成员（team）<br>✓产品负责人（PO）<br>✓团队促进者（team Facilitator，在不同的模型中可被成为Scrum Master，Team Leader，Project Manager等）</li>
-<li>其他的辅助性角色：<br>✓治理团队<br>✓PMO</li>
-</ul>
-<h4 id="2-3-1跨职能团队成员（team）"><a href="#2-3-1跨职能团队成员（team）" class="headerlink" title="2.3.1跨职能团队成员（team）"></a>2.3.1<strong>跨职能团队成员（team）</strong></h4><ul>
-<li>一般情况人数在 3 - 9 个左右</li>
-<li>团队成员跨职能（包括开发人员、测试人员、用户界面设计师等），鼓励成为T型人才，最好是 <strong>全栈式工程师</strong></li>
-<li>敏捷团队成员需要全职，不能随意发生变化（至少迭代内），否则影响团队速度</li>
-<li>在团队章程内有权力做任何工作形式的决策来确保达到迭代&#x2F;冲刺的目标</li>
-<li>高度的自组织能力（重点强调尊重、承诺和责任，而不是肆无忌惮的自由散漫）</li>
-<li>需要向Product Owner演示产品功能</li>
-<li>团队需要定义DoD（针对所有任务的）</li>
-</ul>
-<h4 id="2-3-2DoD-AC-DoR的区别和联系"><a href="#2-3-2DoD-AC-DoR的区别和联系" class="headerlink" title="2.3.2DoD&#x2F;AC&#x2F;DoR的区别和联系"></a>2.3.2<strong>DoD&#x2F;AC&#x2F;DoR的区别和联系</strong></h4><ul>
-<li>在敏捷项目管理中，常用Definition of Done“完成的定义”来表示工作是否已完成，不同的活动有不同的完成定义（迭代DoD、发布DoD、每日DoD、用户故事DoD等）</li>
-<li>用户故事的DoD实例：<br>✓用户故事最终的描述符合INVEST<br>✓用户故事得到测试用例的对应覆盖</li>
-<li>DoD是针对于所有需求，任务，迭代，交付定义的（整体性），而验收标准AC（Accept criteria）是针对每个需求定义的（局部性）</li>
-<li>DoR（Definition Of Ready）是某一个阶段正常开启的先决条件。而DoD则是某阶段产物完成的标准和原则</li>
-</ul>
-<h4 id="2-3-3产品负责人（Product-Owner）"><a href="#2-3-3产品负责人（Product-Owner）" class="headerlink" title="2.3.3产品负责人（Product Owner）"></a>2.3.3<strong>产品负责人（Product Owner）</strong></h4><ul>
-<li>产品负责人（Product Owner）的职责如下：<br>✓确定产品的功能<br>✓决定发布的日期和发布内容<br>✓根据市场价值等因素确定需求（用户故事）的优先级<br>✓为产品的profitability of the product (ROI)负责<br>✓每个冲刺&#x2F;迭代（Sprint）前，根据需要调整功能和优先级<br>✓接受或拒绝接受开发团队的工作成果<br>✓作为客户代言人，接收不同的需求和反馈，并不断梳理待办<br>项清单，但不能在迭代中影响团队现有的工作</li>
-</ul>
-<h4 id="2-3-4-团队促进者（Team-Facilitator-）"><a href="#2-3-4-团队促进者（Team-Facilitator-）" class="headerlink" title="2.3.4 团队促进者（Team Facilitator ）"></a>2.3.4 <strong>团队促进者（Team</strong> Facilitator <strong>）</strong></h4><ul>
-<li>此角色在不同的敏捷模型中可能被称为项目经理、Scrum Master、Team Facilitator等</li>
-<li>促动者倡<strong>导仆人式领导</strong>（servant leadership）</li>
-<li>促动者更像是守望者，不是做决策，而是提供支持。对流程负责，对内容不负责</li>
-<li>和Product owner及团队紧密地工作在一起，他可以及时地为团队成员<strong>提供帮助</strong></li>
-<li>确保团队资源完全可被利用并且全部是高产出的，否则应提供相应的培训和指导</li>
-<li>保证各个角色及职责的良好协作，让大家了解敏捷的真正作用与相关要求</li>
-<li>解决团队开发中的障碍（<strong>沟通障碍、流程障碍</strong>等）</li>
-<li>做为团队和外部的接口，处理外界对团队成员的干扰（信息发射源、看板解决信息<br>不对称的问题；新的需求转移给PO解决新需求影响团队的问题）</li>
-<li>保证开发过程按计划进行，<strong>组织各种会议</strong>（如Scrum中的：站立会（Daily Scrum）,冲刺回顾会、迭代规划会等）</li>
-</ul>
-<h4 id="2-3-5仆人式（服务型）领导为团队赋权"><a href="#2-3-5仆人式（服务型）领导为团队赋权" class="headerlink" title="2.3.5仆人式（服务型）领导为团队赋权"></a>2.3.5<strong>仆人式（服务型）领导为团队赋权</strong></h4><ul>
-<li>敏捷方法强调，仆人式领导是一种为团队赋权的方法。仆人式领导是<br>通过对团队服务来领导团队的实践，它注重理解和关注团队成员的需<br>要和发展，旨在使团队尽可能达到最高绩效</li>
-<li>以下仆人式领导的特征让项目领导变得更加敏捷，促进团队的成功：<br>✓提升自我意识（ <strong>不强行决策与干预</strong> ）<br>✓倾听（ <strong>了解根因与现状，了解团队的情绪</strong> ）<br>✓为团队服务（ <strong>解决团队现有的障碍</strong> ，而不是制造麻烦）<br>✓帮助他人成长（ <strong>培训与辅导</strong> ）<br>✓引导与控制（ <strong>让团队说话，在流程上控制好，而不是内容</strong> ）<br>✓促进安全、尊重与信任（ <strong>先私下沟通，鼓励团队自组织</strong> ）<br>✓促进他人精力和才智提升（ <strong>减少其他人对团队的影响</strong> ）</li>
-</ul>
-<h4 id="2-3-6敏捷PMO"><a href="#2-3-6敏捷PMO" class="headerlink" title="2.3.6敏捷PMO"></a>2.3.6<strong>敏捷PMO</strong></h4><ul>
-<li>设立PMO的目的是引导组织实现商业价值。敏捷PMO为价值驱动型、面向创新型、多学科型</li>
-<li>敏捷PMO可进行如下职责：<br>✓ <strong>制定和实施标准</strong> 。提供用户故事、测试案例、累积流图等模板，提供敏捷工具并培训支持小组了解迭代开发概念<br>✓ <strong>通过培训和指导发展人才</strong> 。协调敏捷培训课程、教练和导师以帮助员工过渡到敏捷思维模式并升级其技能。鼓励和支持员工参与本地敏捷活动<br>✓ <strong>多项目管理</strong> 。通过不同项目交流协调敏捷团队。考虑分享进度、问题、回顾性发现和改进实<br>验等内容。借助适当的框架，帮助管理项目层的主要客户发布和项目组合层的投资主题<br>✓ <strong>促进组织学习</strong> 。收集项目进度信息并获取、存储和记录回顾性发现成果<br>✓ <strong>管理干系人</strong> 。提供产品负责人培训，指导验收测试以及评估方法，并提供系统反馈。宣扬主题专家(SME)对项目的重要性<br>✓ <strong>招聘、筛选和评估项目领导</strong> 。制定敏捷实践者访谈指南<br>✓ <strong>执行专业化项目任务</strong> 。培训和提供回顾促进者，与敏捷项目问题解决者订立协议，并提供导师和教练</li>
-</ul>
-<h3 id="2-4、敏捷相关的基本知识"><a href="#2-4、敏捷相关的基本知识" class="headerlink" title="2.4、敏捷相关的基本知识"></a>2.4、<strong>敏捷相关的基本知识</strong></h3><h4 id="2-4-1-敏捷方法"><a href="#2-4-1-敏捷方法" class="headerlink" title="2.4.1 敏捷方法"></a>2.4.1 <strong>敏捷方法</strong></h4><ul>
-<li>敏捷方法是在敏捷宣言（ 4 条）、敏捷原则（ 12 条）的指导下，根据不同的场景总结出的良好实践</li>
-<li>在PMI《敏捷实践指南》中，“敏捷方法”是一个囊括了各种框架和方法的涵盖性术语</li>
-</ul>
-<h4 id="2-4-2-看板的作用与优势"><a href="#2-4-2-看板的作用与优势" class="headerlink" title="2.4.2 看板的作用与优势"></a>2.4.2 <strong>看板的作用与优势</strong></h4><ul>
-<li>“看板”一词按字面翻译为“视觉符号”或“卡片”。带有卡片的物理看板面板能够<u>推动和实现整个系统中工作流的<strong>可视化</strong></u>，让每个人都可以看到</li>
-<li>该信息发射源包含许多列，表示需要完成的工作流的状态。最简单的面板可能包含三列（即，要完成的工作、进行中的工作和已完成工作），但可以调整为使用团队所需要的任何状态</li>
-<li>看板方法应用并适用于多种场合，可以确保工作流和价值交付的持续性</li>
-<li>在看板方法中，完成工作比开始新工作更为重要。从未完成的工作中无法获得任何价值，因此团队将协作实施和遵从在制品(WIP) 限制，让整个系统中的每份工作得以“完成”</li>
-<li>考试中，看板通常用来起到展示项目情况、透明各方信息的作用</li>
-</ul>
-<h4 id="2-4-3-极限编程——eXtremeProgramming"><a href="#2-4-3-极限编程——eXtremeProgramming" class="headerlink" title="2.4.3 极限编程——eXtremeProgramming"></a>2.4.3 极限编程——eXtremeProgramming</h4><ul>
-<li><p>轻量级的开发流程</p>
-</li>
-<li><p>最主要的精神是：在客户有系统需求时，给予及时满意的可执<br>行程序，所以最适合需求快速变动的项目</p>
-</li>
-<li><p>它强调客户所要的是workable的执行代码，所以把与撰写程序<br>无关的工作降至最低，并要求客户与开发人员最好以side-by-<br>side的方式一起工作</p>
-</li>
-<li><p>XP的实践包括：<br>✓完整团队、计划游戏、客户测试<br>✓简单设计、 <strong>结对编程、测试驱动开发</strong><br>✓改进设计、 <strong>持续集成</strong> 、集体代码所有权<br>✓编码标准、隐喻、可持续的速度</p>
-</li>
-<li><p><strong>持续集成</strong> 。无论产品如何，都要频繁地将工作集成到整体中，然后再进行重新测试，以确定整个产品仍然按照预期工作</p>
-</li>
-<li><p><strong>在不同层面测试</strong> 。对端到端信息使用系统级测试，对构建块使用单元测试。在两者之间，了解是否需要进行集成测试，以及在何处进行测试。团队发现冒烟测试有助于测试工作产品是否良好。团队<br>发现，决定何时以及对哪些产品运行回归测试，可以帮助他们在维护产品质量的同时，良好地构建性能。敏捷团队非常偏爱自动化测试，因此他们可以借此构建和保持交付的势头</p>
-</li>
-<li><p><strong>验收测试驱动开发(ATDD)</strong> 。在ATDD中，整个团队聚集一起讨论工作产品的验收标准。然后，团队创建测试，这让团队能够编写足够的代码，进行自动化测试，满足标准要求。对于非软件项目，要考虑怎样在团队完成大量价值时对工作进行测试</p>
-</li>
-<li><p><strong>测试驱动开发(TDD)和行为驱动开发(BDD)</strong> 。在编写&#x2F;创建产品之前编写自动化测试，实际上可以帮助人员设计产品，防范产品错误。对于非软件项目，要考虑如何通过“测试驱动”团队的设计。硬件和机械类项目经常使用模拟进行设计的中间测试</p>
-</li>
-<li><p><strong>刺探（时间盒研究或实验）</strong> 。刺探对学习很有用，可以在诸如评估、验收标准定义以及通过产品了解用户行为的流程中使用。在团队需要学习一些关键技术或功能要素时，刺探会很有帮助</p>
-</li>
-</ul>
-<h4 id="2-4-4-Scrum"><a href="#2-4-4-Scrum" class="headerlink" title="2.4.4 Scrum"></a>2.4.4 <strong>Scrum</strong></h4><p>Scrum包括了 <strong>一系列实践和预定义角色的过程骨架</strong> 。Scrum中的主要角色包括同项目经理类似的Scrum主管角色负责维护过程和任务，产品负责人代表利益所有者，开发团队包括了所有开发人员</p>
-<div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_12.43.50.png,alt=Scrum"/></div></div>
-
-<h4 id="2-4-5-Sprints（冲刺）"><a href="#2-4-5-Sprints（冲刺）" class="headerlink" title="2.4.5 Sprints（冲刺）"></a>2.4.5 <strong>Sprints（冲刺）</strong></h4><ul>
-<li>Scrum的项目过程由一系列的Sprint组成</li>
-<li>Sprint的长度一般控制在 2 - 4 周</li>
-<li>通过固定的周期保持良好的节奏</li>
-<li>产品的设计、开发、测试都在Sprint期间完成</li>
-<li>Sprint结束时交付可以工作的软件</li>
-<li>在Sprint过程中不允许发生变更</li>
-</ul>
-<h4 id="2-4-6-Scrum-of-scrums"><a href="#2-4-6-Scrum-of-scrums" class="headerlink" title="2.4.6 Scrum of scrums"></a>2.4.6 <strong>Scrum of scrums</strong></h4><ul>
-<li>Scrum of Scrums (SoS) 也称为“meta Scrum”，是由两个或多个Scrum 团队而不是一个大型Scrum 团队所使用的一种技术</li>
-<li>其中一个团队包含三到九名成员来协调其工作。每个团队的代表会与其他团队代表定期召开会议，可能是每日例会，但通常是一周两次或三次</li>
-<li>每日例会的执行方式类似于Scrum 的每日站会，其中代表将报告已完成的工作、下一步工作设置、任何当前障碍以及可能会阻碍其他团队的潜在未来障碍。其目标是确保团队协调工作并清除障碍，以优化所有团队的效率</li>
-<li>具有多个团队的大型团队可能要求执行Scrum of Scrum ofScrums，其遵循的模式与SoS 相同，每个SoS 代表向更大组织的代表报告</li>
-</ul>
-<h4 id="2-4-7-时间盒（Time-Box）"><a href="#2-4-7-时间盒（Time-Box）" class="headerlink" title="2.4.7 时间盒（Time Box）"></a>2.4.7 <strong>时间盒（Time Box）</strong></h4><p>​	 <strong>时间盒的价值：</strong></p>
-<ul>
-<li>帕金森定律的一剂良药</li>
-<li>人们往往记住失误的日期，而不是失误的特征</li>
-<li>尽早促成难度大的决策和权衡</li>
-<li>更好的控制</li>
-<li>防止镀金，因为时间盒很短，没有时间镀金<br><strong>运作规则：</strong></li>
-<li>在每个时间盒过程中，不要增加人员。Brook定律：在一个滞后的项目中加人只<br>能使其滞后</li>
-<li>时间盒不用来做绩效考核</li>
-<li>时间盒内不许有变更</li>
-<li>每日同步</li>
-</ul>
-<h4 id="2-4-8-敏捷的其他常见模式"><a href="#2-4-8-敏捷的其他常见模式" class="headerlink" title="2.4.8 敏捷的其他常见模式"></a>2.4.8 <strong>敏捷的其他常见模式</strong></h4><ul>
-<li><strong>追逐太阳模式</strong> ：追逐太阳的开发过程是一种每天结束时将工作移交给下一个工作地点（可能相差很多时区）的方法，旨在为加快产品的开发</li>
-<li><strong>鱼缸窗口模式</strong> ：各个地点之间建立长期视频会议链接，创建一个鱼缸窗口。每天工作开始时，打开链接，工作结束时，关闭链接</li>
-<li><strong>远程结对模式</strong> ：结对编程是一种由两名团队成员结对、同时从事同一工作项目的技术。而远程结对是通过使用虚拟会议工具来共享屏幕，包括语音和视频链接，建立远程对接</li>
-</ul>
-<h3 id="2-5、敏捷相关的基本知识"><a href="#2-5、敏捷相关的基本知识" class="headerlink" title="2.5、敏捷相关的基本知识"></a>2.5、<strong>敏捷相关的基本知识</strong></h3><div class="img-wrap"><div class="img-bg"><img class="img" src="https://r2.950320.xyz/PicGo/.iShot_2025-02-23_12.43.50.png,alt=不同生命周期的比较"/></div></div>
-
-<h4 id="2-5-1-混合型生命周期存在的意义和价值"><a href="#2-5-1-混合型生命周期存在的意义和价值" class="headerlink" title="2.5.1 混合型生命周期存在的意义和价值"></a>2.5.1 <strong>混合型生命周期存在的意义和价值</strong></h4><ul>
-<li>项目管理的目标是在当前环境下尽可能以最好的方式创造商业价值。</li>
-<li>项目采用何种生命周期的元问题：“我们怎样做才能最成功地交付价值？”</li>
-<li>混合型生命周期解决价值交付过程中 <strong>组织不能完全敏捷的场景</strong> 、 <strong>敏捷过渡期的场景</strong> 、 <strong>加速预测生命周期交付速度的场景</strong> 以及 <strong>改变团队成员思维模式的场景</strong> 。目的是为了增加价值交付的效率和效果</li>
-<li>当团队创造价值时，是否需要快速阶段性反馈？如果需要，增量方法将会有所帮助。在探讨各种想法时，是否需要随时管理风险？如果需要，迭代方法或敏捷方法将会有所帮助</li>
-<li>当组织无法交付中间价值时，完全的敏捷方法可能不是很有用。可能会选择部分使用敏捷，部分使用预测型生命周期的方式来做项目</li>
-</ul>
-<h4 id="2-5-2-混合型生命周期的不同类型"><a href="#2-5-2-混合型生命周期的不同类型" class="headerlink" title="2.5.2 混合型生命周期的不同类型"></a>2.5.2 <strong>混合型生命周期的不同类型</strong></h4><ul>
-<li><strong>敏捷的工具和预测的计划模式在整个生命周期同步存在</strong> 。比如：同一项目中结合使用了预测计划法和敏捷工具及思想。如短迭代、每日站会和回顾会等。虽然它显然没有充分体现敏捷思维模式、价值观和原则。不过，这是一种典型的混合方法</li>
-<li><strong>以预测法为主、敏捷方法为辅的方法</strong> 。举个例子，某工程公司正在使用一个新的组件建造一个设施。虽然大部分项目可能是常规的、可预测的，就像组织实施的许多其它的设施项目一样，但这个项目包含了一种新的屋顶材料。承包商可能计划首先在地面上进行一些小规模的安装迭代试验，以确定最佳的安装方法，并在有足够时间解决问题时尽早发现问题</li>
-<li><strong>以敏捷方法为主、预测法为辅的方法</strong> 。当某个特定要素不可协商，或者使用敏捷方法不可执行时，可能会使用这种方法。这种情况的例子包括，集成由不同供应商开发的外部组件，这些外部组件不能或不会以协作或增量方式合作。在组件交付之后，需要单独集成</li>
-</ul>
-<h4 id="2-5-3-混合型生命周期的答题思路"><a href="#2-5-3-混合型生命周期的答题思路" class="headerlink" title="2.5.3 混合型生命周期的答题思路"></a>2.5.3 <strong>混合型生命周期的答题思路</strong></h4><ul>
-<li>混合型生命周期的考察重点是敏捷的灵魂（敏捷宣言和原则），偶尔<br>会直接考察敏捷的具体工具（如看板、燃尽图等）</li>
-<li>混合型生命周期的题目会对项目经理&#x2F;SM的角色定位考察比较深入，<br>全面了解考生是否对VUCA环境下项目经理的角色定位有深刻的洞见<br>和理解</li>
-<li>混合型生命周期对沟通和协同的考察比较多，项目经理&#x2F;SM需要有充<br>分的仆人式领导力来为团队扫清障碍，并学会选择优秀的试点推广敏<br>捷思想，并且通过结果证明敏捷方法的好处与优势</li>
-<li>混合型生命周期的部分题目还会关注项目的质量问题，需要对DoD、<br>AC、DoR有清楚的理解和认知</li>
-<li>混合型生命周期是稳定和灵活的一种平衡，需要注意通过治理团队的<br>决策作用、产品目标和冲刺&#x2F;迭代目标的清晰共识、PMO的多项目协<br>同让项目更稳定</li>
-</ul>
-<h4 id="2-5-4-敏捷转型成功的策略与方法"><a href="#2-5-4-敏捷转型成功的策略与方法" class="headerlink" title="2.5.4 敏捷转型成功的策略与方法"></a>2.5.4 <strong>敏捷转型成功的策略与方法</strong></h4><ul>
-<li><strong>要点一</strong> ：渐进的过渡涉及到要增加更多的迭代技术，以便改进学习，加强团队和干系人的一致性</li>
-<li><strong>要点二</strong> ：考虑增加更多的增量技术，以加快对发起人的价值和投资回报</li>
-<li><strong>要点三</strong> ：可以先在一个<strong>风险不大、具有中低程度不确定性</strong>的项目中尝试这些新技术</li>
-<li><strong>要点四</strong> ：通过组织成功地使用混合方法后，再尝试更复杂的敏捷项目，这些项目需要增加更多的敏捷技术。这是一种根据组织的情况、特定的风险，以及团队适应并接受变革的就绪情况而调整的渐进混合的良好过渡</li>
-</ul>
-]]></content>
-      <categories>
-        <category>PMP</category>
-      </categories>
   </entry>
   <entry>
     <title>PMP学习第四课-干系人绩效域</title>
@@ -1416,24 +1434,6 @@
       <tags>
         <tag>PMP</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2025/02/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>hexo-blog美化</title>
