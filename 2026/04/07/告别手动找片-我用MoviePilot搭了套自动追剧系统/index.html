@@ -1,0 +1,415 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><title>告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了 | 陈鹏衰哥哥的小窝</title><meta name="keywords" content="NAS,Docker,MoviePilot,Emby,qBittorrent"><meta name="author" content="chenpeng0738@sina.com"><meta name="copyright" content="chenpeng0738@sina.com"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#f7f9fe"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-touch-fullscreen" content="yes"><meta name="apple-mobile-web-app-title" content="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了"><meta name="application-name" content="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="#f7f9fe"><meta property="og:type" content="article"><meta property="og:title" content="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了"><meta property="og:url" content="https://blog.陈鹏.us.kg/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/index.html"><meta property="og:site_name" content="陈鹏衰哥哥的小窝"><meta property="og:description" content="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了前言 折腾NAS快三年了，从最初的单纯存照片存文件，到现在31个Docker容器跑了二十多天没重启过。中间踩过无数坑，删过无数次容器重来，总算摸索出了一套稳定的方案。 今天想分享的是这套方案的核心——自动追剧系统。简单说就是"><meta property="og:locale" content="zh-CN"><meta property="og:image" content="https://bu.dusays.com/2021/01/15/22a595b2d19cc.png"><meta property="article:author" content="chenpeng0738@sina.com"><meta property="article:tag"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://bu.dusays.com/2021/01/15/22a595b2d19cc.png"><meta name="description" content="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了前言 折腾NAS快三年了，从最初的单纯存照片存文件，到现在31个Docker容器跑了二十多天没重启过。中间踩过无数坑，删过无数次容器重来，总算摸索出了一套稳定的方案。 今天想分享的是这套方案的核心——自动追剧系统。简单说就是"><link rel="shortcut icon" href="/favicon.ico"><link rel="canonical" href="https://blog.陈鹏.us.kg/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/"><link rel="preconnect" href="//cdn.cbd.int"/><meta name="google-site-verification" content="xxx"/><meta name="baidu-site-verification" content="code-xxx"/><meta name="msvalidate.01" content="xxx"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.cbd.int/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.cbd.int/@fancyapps/ui@5.0.28/dist/fancybox/fancybox.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  linkPageTop: undefined,
+  peoplecanvas: {"enable":true,"img":"https://upload-bbs.miyoushe.com/upload/2024/07/27/125766904/ba62475f396df9de3316a08ed9e65d86_5680958632268053399..png"},
+  postHeadAiDescription: {"enable":true,"gptName":"AnZhiYu","mode":"local","switchBtn":false,"btnLink":"https://afdian.net/item/886a79d4db6711eda42a52540025c377","randomNum":3,"basicWordCount":1000,"key":"xxxx","Referer":"https://xx.xx/"},
+  diytitle: {"enable":true,"leaveTitle":"w(ﾟДﾟ)w 不要走！再看看嘛！","backTitle":"♪(^∇^*)欢迎肥来！"},
+  LA51: {"enable":true,"ck":null,"LingQueMonitorID":null},
+  greetingBox: undefined,
+  twikooEnvId: '',
+  commentBarrageConfig:undefined,
+  music_page_default: "nav_music",
+  root: '/',
+  preloader: {"source":3},
+  friends_vue_info: undefined,
+  navMusic: true,
+  mainTone: undefined,
+  authorStatus: undefined,
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":true,"languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"简","rightMenuMsgToTraditionalChinese":"转为繁体","rightMenuMsgToSimplifiedChinese":"转为简体"},
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":330},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    simplehomepage: true,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"copy":true,"copyrightEbable":false,"limitCount":50,"languages":{"author":"作者: chenpeng0738@sina.com","link":"链接: ","source":"来源: 陈鹏衰哥哥的小窝","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。","copySuccess":"复制成功，复制和转载请标注本文地址"}},
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体","cht_to_chs":"你已切换为简体","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#425AEF","bgDark":"#1f1f1f","position":"top-center"},
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.cbd.int/flickr-justified-gallery@2.1.2/dist/fjGallery.min.js',
+      css: 'https://cdn.cbd.int/flickr-justified-gallery@2.1.2/dist/fjGallery.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: false,
+  shortcutKey: undefined,
+  autoDarkmode: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  configTitle: '陈鹏衰哥哥的小窝',
+  title: '告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了',
+  postAI: '',
+  pageFillDescription: '告别手动找片我用MoviePilot搭了套自动追剧系统新剧更新自己下好了, 第一步：部署下载器 qBittorrent, 第二步：部署 MoviePilot, MoviePilot 初始配置, 第三步：部署 Emby, 第四步：用 Sun-Panel 做个导航页, 踩坑总结, 最后告别手动找片我用搭了套自动追剧系统新剧更新自己下好了前言折腾快三年了从最初的单纯存照片存文件到现在个容器跑了二十多天没重启过中间踩过无数坑删过无数次容器重来总算摸索出了一套稳定的方案今天想分享的是这套方案的核心自动追剧系统简单说就是你在里订阅想看的剧有新资源它自动搜索自动下载自动整理到对应文件夹自动刮削海报和简介最后打开就能直接看整个过程不需要你干预跟差不多先说下我的环境系统一台小主机不过方案不挑系统群晖威联通飞牛绿联都能跑只要是环境就行第一步部署下载器先装下载器后面要调用它来下载资源在的标签页添加容器镜像填我用的是这个版本比较稳定网络模式选因为下载需要大量端口映射用模式最省事如果你用的是群晖之类的网络也行记得把的和端口都映射出来不然下载速度会很慢这个坑我踩过一开始只映射了速度慢到怀疑人生目录挂载两个目录存配置媒体目录挂载到你的影视文件夹和根据你的系统来填就行群晖一般是你的用户可以在终端用命令查看容器跑起来后浏览器打开你的默认账号第一次登录会让你设置密码进去之后建议先改几个设置勾选把默认保存路径设成你挂载的那个下载目录这样后面推过来的种子就会自动存到正确的位置第二步部署这是整套方案的核心负责搜索资源调度下载整理文件镜像用同样建议用网络模式因为内部要访问很多服务模式最省心环境变量比较多说几个关键的填你想用的管理员用户名填用存数据比稳定太多了我之前用跑了一段时间数据库文件莫名其妙就坏了填你的地址如果你不想单独部署也可以用模式够用但不如稳如果你有代理之类设了局域网共享填上代理地址比如这个很重要要访问站这些外部服务没有代理的话刮削会失败搜出来的资源也少很多目录挂载建议直接挂载整个用户目录比如这样可以自由操作所有子目录单独挂一个就行还有一个目录是的缓存有些功能比如豆瓣登录截图验证会用到浏览器内核不挂这个目录的话每次启动都要重新下载浏览器会慢不少容器跑起来后打开你的用你设置的管理员账号登录初始配置登录后先去基础设置里把媒体库目录配好下载目录指向的下载文件夹电影目录比如电影电视剧目录比如电视剧动漫目录比如动漫注意这些目录一定要和后面的媒体库目录一致不然整理好的文件扫不到这个坑我犯过一次配完发现怎么扫都扫不出来折腾了半天才意识到是两边目录没对上然后配置下载器在下载器设置里添加地址填因为你用的网络填上刚才设的用户名密码点测试连接成功就了如果你有站账号可以在站点设置里添加支持的站点挺多的我加了几个常用的就够用了没有站也没关系也支持通过内置索引器搜索资源就是资源质量和更新速度会差一些最后配一下通知我用的企业微信机器人设置一个就行这样下载完成整理完成都会推送消息到你手机上挺方便的和飞书也支持到这里其实已经能用了去资源搜索里搜一部电影试试搜到之后点下载会自动开始下载下载完了会自动整理到对应的媒体目录但还差一个播放端第三步部署选没太多纠结客户端适配做得好手机端和电视端体验都很成熟而且硬件转码能力强我家上行带宽一般的时候手机远程看也能流畅播放如果你不想搞解锁版用也行完全免费开源功能上差不了太多我两个都装了主力用备用镜像用网络就行端口映射目录挂载把你的媒体总目录挂进去就行会自动识别下面的子目录和记得填上你的代理地址刮削元数据需要访问没有代理的话会全部失败我当时就是卡在这一步刮了半天一个海报都没出来后来才知道是网络问题如果你也遇到刮不出东西先检查代理容器跑起来后打开你的按向导设置管理员账号语言选中文元数据语言也选中文然后添加媒体库电影指向电影电视剧指向电视剧元数据下载器选勾上自动下载图片和元数据之后会开始扫描等一段时间你的海报墙就出来了到这里整套自动追剧链路就跑通了在订阅自动搜索资源下载下载完自动整理到媒体目录识别刮削手机打开直接看你唯一需要做的就是在里点一下订阅第四步用做个导航页四个服务跑起来之后每次要记一堆端口号确实烦虽然浏览器可以存书签但换台设备就不方便了就是干这个的镜像端口映射到容器的装好打开添加应用把的地址和名称填进去就行支持自定义图标还可以把设成首页内嵌打开导航页直接就是海报墙建议给设上登录密码不然局域网里谁都能看到你所有的服务入口踩坑总结整理几个我踩过的主要坑希望能帮大家少走弯路目录要对齐的媒体目录的媒体库目录的下载目录三者必须能互相访问最简单的做法就是所有容器都挂载同一个大的父目录然后在下面各自操作子目录端口要全的监听端口和都要映射只开速度会非常慢代理不能少搜资源刮削元数据都需要能访问外网建议用局域网共享的代理所有容器统一配置比稳默认用也能跑但我用了一个月数据库就出问题了换成之后再也没出过事记得设密码导航页暴露了所有服务的入口不加密的话等于把的门打开了最后这套方案我跑了大半年稳定性很好基本不需要维护偶尔有资源站抽风导致下载失败会自动重试或者换个站点搜大部分时候都能搞定如果搭的过程中遇到问题搞不定可以私信我我拉了个折腾群大家在里面互相帮忙一个人查半天不如群里问一句什么值得买评论区也欢迎提问我看到会回复觉得有用的话点个赞支持一下后面会继续分享字幕自动匹配网盘聚合远程访问这些进阶内容',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2026-04-07 21:41:10',
+  postMainColor: '',
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#18171d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#f7f9fe')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+          const isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+          const isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+          const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+          if (t === undefined) {
+            if (isLightMode) activateLightMode()
+            else if (isDarkMode) activateDarkMode()
+            else if (isNotSpecified || hasNoSupport) {
+              const now = new Date()
+              const hour = now.getHours()
+              const isNight = hour <= 6 || hour >= 18
+              isNight ? activateDarkMode() : activateLightMode()
+            }
+            window.matchMedia('(prefers-color-scheme: dark)').addListener(e => {
+              if (saveToLocal.get('theme') === undefined) {
+                e.matches ? activateDarkMode() : activateLightMode()
+              }
+            })
+          } else if (t === 'light') activateLightMode()
+          else activateDarkMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><meta name="generator" content="Hexo 7.3.0"></head><body data-type="anzhiyu"><div id="web_bg"></div><div id="an_music_bg"></div><div id="loading-box" onclick="document.getElementById(&quot;loading-box&quot;).classList.add(&quot;loaded&quot;)"><div class="loading-bg"><img class="loading-img nolazyload" alt="加载头像" src="https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"/><div class="loading-image-dot"></div></div></div><script>const preloader = {
+  endLoading: () => {
+    document.getElementById('loading-box').classList.add("loaded");
+  },
+  initLoading: () => {
+    document.getElementById('loading-box').classList.remove("loaded")
+  }
+}
+window.addEventListener('load',()=> { preloader.endLoading() })
+setTimeout(function(){preloader.endLoading();},10000)
+
+if (true) {
+  document.addEventListener('pjax:send', () => { preloader.initLoading() })
+  document.addEventListener('pjax:complete', () => { preloader.endLoading() })
+}</script><link rel="stylesheet" href="https://cdn.cbd.int/anzhiyu-theme-static@1.1.10/progress_bar/progress_bar.css"/><script async="async" src="https://cdn.cbd.int/pace-js@1.2.4/pace.min.js" data-pace-options="{ &quot;restartOnRequestAfter&quot;:false,&quot;eventLag&quot;:false}"></script><div class="post" id="body-wrap"><header class="post-bg" id="page-header"><nav id="nav"><div id="nav-group"><span id="blog_name"><a id="site-name" href="/" accesskey="h"><div class="title">陈鹏衰哥哥的小窝</div><i class="anzhiyufont anzhiyu-icon-house-chimney"></i></a></span><div class="mask-name-container"><div id="name-container"><a id="page-name" href="javascript:anzhiyu.scrollToDest(0, 500)">PAGE_NAME</a></div></div><div id="menus"></div><div id="nav-right"><div class="nav-button" id="randomPost_button"><a class="site-page" onclick="toRandomPost()" title="随机前往一个文章" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-dice"></i></a></div><div class="nav-button" id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" title="搜索🔍" accesskey="s"><i class="anzhiyufont anzhiyu-icon-magnifying-glass"></i><span> 搜索</span></a></div><input id="center-console" type="checkbox"/><label class="widget" for="center-console" title="中控台" onclick="anzhiyu.switchConsole();"><i class="left"></i><i class="widget center"></i><i class="widget right"></i></label><div id="console"><div class="console-card-group-reward"><ul class="reward-all console-card"><li class="reward-item"><a href="https:/r2.950320.xyz/blog/weixinpay.jpg" target="_blank"><img class="post-qr-code-img" alt="微信" src="https:/r2.950320.xyz/blog/weixinpay.jpg"/></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https:/r2.950320.xyz/blog/alypay.jpg" target="_blank"><img class="post-qr-code-img" alt="支付宝" src="https:/r2.950320.xyz/blog/alypay.jpg"/></a><div class="post-qr-code-desc">支付宝</div></li></ul></div><div class="console-card-group"><div class="console-card-group-left"><div class="console-card" id="card-newest-comments"><div class="card-content"><div class="author-content-item-tips">互动</div><span class="author-content-item-title"> 最新评论</span></div><div class="aside-list"><span>正在加载中...</span></div></div></div><div class="console-card-group-right"><div class="console-card tags"><div class="card-content"><div class="author-content-item-tips">兴趣点</div><span class="author-content-item-title">寻找你感兴趣的领域</span><div class="card-tags"><div class="item-headline"></div><div class="card-tag-cloud"><a href="/tags/Docker/" style="font-size: 1.05rem;">Docker<sup>1</sup></a><a href="/tags/Emby/" style="font-size: 1.05rem;">Emby<sup>1</sup></a><a href="/tags/MoviePilot/" style="font-size: 1.05rem;">MoviePilot<sup>1</sup></a><a href="/tags/NAS/" style="font-size: 1.05rem;">NAS<sup>1</sup></a><a href="/tags/PMP/" style="font-size: 1.05rem;">PMP<sup>8</sup></a><a href="/tags/blog/" style="font-size: 1.05rem;">blog<sup>2</sup></a><a href="/tags/qBittorrent/" style="font-size: 1.05rem;">qBittorrent<sup>1</sup></a></div></div><hr/></div></div><div class="console-card history"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-box-archiv"></i><span>文章</span></div><div class="card-archives"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-archive"></i><span>归档</span></div><ul class="card-archive-list"><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2026/04/"><span class="card-archive-list-date">四月 2026</span><div class="card-archive-list-count-group"><span class="card-archive-list-count">1</span><span>篇</span></div></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2025/03/"><span class="card-archive-list-date">三月 2025</span><div class="card-archive-list-count-group"><span class="card-archive-list-count">4</span><span>篇</span></div></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2025/02/"><span class="card-archive-list-date">二月 2025</span><div class="card-archive-list-count-group"><span class="card-archive-list-count">9</span><span>篇</span></div></a></li></ul></div><hr/></div></div></div><div class="button-group"><div class="console-btn-item"><a class="darkmode_switchbutton" title="显示模式切换" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-moon"></i></a></div><div class="console-btn-item" id="consoleHideAside" onclick="anzhiyu.hideAsideBtn()" title="边栏显示控制"><a class="asideSwitch"><i class="anzhiyufont anzhiyu-icon-arrows-left-right"></i></a></div><div class="console-btn-item" id="consoleMusic" onclick="anzhiyu.musicToggle()" title="音乐开关"><a class="music-switch"><i class="anzhiyufont anzhiyu-icon-music"></i></a></div></div><div class="console-mask" onclick="anzhiyu.hideConsole()" href="javascript:void(0);"></div></div><div class="nav-button" id="nav-totop"><a class="totopbtn" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i><span id="percent" onclick="anzhiyu.scrollToDest(0,500)">0</span></a></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);" title="切换"><i class="anzhiyufont anzhiyu-icon-bars"></i></a></div></div></div></nav><div id="post-info"><div id="post-firstinfo"><div class="meta-firstline"><a class="post-meta-original">原创</a><span class="post-meta-categories"><span class="post-meta-separator"></span><i class="anzhiyufont anzhiyu-icon-inbox post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E6%90%9E%E6%9C%BA%E6%97%A5%E8%AE%B0/" itemprop="url">搞机日记</a></span><span class="article-meta tags"><a class="article-meta__tags" href="/tags/NAS/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>NAS</span></a><a class="article-meta__tags" href="/tags/Docker/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>Docker</span></a><a class="article-meta__tags" href="/tags/MoviePilot/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>MoviePilot</span></a><a class="article-meta__tags" href="/tags/Emby/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>Emby</span></a><a class="article-meta__tags" href="/tags/qBittorrent/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>qBittorrent</span></a></span></div></div><h1 class="post-title" itemprop="name headline">告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="anzhiyufont anzhiyu-icon-calendar-days post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" itemprop="dateCreated datePublished" datetime="2026-04-07T09:30:00.000Z" title="发表于 2026-04-07 17:30:00">2026-04-07</time><span class="post-meta-separator"></span><i class="anzhiyufont anzhiyu-icon-history post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" itemprop="dateCreated datePublished" datetime="2026-04-07T13:41:10.564Z" title="更新于 2026-04-07 21:41:10">2026-04-07</time></span></div><div class="meta-secondline"><span class="post-meta-separator"></span><span class="post-meta-wordcount"><i class="anzhiyufont anzhiyu-icon-file-word post-meta-icon" title="文章字数"></i><span class="post-meta-label" title="文章字数">字数总计:</span><span class="word-count" title="文章字数">2.3k</span><span class="post-meta-separator"></span><i class="anzhiyufont anzhiyu-icon-clock post-meta-icon" title="阅读时长"></i><span class="post-meta-label" title="阅读时长">阅读时长:</span><span>7分钟</span></span><span class="post-meta-separator">       </span><span class="post-meta-position" title="作者IP属地为贵阳"><i class="anzhiyufont anzhiyu-icon-location-dot"></i>贵阳</span></div></div></div><section class="main-hero-waves-area waves-area"><svg class="waves-svg" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M -160 44 c 30 0 58 -18 88 -18 s 58 18 88 18 s 58 -18 88 -18 s 58 18 88 18 v 44 h -352 Z"></path></defs><g class="parallax"><use href="#gentle-wave" x="48" y="0"></use><use href="#gentle-wave" x="48" y="3"></use><use href="#gentle-wave" x="48" y="5"></use><use href="#gentle-wave" x="48" y="7"></use></g></svg></section><div id="post-top-cover"><img class="nolazyload" id="post-top-bg" src=""></div></header><main id="blog-container"><div class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container" itemscope itemtype="https://blog.陈鹏.us.kg/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/"><header><a class="post-meta-categories" href="/categories/%E6%90%9E%E6%9C%BA%E6%97%A5%E8%AE%B0/" itemprop="url">搞机日记</a><a href="/tags/NAS/" tabindex="-1" itemprop="url">NAS</a><a href="/tags/Docker/" tabindex="-1" itemprop="url">Docker</a><a href="/tags/MoviePilot/" tabindex="-1" itemprop="url">MoviePilot</a><a href="/tags/Emby/" tabindex="-1" itemprop="url">Emby</a><a href="/tags/qBittorrent/" tabindex="-1" itemprop="url">qBittorrent</a><h1 id="CrawlerTitle" itemprop="name headline">告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了</h1><span itemprop="author" itemscope itemtype="http://schema.org/Person">chenpeng0738@sina.com</span><time itemprop="dateCreated datePublished" datetime="2026-04-07T09:30:00.000Z" title="发表于 2026-04-07 17:30:00">2026-04-07</time><time itemprop="dateCreated datePublished" datetime="2026-04-07T13:41:10.564Z" title="更新于 2026-04-07 21:41:10">2026-04-07</time></header><h1 id="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了"><a href="#告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了" class="headerlink" title="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了"></a>告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了</h1><p><strong>前言</strong></p>
+<p>折腾NAS快三年了，从最初的单纯存照片存文件，到现在31个Docker容器跑了二十多天没重启过。中间踩过无数坑，删过无数次容器重来，总算摸索出了一套稳定的方案。</p>
+<p>今天想分享的是这套方案的核心——自动追剧系统。简单说就是：你在MoviePilot里订阅想看的剧，有新资源它自动搜索、自动下载、自动整理到对应文件夹、自动刮削海报和简介，最后打开Emby就能直接看。</p>
+<p>整个过程不需要你干预，跟Netflix差不多。</p>
+<p>先说下我的环境：Unraid系统，一台N100小主机。不过方案不挑系统，群晖、威联通、飞牛、绿联都能跑，只要是Docker环境就行。</p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="/images/moviepilot-logged.png" alt="MoviePilot仪表盘"></p>
+<h2 id="第一步：部署下载器-qBittorrent"><a href="#第一步：部署下载器-qBittorrent" class="headerlink" title="第一步：部署下载器 qBittorrent"></a>第一步：部署下载器 qBittorrent</h2><p>先装下载器，后面MoviePilot要调用它来下载资源。</p>
+<p>在Unraid的Docker标签页，添加容器，镜像填 <code>hotio/qbittorrent:release-4.3.9</code>，我用的是这个版本比较稳定。</p>
+<p>网络模式选host，因为BT下载需要大量端口映射，用host模式最省事。如果你用的是群晖之类的bridge网络也行，记得把6881的TCP和UDP端口都映射出来，不然下载速度会很慢。这个坑我踩过，一开始只映射了TCP，速度慢到怀疑人生。</p>
+<p>目录挂载两个：config目录存配置，媒体目录挂载到你的影视文件夹。</p>
+<p>PUID和PGID根据你的系统来，Unraid填0就行，群晖一般是你的用户ID，可以在终端用 <code>id</code> 命令查看。</p>
+<p>容器跑起来后，浏览器打开 <code>http://你的NAS IP:8080</code>，默认账号admin，第一次登录会让你设置密码。</p>
+<p>进去之后建议先改几个设置：Settings → BitTorrent → 勾选”Automatically add these torrents to…”，把默认保存路径设成你挂载的那个下载目录。这样后面MoviePilot推过来的种子就会自动存到正确的位置。</p>
+<h2 id="第二步：部署-MoviePilot"><a href="#第二步：部署-MoviePilot" class="headerlink" title="第二步：部署 MoviePilot"></a>第二步：部署 MoviePilot</h2><p>这是整套方案的核心，负责搜索资源、调度下载、整理文件。</p>
+<p>镜像用 <code>hubp.de/jxxghp/moviepilot-v2:latest</code>，同样建议用host网络模式，因为MoviePilot内部要访问很多服务，host模式最省心。</p>
+<p>环境变量比较多，说几个关键的：</p>
+<p><code>SUPERUSER</code> 填你想用的管理员用户名。<code>DB_TYPE</code> 填 postgresql，MoviePilot用PostgreSQL存数据比SQLite稳定太多了，我之前用SQLite跑了一段时间数据库文件莫名其妙就坏了。<code>DB_POSTGRESQL_HOST</code> 填你PostgreSQL的地址，如果你不想单独部署PostgreSQL，也可以用sqlite模式，够用但不如PG稳。</p>
+<p>如果你有代理（Clash、v2ray之类设了局域网共享），<code>ALL_PROXY</code> 填上代理地址，比如 <code>http://192.168.1.1:7890</code>。这个很重要，MoviePilot要访问TMDB、PT站这些外部服务，没有代理的话刮削会失败，搜出来的资源也少很多。</p>
+<p>目录挂载建议直接挂载整个用户目录，比如 <code>/mnt/user:/mnt/user</code>，这样MoviePilot可以自由操作所有子目录。config单独挂一个就行。</p>
+<p>还有一个目录是playwright的缓存，MoviePilot有些功能（比如豆瓣登录截图验证）会用到浏览器内核，不挂这个目录的话每次启动都要重新下载浏览器，会慢不少。</p>
+<p>容器跑起来后，打开 <code>http://你的NAS IP:3005</code>，用你设置的管理员账号登录。</p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="/images/moviepilot-movie.png" alt="MoviePilot电影管理"></p>
+<h3 id="MoviePilot-初始配置"><a href="#MoviePilot-初始配置" class="headerlink" title="MoviePilot 初始配置"></a>MoviePilot 初始配置</h3><p>登录后先去”基础设置”里把媒体库目录配好：</p>
+<ul>
+<li>下载目录：指向qBittorrent的下载文件夹</li>
+<li>电影目录：比如 <code>/mnt/user/电影</code></li>
+<li>电视剧目录：比如 <code>/mnt/user/电视剧</code></li>
+<li>动漫目录：比如 <code>/mnt/user/动漫</code></li>
+</ul>
+<p><strong>注意这些目录一定要和后面Emby的媒体库目录一致</strong>，不然MoviePilot整理好的文件Emby扫不到。这个坑我犯过一次，配完发现Emby怎么扫都扫不出来，折腾了半天才意识到是两边目录没对上。</p>
+<p>然后配置下载器：在下载器设置里添加qBittorrent，地址填 <code>http://localhost:8080</code>（因为你用的host网络），填上刚才设的用户名密码，点测试连接，成功就OK了。</p>
+<p>如果你有PT站账号，可以在站点设置里添加，支持的站点挺多的，我加了几个常用的就够用了。没有PT站也没关系，MoviePilot也支持通过内置索引器搜索资源，就是资源质量和更新速度会差一些。</p>
+<p>最后配一下通知，我用的企业微信机器人，设置一个Webhook就行。这样下载完成、整理完成都会推送消息到你手机上，挺方便的。Telegram和飞书也支持。</p>
+<p>到这里其实已经能用了。去”资源搜索”里搜一部电影试试，搜到之后点下载，qBittorrent会自动开始下载，下载完了MoviePilot会自动整理到对应的媒体目录。</p>
+<p>但还差一个播放端。</p>
+<h2 id="第三步：部署-Emby"><a href="#第三步：部署-Emby" class="headerlink" title="第三步：部署 Emby"></a>第三步：部署 Emby</h2><p>选Emby没太多纠结，客户端适配做得好，手机端和电视端体验都很成熟，而且硬件转码能力强。我家上行带宽一般的时候，手机远程看4K也能流畅播放。</p>
+<p>如果你不想搞解锁版，用Jellyfin也行，完全免费开源，功能上差不了太多。我两个都装了，Emby主力用，Jellyfin备用。</p>
+<p>镜像用 <code>xinjiawei1/emby_unlockd:4.8.10.0</code>，bridge网络就行，端口映射8096。</p>
+<p>目录挂载把你的媒体总目录挂进去就行，Emby会自动识别下面的子目录。</p>
+<p><code>HTTP_PROXY</code> 和 <code>ALL_PROXY</code> 记得填上你的代理地址。<strong>Emby刮削元数据需要访问TMDB，没有代理的话会全部失败</strong>，我当时就是卡在这一步，刮了半天一个海报都没出来，后来才知道是网络问题。如果你也遇到Emby刮不出东西，先检查代理。</p>
+<p>容器跑起来后打开 <code>http://你的NAS IP:8096</code>，按向导设置管理员账号、语言（选中文）、元数据语言（也选中文）。</p>
+<p>然后添加媒体库：</p>
+<ul>
+<li>电影 → 指向 <code>/mnt/user/电影</code></li>
+<li>电视剧 → 指向 <code>/mnt/user/电视剧</code></li>
+</ul>
+<p>元数据下载器选TMDB，勾上自动下载图片和元数据。之后Emby会开始扫描，等一段时间你的海报墙就出来了。</p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="/images/emby-logged.png" alt="Emby媒体库"></p>
+<p>到这里整套自动追剧链路就跑通了：</p>
+<p>在MoviePilot订阅 → 自动搜索资源 → qBittorrent下载 → 下载完自动整理到媒体目录 → Emby识别刮削 → 手机打开Emby直接看</p>
+<p>你唯一需要做的就是：在MoviePilot里点一下”订阅”。</p>
+<h2 id="第四步：用-Sun-Panel-做个导航页"><a href="#第四步：用-Sun-Panel-做个导航页" class="headerlink" title="第四步：用 Sun-Panel 做个导航页"></a>第四步：用 Sun-Panel 做个导航页</h2><p>四个服务跑起来之后，每次要记一堆端口号确实烦。MoviePilot 3005，qBittorrent 8080，Emby 8096，虽然浏览器可以存书签，但换台设备就不方便了。</p>
+<p>Sun-Panel就是干这个的。镜像 <code>hslr/sun-panel:1.6.0</code>，端口映射3002到容器的18085。</p>
+<p>装好打开WebUI，添加应用，把MoviePilot、qBittorrent、Emby的地址和名称填进去就行。支持自定义图标，还可以把Emby设成首页内嵌，打开导航页直接就是海报墙。</p>
+<p>建议给Sun-Panel设上登录密码，不然局域网里谁都能看到你所有的服务入口。</p>
+<h2 id="踩坑总结"><a href="#踩坑总结" class="headerlink" title="踩坑总结"></a>踩坑总结</h2><p>整理几个我踩过的主要坑，希望能帮大家少走弯路：</p>
+<p><strong>1. 目录要对齐。</strong> MoviePilot的媒体目录、Emby的媒体库目录、qBittorrent的下载目录，三者必须能互相访问。最简单的做法就是所有容器都挂载同一个大的父目录，然后在下面各自操作子目录。</p>
+<p><strong>2. BT端口要全。</strong> qBittorrent的监听端口TCP和UDP都要映射，只开TCP速度会非常慢。</p>
+<p><strong>3. 代理不能少。</strong> MoviePilot搜资源、Emby刮削元数据，都需要能访问外网。建议用局域网共享的代理，所有容器统一配置。</p>
+<p><strong>4. PostgreSQL比SQLite稳。</strong> MoviePilot默认用SQLite也能跑，但我用了一个月数据库就出问题了。换成PostgreSQL之后再也没出过事。</p>
+<p><strong>5. Sun-Panel记得设密码。</strong> 导航页暴露了所有服务的入口，不加密的话等于把NAS的门打开了。</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>这套方案我跑了大半年，稳定性很好，基本不需要维护。偶尔有资源站抽风导致下载失败，MoviePilot会自动重试或者换个站点搜，大部分时候都能搞定。</p>
+<p>如果搭的过程中遇到问题搞不定，可以私信我，我拉了个NAS折腾群，大家在里面互相帮忙，一个人查半天不如群里问一句。</p>
+<p>什么值得买评论区也欢迎提问，我看到会回复。</p>
+<p>觉得有用的话点个赞支持一下，后面会继续分享字幕自动匹配、网盘聚合、远程访问这些进阶内容。</p>
+</article><div class="post-copyright"><div class="copyright-cc-box"><i class="anzhiyufont anzhiyu-icon-copyright"></i></div><div class="post-copyright__author_box"><a class="post-copyright__author_img" href="/" title="头像"><img class="post-copyright__author_img_back" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://bu.dusays.com/2021/01/15/22a595b2d19cc.png" title="头像" alt="头像"><img class="post-copyright__author_img_front" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://bu.dusays.com/2021/01/15/22a595b2d19cc.png" title="头像" alt="头像"></a><div class="post-copyright__author_name">chenpeng0738@sina.com</div><div class="post-copyright__author_desc"></div></div><div class="post-copyright__post__info"><a class="post-copyright__original" title="该文章为原创文章，注意版权协议" href="https://blog.陈鹏.us.kg/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/">原创</a><a class="post-copyright-title"><span onclick="rm.copyPageUrl('https://blog.陈鹏.us.kg/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/')">告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了</span></a></div><div class="post-tools" id="post-tools"><div class="post-tools-left"><div class="rewardLeftButton"><div class="post-reward" onclick="anzhiyu.addRewardMask()"><div class="reward-button button--animated" title="赞赏作者"><i class="anzhiyufont anzhiyu-icon-hand-heart-fill"></i>打赏作者</div><div class="reward-main"><div class="reward-all"><span class="reward-title">感谢你赐予我前进的力量</span><ul class="reward-group"><li class="reward-item"><a href="https:/r2.950320.xyz/blog/weixinpay.jpg" target="_blank"><img class="post-qr-code-img" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https:/r2.950320.xyz/blog/weixinpay.jpg" alt="微信"/></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https:/r2.950320.xyz/blog/alypay.jpg" target="_blank"><img class="post-qr-code-img" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https:/r2.950320.xyz/blog/alypay.jpg" alt="支付宝"/></a><div class="post-qr-code-desc">支付宝</div></li></ul><a class="reward-main-btn" href="/about/#about-reward" target="_blank"><div class="reward-text">赞赏者名单</div><div class="reward-dec">因为你们的支持让我意识到写文章的价值🙏</div></a></div></div></div><div id="quit-box" onclick="anzhiyu.removeRewardMask()" style="display: none"></div></div><div class="shareRight"><div class="share-link mobile"><div class="share-qrcode"><div class="share-button" title="使用手机访问这篇文章"><i class="anzhiyufont anzhiyu-icon-qrcode"></i></div><div class="share-main"><div class="share-main-all"><div id="qrcode" title="https://blog.陈鹏.us.kg/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/"></div><div class="reward-dec">使用手机访问这篇文章</div></div></div></div></div><div class="share-link weibo"><a class="share-button" target="_blank" href="https://service.weibo.com/share/share.php?title=告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了&amp;url=https://blog.陈鹏.us.kg/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/&amp;pic=" rel="external nofollow noreferrer noopener"><i class="anzhiyufont anzhiyu-icon-weibo"></i></a></div><script>function copyCurrentPageUrl() {
+  var currentPageUrl = window.location.href;
+  var input = document.createElement("input");
+  input.setAttribute("value", currentPageUrl);
+  document.body.appendChild(input);
+  input.select();
+  input.setSelectionRange(0, 99999);
+  document.execCommand("copy");
+  document.body.removeChild(input);
+}</script><div class="share-link copyurl"><div class="share-button" id="post-share-url" title="复制链接" onclick="copyCurrentPageUrl()"><i class="anzhiyufont anzhiyu-icon-link"></i></div></div></div></div></div><div class="post-copyright__notice"><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://blog.陈鹏.us.kg" target="_blank">陈鹏衰哥哥的小窝</a>！</span></div></div><div class="post-tools-right"><div class="tag_share"><div class="post-meta__box"><div class="post-meta__box__tag-list"><a class="post-meta__box__tags" href="/tags/NAS/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>NAS<span class="tagsPageCount">1</span></a><a class="post-meta__box__tags" href="/tags/Docker/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>Docker<span class="tagsPageCount">1</span></a><a class="post-meta__box__tags" href="/tags/MoviePilot/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>MoviePilot<span class="tagsPageCount">1</span></a><a class="post-meta__box__tags" href="/tags/Emby/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>Emby<span class="tagsPageCount">1</span></a><a class="post-meta__box__tags" href="/tags/qBittorrent/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>qBittorrent<span class="tagsPageCount">1</span></a></div></div></div><div class="post_share"><div class="social-share" data-image="https://bu.dusays.com/2021/01/15/22a595b2d19cc.png" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.cbd.int/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"/><script src="https://cdn.cbd.int/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer="defer"></script></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-full"><a href="/2025/03/16/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%83%E8%AF%BE-%E4%BA%A4%E4%BB%98%E7%BB%A9%E6%95%88%E5%9F%9F/"><img class="prev-cover" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://r2.950320.xyz/PicGo/.4cdcfe4171624bb98d7e75b009321971~tplv-5jbd59dj06-image.png" onerror="onerror=null;src='/img/404.jpg'" alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">PMP学习第七课-交付绩效域</div></div></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="card-content"><div class="author-info-avatar"><img class="avatar-img" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://bu.dusays.com/2021/01/15/22a595b2d19cc.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__description">陈鹏衰哥哥的小窝，体温37度2，一个用不发骚的男人！</div></div></div><div class="card-widget anzhiyu-right-widget" id="card-wechat" onclick="null"><div id="flip-wrapper"><div id="flip-content"><div class="face" style="background: url(https://bu.dusays.com/2023/01/13/63c02edf44033.png) center center / 100% no-repeat"></div><div class="back face" style="background: url(https://bu.dusays.com/2023/05/13/645fa415e8694.png) center center / 100% no-repeat"></div></div></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-bars"></i><span>文章目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87%EF%BC%8C%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F%EF%BC%8C%E6%96%B0%E5%89%A7%E6%9B%B4%E6%96%B0%E8%87%AA%E5%B7%B1%E4%B8%8B%E5%A5%BD%E4%BA%86"><span class="toc-number">1.</span> <span class="toc-text">告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E9%83%A8%E7%BD%B2%E4%B8%8B%E8%BD%BD%E5%99%A8-qBittorrent"><span class="toc-number">1.1.</span> <span class="toc-text">第一步：部署下载器 qBittorrent</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E9%83%A8%E7%BD%B2-MoviePilot"><span class="toc-number">1.2.</span> <span class="toc-text">第二步：部署 MoviePilot</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#MoviePilot-%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE"><span class="toc-number">1.2.1.</span> <span class="toc-text">MoviePilot 初始配置</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E4%B8%89%E6%AD%A5%EF%BC%9A%E9%83%A8%E7%BD%B2-Emby"><span class="toc-number">1.3.</span> <span class="toc-text">第三步：部署 Emby</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AC%AC%E5%9B%9B%E6%AD%A5%EF%BC%9A%E7%94%A8-Sun-Panel-%E5%81%9A%E4%B8%AA%E5%AF%BC%E8%88%AA%E9%A1%B5"><span class="toc-number">1.4.</span> <span class="toc-text">第四步：用 Sun-Panel 做个导航页</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%B8%A9%E5%9D%91%E6%80%BB%E7%BB%93"><span class="toc-number">1.5.</span> <span class="toc-text">踩坑总结</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%9C%80%E5%90%8E"><span class="toc-number">1.6.</span> <span class="toc-text">最后</span></a></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-history"></i><span>最近发布</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2026/04/07/%E5%91%8A%E5%88%AB%E6%89%8B%E5%8A%A8%E6%89%BE%E7%89%87-%E6%88%91%E7%94%A8MoviePilot%E6%90%AD%E4%BA%86%E5%A5%97%E8%87%AA%E5%8A%A8%E8%BF%BD%E5%89%A7%E7%B3%BB%E7%BB%9F/" title="告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了">告别手动找片，我用MoviePilot搭了套自动追剧系统，新剧更新自己下好了</a><time datetime="2026-04-07T09:30:00.000Z" title="发表于 2026-04-07 17:30:00">2026-04-07</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/03/16/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%83%E8%AF%BE-%E4%BA%A4%E4%BB%98%E7%BB%A9%E6%95%88%E5%9F%9F/" title="PMP学习第七课-交付绩效域"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://r2.950320.xyz/PicGo/.4cdcfe4171624bb98d7e75b009321971~tplv-5jbd59dj06-image.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="PMP学习第七课-交付绩效域"/></a><div class="content"><a class="title" href="/2025/03/16/PMP%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%83%E8%AF%BE-%E4%BA%A4%E4%BB%98%E7%BB%A9%E6%95%88%E5%9F%9F/" title="PMP学习第七课-交付绩效域">PMP学习第七课-交付绩效域</a><time datetime="2025-03-16T11:56:34.695Z" title="发表于 2025-03-16 19:56:34">2025-03-16</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/03/06/PMP%E7%B2%BE%E5%8D%8E%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B%E7%BB%84/" title="PMP精华第三章-启动过程组"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://r2.950320.xyz/PicGo/.2b2f446e-f236-448b-844c-946e8c2c9a19_0.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="PMP精华第三章-启动过程组"/></a><div class="content"><a class="title" href="/2025/03/06/PMP%E7%B2%BE%E5%8D%8E%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B%E7%BB%84/" title="PMP精华第三章-启动过程组">PMP精华第三章-启动过程组</a><time datetime="2025-03-06T12:08:07.468Z" title="发表于 2025-03-06 20:08:07">2025-03-06</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/03/06/PMP%E7%B2%BE%E5%8D%8E%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E9%A1%B9%E7%9B%AE%E7%8E%AF%E5%A2%83/" title="PMP精华第二章-项目环境"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://r2.950320.xyz/PicGo/.2b2f446e-f236-448b-844c-946e8c2c9a19_0.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="PMP精华第二章-项目环境"/></a><div class="content"><a class="title" href="/2025/03/06/PMP%E7%B2%BE%E5%8D%8E%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E9%A1%B9%E7%9B%AE%E7%8E%AF%E5%A2%83/" title="PMP精华第二章-项目环境">PMP精华第二章-项目环境</a><time datetime="2025-03-06T11:54:33.927Z" title="发表于 2025-03-06 19:54:33">2025-03-06</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/03/06/PMP%E7%B2%BE%E5%8D%8E%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%BC%95%E8%AE%BA/" title="PMP精华第一章-引论"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://r2.950320.xyz/PicGo/.2b2f446e-f236-448b-844c-946e8c2c9a19_0.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="PMP精华第一章-引论"/></a><div class="content"><a class="title" href="/2025/03/06/PMP%E7%B2%BE%E5%8D%8E%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%BC%95%E8%AE%BA/" title="PMP精华第一章-引论">PMP精华第一章-引论</a><time datetime="2025-03-06T11:36:50.255Z" title="发表于 2025-03-06 19:36:50">2025-03-06</time></div></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"></div><div id="footer-bar"><div class="footer-bar-links"><div class="footer-bar-left"><div id="footer-bar-tips"><div class="copyright">&copy;2025 - 2026 By <a class="footer-bar-link" href="/" title="chenpeng0738@sina.com" target="_blank">chenpeng0738@sina.com</a></div></div><div id="footer-type-tips"></div></div><div class="footer-bar-right"><a class="footer-bar-link" target="_blank" rel="noopener" href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu" title="主题">主题</a></div></div></div></footer></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="sidebar-site-data site-data is-center"><a href="/archives/" title="archive"><div class="headline">文章</div><div class="length-num">14</div></a><a href="/tags/" title="tag"><div class="headline">标签</div><div class="length-num">7</div></a><a href="/categories/" title="category"><div class="headline">分类</div><div class="length-num">3</div></a></div><span class="sidebar-menu-item-title">功能</span><div class="sidebar-menu-item"><a class="darkmode_switchbutton menu-child" href="javascript:void(0);" title="显示模式"><i class="anzhiyufont anzhiyu-icon-circle-half-stroke"></i><span>显示模式</span></a></div><div class="back-menu-list-groups"><div class="back-menu-list-group"><div class="back-menu-list-title">网页</div><div class="back-menu-list"><a class="back-menu-item" target="_blank" rel="noopener" href="https://blog.anheyu.com/" title="陈鹏衰哥哥的blog"><img class="back-menu-item-icon" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="/img/favicon.ico" alt="陈鹏衰哥哥的blog"/><span class="back-menu-item-text">陈鹏衰哥哥的blog</span></a></div></div><div class="back-menu-list-group"><div class="back-menu-list-title">项目</div><div class="back-menu-list"><a class="back-menu-item" target="_blank" rel="noopener" href="https://image.anheyu.com/" title="安知鱼图床"><img class="back-menu-item-icon" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.anheyu.com/favicon.ico" alt="安知鱼图床"/><span class="back-menu-item-text">安知鱼图床</span></a></div></div></div><span class="sidebar-menu-item-title">标签</span><div class="card-tags"><div class="item-headline"></div><div class="card-tag-cloud"><a href="/tags/Docker/" style="font-size: 0.88rem;">Docker<sup>1</sup></a><a href="/tags/Emby/" style="font-size: 0.88rem;">Emby<sup>1</sup></a><a href="/tags/MoviePilot/" style="font-size: 0.88rem;">MoviePilot<sup>1</sup></a><a href="/tags/NAS/" style="font-size: 0.88rem;">NAS<sup>1</sup></a><a href="/tags/PMP/" style="font-size: 0.88rem;">PMP<sup>8</sup></a><a href="/tags/blog/" style="font-size: 0.88rem;">blog<sup>2</sup></a><a href="/tags/qBittorrent/" style="font-size: 0.88rem;">qBittorrent<sup>1</sup></a></div></div><hr/></div></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="anzhiyufont anzhiyu-icon-book-open"></i></button><button id="translateLink" type="button" title="简繁转换">繁</button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="anzhiyufont anzhiyu-icon-circle-half-stroke"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="anzhiyufont anzhiyu-icon-arrows-left-right"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="anzhiyufont anzhiyu-icon-gear"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="anzhiyufont anzhiyu-icon-list-ul"></i></button><button id="go-up" type="button" title="回到顶部"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></button></div></div><div id="nav-music"><a id="nav-music-hoverTips" onclick="anzhiyu.musicToggle()" accesskey="m">播放音乐</a><div id="console-music-bg"></div><meting-js id="8152976493" server="netease" type="playlist" mutex="true" preload="none" theme="var(--anzhiyu-main)" data-lrctype="0" order="random" volume="0.7"></meting-js></div><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="anzhiyufont anzhiyu-icon-xmark"></i></button></nav><div class="is-center" id="loading-database"><i class="anzhiyufont anzhiyu-icon-spinner anzhiyu-pulse-icon"></i><span>  数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div></div></div><div id="search-mask"></div></div><div id="rightMenu"><div class="rightMenu-group rightMenu-small"><div class="rightMenu-item" id="menu-backward"><i class="anzhiyufont anzhiyu-icon-arrow-left"></i></div><div class="rightMenu-item" id="menu-forward"><i class="anzhiyufont anzhiyu-icon-arrow-right"></i></div><div class="rightMenu-item" id="menu-refresh"><i class="anzhiyufont anzhiyu-icon-arrow-rotate-right" style="font-size: 1rem;"></i></div><div class="rightMenu-item" id="menu-top"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></div></div><div class="rightMenu-group rightMenu-line rightMenuPlugin"><div class="rightMenu-item" id="menu-copytext"><i class="anzhiyufont anzhiyu-icon-copy"></i><span>复制选中文本</span></div><div class="rightMenu-item" id="menu-pastetext"><i class="anzhiyufont anzhiyu-icon-paste"></i><span>粘贴文本</span></div><a class="rightMenu-item" id="menu-commenttext"><i class="anzhiyufont anzhiyu-icon-comment-medical"></i><span>引用到评论</span></a><div class="rightMenu-item" id="menu-newwindow"><i class="anzhiyufont anzhiyu-icon-window-restore"></i><span>新窗口打开</span></div><div class="rightMenu-item" id="menu-copylink"><i class="anzhiyufont anzhiyu-icon-link"></i><span>复制链接地址</span></div><div class="rightMenu-item" id="menu-copyimg"><i class="anzhiyufont anzhiyu-icon-images"></i><span>复制此图片</span></div><div class="rightMenu-item" id="menu-downloadimg"><i class="anzhiyufont anzhiyu-icon-download"></i><span>下载此图片</span></div><div class="rightMenu-item" id="menu-newwindowimg"><i class="anzhiyufont anzhiyu-icon-window-restore"></i><span>新窗口打开图片</span></div><div class="rightMenu-item" id="menu-search"><i class="anzhiyufont anzhiyu-icon-magnifying-glass"></i><span>站内搜索</span></div><div class="rightMenu-item" id="menu-searchBaidu"><i class="anzhiyufont anzhiyu-icon-magnifying-glass"></i><span>百度搜索</span></div><div class="rightMenu-item" id="menu-music-toggle"><i class="anzhiyufont anzhiyu-icon-play"></i><span>播放音乐</span></div><div class="rightMenu-item" id="menu-music-back"><i class="anzhiyufont anzhiyu-icon-backward"></i><span>切换到上一首</span></div><div class="rightMenu-item" id="menu-music-forward"><i class="anzhiyufont anzhiyu-icon-forward"></i><span>切换到下一首</span></div><div class="rightMenu-item" id="menu-music-playlist" onclick="window.open(&quot;https://y.qq.com/n/ryqq/playlist/8802438608&quot;, &quot;_blank&quot;);" style="display: none;"><i class="anzhiyufont anzhiyu-icon-radio"></i><span>查看所有歌曲</span></div><div class="rightMenu-item" id="menu-music-copyMusicName"><i class="anzhiyufont anzhiyu-icon-copy"></i><span>复制歌名</span></div></div><div class="rightMenu-group rightMenu-line rightMenuOther"><a class="rightMenu-item menu-link" id="menu-randomPost"><i class="anzhiyufont anzhiyu-icon-shuffle"></i><span>随便逛逛</span></a><a class="rightMenu-item menu-link" href="/categories/"><i class="anzhiyufont anzhiyu-icon-cube"></i><span>博客分类</span></a><a class="rightMenu-item menu-link" href="/tags/"><i class="anzhiyufont anzhiyu-icon-tags"></i><span>文章标签</span></a></div><div class="rightMenu-group rightMenu-line rightMenuOther"><a class="rightMenu-item" id="menu-copy" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-copy"></i><span>复制地址</span></a><a class="rightMenu-item" id="menu-commentBarrage" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-message"></i><span class="menu-commentBarrage-text">关闭热评</span></a><a class="rightMenu-item" id="menu-darkmode" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-circle-half-stroke"></i><span class="menu-darkmode-text">深色模式</span></a><a class="rightMenu-item" id="menu-translate" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-language"></i><span>轉為繁體</span></a></div></div><div id="rightmenu-mask"></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.cbd.int/@fancyapps/ui@5.0.28/dist/fancybox/fancybox.umd.js"></script><script src="https://cdn.cbd.int/instant.page@5.2.0/instantpage.js" type="module"></script><script src="https://cdn.cbd.int/vanilla-lazyload@17.8.5/dist/lazyload.iife.min.js"></script><script src="https://cdn.cbd.int/node-snackbar@0.1.16/dist/snackbar.min.js"></script><canvas id="universe"></canvas><script async src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/dark/dark.js"></script><script>// 消除控制台打印
+var HoldLog = console.log;
+console.log = function () {};
+let now1 = new Date();
+queueMicrotask(() => {
+  const Log = function () {
+    HoldLog.apply(console, arguments);
+  }; //在恢复前输出日志
+  const grt = new Date("04/01/2021 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  now1.setTime(now1.getTime() + 250);
+  const days = (now1 - grt) / 1000 / 60 / 60 / 24;
+  const dnum = Math.floor(days);
+  const ascll = [
+    `欢迎使用安知鱼!`,
+    `生活明朗, 万物可爱`,
+    `
+        
+       █████╗ ███╗   ██╗███████╗██╗  ██╗██╗██╗   ██╗██╗   ██╗
+      ██╔══██╗████╗  ██║╚══███╔╝██║  ██║██║╚██╗ ██╔╝██║   ██║
+      ███████║██╔██╗ ██║  ███╔╝ ███████║██║ ╚████╔╝ ██║   ██║
+      ██╔══██║██║╚██╗██║ ███╔╝  ██╔══██║██║  ╚██╔╝  ██║   ██║
+      ██║  ██║██║ ╚████║███████╗██║  ██║██║   ██║   ╚██████╔╝
+      ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝
+        
+        `,
+    "已上线",
+    dnum,
+    "天",
+    "©2025 By 安知鱼 V1.6.14",
+  ];
+  const ascll2 = [`NCC2-036`, `调用前置摄像头拍照成功，识别为【小笨蛋】.`, `Photo captured: `, `🤪`];
+
+  setTimeout(
+    Log.bind(
+      console,
+      `\n%c${ascll[0]} %c ${ascll[1]} %c ${ascll[2]} %c${ascll[3]}%c ${ascll[4]}%c ${ascll[5]}\n\n%c ${ascll[6]}\n`,
+      "color:#425AEF",
+      "",
+      "color:#425AEF",
+      "color:#425AEF",
+      "",
+      "color:#425AEF",
+      ""
+    )
+  );
+  setTimeout(
+    Log.bind(
+      console,
+      `%c ${ascll2[0]} %c ${ascll2[1]} %c \n${ascll2[2]} %c\n${ascll2[3]}\n`,
+      "color:white; background-color:#4fd953",
+      "",
+      "",
+      'background:url("https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/tinggge.gif") no-repeat;font-size:450%'
+    )
+  );
+
+  setTimeout(Log.bind(console, "%c WELCOME %c 你好，小笨蛋.", "color:white; background-color:#4f90d9", ""));
+
+  setTimeout(
+    console.warn.bind(
+      console,
+      "%c ⚡ Powered by 安知鱼 %c 你正在访问 chenpeng0738@sina.com 的博客.",
+      "color:white; background-color:#f0ad4e",
+      ""
+    )
+  );
+
+  setTimeout(Log.bind(console, "%c W23-12 %c 你已打开控制台.", "color:white; background-color:#4f90d9", ""));
+
+  setTimeout(
+    console.warn.bind(console, "%c S013-782 %c 你现在正处于监控中.", "color:white; background-color:#d9534f", "")
+  );
+});</script><script async src="/anzhiyu/random.js"></script><script src="/js/search/local-search.js"></script><div class="js-pjax"><input type="hidden" name="page-type" id="page-type" value="post"></div><script>var visitorMail = "";
+</script><script async data-pjax src="https://cdn.cbd.int/anzhiyu-theme-static@1.0.0/waterfall/waterfall.js"></script><script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/qrcodejs/1.0.0/qrcode.min.js"></script><link rel="stylesheet" href="https://cdn.cbd.int/anzhiyu-theme-static@1.1.9/icon/ali_iconfont_css.css"><canvas class="fireworks" mobile="false"></canvas><script src="https://cdn.cbd.int/butterfly-extsrc@1.1.3/dist/fireworks.min.js"></script><link rel="stylesheet" href="https://cdn.cbd.int/anzhiyu-theme-static@1.0.0/aplayer/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.cbd.int/anzhiyu-blog-static@1.0.1/js/APlayer.min.js"></script><script src="https://cdn.cbd.int/hexo-anzhiyu-music@1.0.1/assets/js/Meting2.min.js"></script><script src="https://cdn.cbd.int/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+  // removeEventListener scroll 
+  anzhiyu.removeGlobalFnEvent('pjax')
+  anzhiyu.removeGlobalFnEvent('themeChange')
+
+  document.getElementById('rightside').classList.remove('rightside-show')
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+})
+
+document.addEventListener('pjax:error', e => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script charset="UTF-8" src="https://cdn.cbd.int/anzhiyu-theme-static@1.1.5/accesskey/accesskey.js"></script></div><div id="popup-window"><div class="popup-window-title">通知</div><div class="popup-window-divider"></div><div class="popup-window-content"><div class="popup-tip">你好呀</div><div class="popup-link"><i class="anzhiyufont anzhiyu-icon-arrow-circle-right"></i></div></div></div></body></html>
